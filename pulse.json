@@ -1,0 +1,67 @@
+{
+ "asOf": "2026-10-09",
+ "id": "2026-10-09",
+ "label": "Fri, Oct 9",
+ "questions": [
+  {
+   "a": [
+    "About 7,800",
+    "About 6,500",
+    "About 9,100",
+    "About 5,200"
+   ],
+   "d": 1,
+   "e": "The S&P 500 rose about 0.6% to close near 7,812, as stocks rallied into the start of third-quarter earnings season.",
+   "h": "Just over seven thousand eight hundred.",
+   "q": "About where did the S&P 500 close on Friday, October 9, 2026?"
+  },
+  {
+   "a": [
+    "Fell to 46.3 from 48.1 in September",
+    "Rose to 62.0 from 48.1 in September",
+    "Stayed exactly at 48.1",
+    "Jumped above 80 for the first time in years"
+   ],
+   "d": 1,
+   "e": "Sentiment slipped to 46.3, below economists' forecasts, with consumers pointing to cost-of-living pressures. The survey measures how Americans feel about their finances and the economy.",
+   "h": "It went down, but only a little.",
+   "q": "The University of Michigan's preliminary October consumer sentiment index, released October 9, did what?"
+  },
+  {
+   "a": [
+    "SpaceX",
+    "Amazon",
+    "Apple",
+    "Alphabet"
+   ],
+   "d": 1,
+   "e": "Investors saw SpaceX's spectrum purchase as a sign it could compete more directly with the big carriers for mobile customers, using its Starlink satellites.",
+   "h": "It also runs Starlink.",
+   "q": "Shares of T-Mobile, AT&T and Verizon fell sharply on October 9 after which company agreed to buy a nationwide wireless spectrum portfolio?"
+  },
+  {
+   "a": [
+    "About 5.25%",
+    "About 3.25%",
+    "About 1.25%",
+    "About 7.25%"
+   ],
+   "d": 2,
+   "e": "The 10-year yield held near 5.24% to 5.25%, little changed on the day. It influences borrowing costs such as mortgage rates.",
+   "h": "A little above 5%.",
+   "q": "Around what level was the 10-year U.S. Treasury yield trading on October 9, 2026?"
+  },
+  {
+   "a": [
+    "$5.10 to $5.60",
+    "$1.00 to $1.50",
+    "$12.00 to $14.00",
+    "$25.00 to $30.00"
+   ],
+   "d": 3,
+   "e": "Delta lowered its 2026 adjusted EPS guidance to $5.10 to $5.60, saying it was absorbing about $6 billion in higher fuel costs this year.",
+   "h": "Between five and six dollars.",
+   "q": "Delta Air Lines reported earnings October 9 and cut its 2026 earnings-per-share outlook, citing much higher fuel costs. What was the new full-year range?"
+  }
+ ]
+}

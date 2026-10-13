@@ -1,0 +1,1416 @@
+[
+ {
+  "id": "ep-mm15",
+  "series": "Motivation Monday",
+  "ep": "EP15",
+  "title": "The Motivation Debt",
+  "order": 385,
+  "cat": "L",
+  "questions": [
+   {
+    "a": [
+     "Continually spending future energy to avoid making present decisions",
+     "Borrowing money to pay for self-improvement courses",
+     "Losing ambition after a big failure",
+     "Owing favors to people who motivated you"
+    ],
+    "d": 1,
+    "e": "Donald calls it a metaphor for borrowing energy from tomorrow to put off decisions today — and tomorrow eventually becomes today.",
+    "h": "It's about borrowing from tomorrow.",
+    "q": "According to the episode, what is 'motivation debt'?"
+   },
+   {
+    "a": [
+     "Pause new borrowing, Audit open loops, Identify the highest interest burden, Discharge the debt",
+     "Plan, Act, Improve, Deliver",
+     "Prioritize, Assign, Ignore, Delay",
+     "Pay, Adjust, Invest, Diversify"
+    ],
+    "d": 1,
+    "e": "Donald's PAID method: stop taking on new commitments, list open loops, find the costliest one, then take one decisive action on it.",
+    "h": "Its last step is 'Discharge the debt.'",
+    "q": "What does the PAID method stand for?"
+   },
+   {
+    "a": [
+     "Finish, cancel, delegate, renegotiate",
+     "Urgent, important, optional, someday",
+     "Start, stop, continue, review",
+     "Work, family, health, money"
+    ],
+    "d": 2,
+    "e": "Every open loop needs a decision, and he warns against a fifth category: 'continue feeling guilty while doing nothing.'",
+    "h": "There's no category for 'feel guilty.'",
+    "q": "When auditing open loops, which four categories does Donald say each obligation goes into?"
+   },
+   {
+    "a": [
+     "Unfinished obligations are open loops that keep drawing attention",
+     "They are not drinking enough coffee",
+     "They need a more elaborate morning routine",
+     "They have too few goals to stay motivated"
+    ],
+    "d": 1,
+    "e": "Every yes creates an obligation and every unfinished one becomes an open loop — the mind is 'managing forty invisible tabs.'",
+    "h": "Think of invisible browser tabs.",
+    "q": "According to the episode, why can someone do very little and still feel exhausted?"
+   },
+   {
+    "a": [
+     "An energy allocation document",
+     "A to-do list with dates",
+     "A promise to other people",
+     "A record of your past"
+    ],
+    "d": 2,
+    "e": "He frames the calendar as where you decide how energy gets spent — so ask what each yes is saying no to.",
+    "h": "It allocates something besides time.",
+    "q": "Donald says your calendar is not just a schedule. What does he call it?"
+   },
+   {
+    "a": [
+     "Allocation",
+     "Perseverance",
+     "Preservation",
+     "Momentum"
+    ],
+    "d": 2,
+    "e": "The bull understands perseverance, the bear preservation, and the humanoid allocation — and sustainable success needs all three.",
+    "h": "Energy is capital to be allocated.",
+    "q": "In the bull, bear and humanoid segment, what does the humanoid understand?"
+   },
+   {
+    "a": [
+     "It grows heavier — avoidance charges interest",
+     "It shrinks until it no longer matters",
+     "It stays exactly the same size",
+     "It becomes someone else's responsibility"
+    ],
+    "d": 1,
+    "e": "Your imagination keeps adding weight to avoided tasks. 'Avoidance charges interest. Decision creates relief.'",
+    "h": "Debts left unpaid tend to grow.",
+    "q": "According to the episode, how does avoiding a task affect it over time?"
+   },
+   {
+    "a": [
+     "Start a brand-new ambitious project",
+     "Complete one unfinished action",
+     "Cancel or renegotiate one unnecessary obligation",
+     "Protect one block of recovery"
+    ],
+    "d": 2,
+    "e": "His three payments are completing one action, cancelling or renegotiating one obligation, and protecting recovery time — not adding more commitments.",
+    "h": "The goal is fewer withdrawals, not more.",
+    "q": "Which is NOT one of the three 'payments' Donald asks listeners to make before the day ends?"
+   }
+  ]
+ },
+ {
+  "id": "ep-fff14",
+  "series": "Future Forward Friday",
+  "ep": "EP14",
+  "title": "The Self-Driving Discovery Machine",
+  "order": 13,
+  "cat": "R",
+  "yt": "z__mmAwY5yw",
+  "questions": [
+   {
+    "a": [
+     "It runs a closed loop, choosing the next experiment based on what it just learned",
+     "It only repeats preset instructions faster",
+     "It works without any computers",
+     "It replaces the need for any human goals"
+    ],
+    "d": 1,
+    "e": "A conventional robot repeats instructions; a self-driving lab proposes, runs, measures, learns and picks the next experiment.",
+    "h": "Think 'closed loop.'",
+    "q": "What makes a self-driving lab different from a conventional lab robot?"
+   },
+   {
+    "a": [
+     "Human time",
+     "Lack of ideas",
+     "Too many laboratories",
+     "Cheap equipment"
+    ],
+    "d": 1,
+    "e": "Scientists need sleep, labs close and equipment sits unused, so teams test only a fraction of possibilities.",
+    "h": "Scientists need sleep.",
+    "q": "According to the episode, what is the main bottleneck in traditional scientific discovery?"
+   },
+   {
+    "a": [
+     "Predict, make, measure, learn, repeat",
+     "Buy, hold, sell, repeat",
+     "Plan, wait, approve, publish",
+     "Guess, test, stop"
+    ],
+    "d": 2,
+    "e": "The loop's key question is 'based on what we know now, what should we test next?'",
+    "h": "Five verbs ending in repeat.",
+    "q": "What is the heartbeat of autonomous discovery, as summarized in the episode?"
+   },
+   {
+    "a": [
+     "Define the objective and set safety boundaries",
+     "Nothing, machines handle everything",
+     "Only clean the equipment",
+     "Only sell the results"
+    ],
+    "d": 1,
+    "e": "Machines need a destination; humans define goals, safety limits and which outcomes matter.",
+    "h": "The machine still needs a destination.",
+    "q": "Even in autonomous discovery, what do humans still do, per the episode?"
+   },
+   {
+    "a": [
+     "Lawrence Berkeley National Laboratory",
+     "Los Alamos National Laboratory",
+     "Oak Ridge National Laboratory",
+     "Sandia National Laboratories"
+    ],
+    "d": 2,
+    "e": "Berkeley Lab's A-Lab links predictions, robotic synthesis and analysis, with early work on battery-relevant materials.",
+    "h": "It's in Berkeley, California.",
+    "q": "Which national lab's 'A-Lab' uses AI and robotics to make and test inorganic materials?"
+   },
+   {
+    "a": [
+     "AI efficiently optimizes a measurement that doesn't match the real goal",
+     "Robots aim at the wrong shelf",
+     "The lab runs out of materials",
+     "Scientists pick the wrong lab building"
+    ],
+    "d": 2,
+    "e": "A material can ace one lab test yet fail in the real world; objective design is everything.",
+    "h": "Optimization is powerful, objective design is everything.",
+    "q": "What is the 'wrong target' risk in self-driving labs?"
+   },
+   {
+    "a": [
+     "An interesting claim, not a breakthrough",
+     "A proven breakthrough",
+     "A patent",
+     "A finished product"
+    ],
+    "d": 2,
+    "e": "A discovery must survive independent testing before it counts as a breakthrough.",
+    "h": "The reproducibility gap.",
+    "q": "Per the episode, if another lab cannot reproduce a result, what do we have?"
+   },
+   {
+    "a": [
+     "Governance",
+     "Marketing",
+     "Advertising",
+     "Retail distribution"
+    ],
+    "d": 3,
+    "e": "The six layers are data, models, compute, robotics, instrumentation and governance.",
+    "h": "Who approves objectives and can stop the process?",
+    "q": "Which is the sixth layer of the episode's 'discovery stack'?"
+   }
+  ]
+ },
+ {
+  "id": "ep-wsw-oct8",
+  "series": "Wall Street Wednesday",
+  "ep": "EP14",
+  "title": "When Records Lie",
+  "order": 12,
+  "cat": "M",
+  "yt": "s-gMMpCfcz0",
+  "questions": [
+   {
+    "a": [
+     "By market capitalization, so larger companies have more influence",
+     "Equally, every company has the same influence",
+     "By share price, like the Dow",
+     "By number of employees"
+    ],
+    "d": 1,
+    "e": "The S&P 500 is market-cap weighted, so the biggest companies move the index most.",
+    "h": "Bigger companies get louder voices.",
+    "q": "How is the S&P 500 generally weighted?"
+   },
+   {
+    "a": [
+     "The one rising company is so large it outweighs the four smaller decliners",
+     "The index ignores losing stocks",
+     "The losers were removed from the index",
+     "Dividends were added to the index"
+    ],
+    "d": 2,
+    "e": "In a cap-weighted index, a big gain in a huge company can outweigh modest losses in smaller ones. That's math, not manipulation.",
+    "h": "One trillion versus four 50-billion companies.",
+    "q": "In the five-company example, how can the index rise while four of five stocks fall?"
+   },
+   {
+    "a": [
+     "How is the average company performing?",
+     "How are only the largest companies performing?",
+     "What are interest rates doing?",
+     "How much are companies paying in dividends?"
+    ],
+    "d": 1,
+    "e": "Giving each company similar influence shows how the typical stock is doing, not just the giants.",
+    "h": "Every company gets the same vote.",
+    "q": "What question does an equal-weighted index help answer?"
+   },
+   {
+    "a": [
+     "How widely a market move is shared across stocks",
+     "The total dollar value of the market",
+     "How fast prices move in a day",
+     "The number of new IPOs"
+    ],
+    "d": 1,
+    "e": "Breadth looks at advancers vs. decliners, new highs, and stocks above moving averages to see who is participating.",
+    "h": "Is the whole team playing, or one superstar?",
+    "q": "What does market breadth measure?"
+   },
+   {
+    "a": [
+     "Leadership is concentrated, creating dependency on fewer companies",
+     "A crash is guaranteed soon",
+     "Every sector is rising together",
+     "Small caps are leading"
+    ],
+    "d": 2,
+    "e": "Narrow breadth doesn't automatically predict a crash, but concentration means fewer engines pull the train.",
+    "h": "Fewer engines pulling the train.",
+    "q": "According to the episode, what does narrow market breadth mean?"
+   },
+   {
+    "a": [
+     "Smaller companies",
+     "The 30 largest blue chips",
+     "Only technology companies",
+     "Foreign companies only"
+    ],
+    "d": 1,
+    "e": "The Russell 2000 is a widely followed small-cap index.",
+    "h": "Small, not giant.",
+    "q": "The Russell 2000 index tracks which kind of companies?"
+   },
+   {
+    "a": [
+     "Are reported profits turning into actual operating cash?",
+     "Did the CEO appear on TV?",
+     "Did the stock split this year?",
+     "How many analysts cover the stock?"
+    ],
+    "d": 2,
+    "e": "The four checks are revenue quality, margin quality, cash flow quality and guidance quality.",
+    "h": "Think of cash flow quality.",
+    "q": "Which is one of the four questions in the episode's 'earnings lie detector'?"
+   },
+   {
+    "a": [
+     "Stocks must compete with the higher yields bonds offer",
+     "Higher yields always raise company profits",
+     "Bonds stop trading when yields rise",
+     "Yields only affect foreign markets"
+    ],
+    "d": 2,
+    "e": "When government bonds pay more, investors may demand more from riskier assets, and indebted firms pay more to borrow.",
+    "h": "Think about competition for investor money.",
+    "q": "Why can higher Treasury yields pressure stocks, per the episode?"
+   }
+  ]
+ },
+ {
+  "id": "ep-tt-oct7",
+  "series": "Taco Tuesday",
+  "ep": "EP14",
+  "title": "Private Credit on the Menu",
+  "order": 11,
+  "cat": "M",
+  "yt": "q-Fhh63tdBs",
+  "questions": [
+   {
+    "a": [
+     "Privately negotiated loans from non-bank lenders like private credit funds",
+     "Publicly traded government bonds",
+     "Credit card debt held by consumers",
+     "Stocks sold in an IPO"
+    ],
+    "d": 1,
+    "e": "Private credit is lending negotiated directly between borrowers and private lenders, often outside traditional banks and public markets.",
+    "h": "Think of the 'shadow menu' behind the unmarked door.",
+    "q": "In the episode, what is private credit?"
+   },
+   {
+    "a": [
+     "Speed, customized terms and confidentiality",
+     "Guaranteed lower risk for the lender",
+     "It never has to be repaid",
+     "It trades on a stock exchange every second"
+    ],
+    "d": 1,
+    "e": "Private deals may move faster, be customized and stay confidential, though that doesn't make them safe.",
+    "h": "Fast, flexible and private.",
+    "q": "Which is a reason the episode gives for a company choosing private credit?"
+   },
+   {
+    "a": [
+     "The interest rate is a benchmark plus a spread, so it changes as the benchmark changes",
+     "The rate never changes over the loan's life",
+     "The borrower chooses the rate each month",
+     "The loan has no interest at all"
+    ],
+    "d": 2,
+    "e": "Many private loans charge a benchmark rate plus a spread, so payments rise or fall with the benchmark.",
+    "h": "The 'floating rate salsa.'",
+    "q": "What does 'floating rate' mean for many private credit loans?"
+   },
+   {
+    "a": [
+     "Lender income can rise while the borrower's credit quality gets worse",
+     "Private loans always outperform public bonds",
+     "Higher rates make borrowers safer",
+     "Lower fees mean higher risk"
+    ],
+    "d": 2,
+    "e": "Rising rates can raise lender income but consume borrower cash flow, making repayment harder.",
+    "h": "A bigger payment only matters if it can keep being paid.",
+    "q": "What is the 'private credit paradox' described in the episode?"
+   },
+   {
+    "a": [
+     "$4 million",
+     "$16 million",
+     "$10 million",
+     "$6 million"
+    ],
+    "d": 2,
+    "e": "The $4 million increase in interest is cash no longer available for hiring, investment or a cushion.",
+    "h": "Subtract the old bill from the new one.",
+    "q": "In the episode's example, a borrower's interest bill rises from $6 million to $10 million. How much less cash does it have for other uses?"
+   },
+   {
+    "a": [
+     "Contract rules that protect lenders and limit borrower behavior",
+     "Fees paid to fund managers",
+     "Taxes on interest income",
+     "Ratings issued by credit agencies"
+    ],
+    "d": 2,
+    "e": "Covenants can require financial ratios, limit extra debt and require regular reporting.",
+    "h": "The 'health inspector' of the taco truck.",
+    "q": "What are loan covenants?"
+   },
+   {
+    "a": [
+     "Its loans may trade rarely and be valued by models, not live market prices",
+     "Private loans cannot default",
+     "The government guarantees them",
+     "They are all short-term loans"
+    ],
+    "d": 3,
+    "e": "Prices that update less often can look stable, but that doesn't necessarily mean lower economic risk.",
+    "h": "Like a house without daily offers.",
+    "q": "Why might a private credit portfolio look less volatile than publicly traded credit?"
+   },
+   {
+    "a": [
+     "Is it compensation for understood risk, or for risk that is hard to see?",
+     "How quickly can it double?",
+     "Is it higher than a savings account?",
+     "Who else is buying it?"
+    ],
+    "d": 1,
+    "e": "Additional yield is pay for something; the investor must know what risk it compensates.",
+    "h": "Extra yield is 'not free guacamole.'",
+    "q": "What key question does the humanoid ask about private credit's extra yield?"
+   }
+  ]
+ },
+ {
+  "id": "ep-mm-oct6",
+  "series": "Motivation Monday",
+  "ep": "EP14",
+  "title": "The Approval Trap",
+  "order": 10,
+  "cat": "L",
+  "yt": "6YY00B9srg8",
+  "questions": [
+   {
+    "a": [
+     "The imagined reactions of people you picture judging your decision",
+     "A company's actual board of directors",
+     "A private investor club",
+     "An online forum for career advice"
+    ],
+    "d": 1,
+    "e": "Donald describes a room in your mind filled with the anticipated reactions of parents, partners, old bosses, friends and online audiences.",
+    "h": "It exists entirely inside your mind.",
+    "q": "According to the episode, what is the 'invisible boardroom'?"
+   },
+   {
+    "a": [
+     "Advice, permission, or applause",
+     "Money, time, or attention",
+     "Data, luck, or timing",
+     "Mentors, partners, or customers"
+    ],
+    "d": 1,
+    "e": "Advice sharpens a decision, permission transfers responsibility, and applause temporarily quiets insecurity.",
+    "h": "Three words, one of them is what an audience gives.",
+    "q": "The episode says you may be seeking one of three things when you ask for opinions. Which set is it?"
+   },
+   {
+    "a": [
+     "Transfer the emotional burden of choosing to someone else",
+     "Gather new information you lack",
+     "Celebrate a decision already made",
+     "Speed up the paperwork"
+    ],
+    "d": 2,
+    "e": "Permission asks 'is it safe to proceed?' so that if it fails, part of you can say 'but they agreed.'",
+    "h": "Think about who carries the blame.",
+    "q": "In the episode, what does seeking 'permission' attempt to do?"
+   },
+   {
+    "a": [
+     "The interest tax",
+     "The delay tax",
+     "The dilution tax",
+     "The self-trust tax"
+    ],
+    "d": 2,
+    "e": "The four parts are the delay, dilution, energy and self-trust taxes.",
+    "h": "The real four are delay, dilution, energy and self-trust.",
+    "q": "Which is NOT one of the four parts of the 'approval tax'?"
+   },
+   {
+    "a": [
+     "A strong idea gets watered down as everyone requests small changes",
+     "Losing ownership shares when raising money",
+     "Inflation reducing your savings",
+     "Spending energy rehearsing arguments"
+    ],
+    "d": 2,
+    "e": "By the time everyone approves, the idea is smaller and safer and no longer resembles the original opportunity.",
+    "h": "Make it safer, smaller, more familiar...",
+    "q": "What is the 'dilution tax' described in the episode?"
+   },
+   {
+    "a": [
+     "People with opinions but little responsibility for the outcome",
+     "People materially affected by your decision",
+     "People with relevant expertise",
+     "Your business partners"
+    ],
+    "d": 2,
+    "e": "Spectators may be sincere, but sincerity is not expertise and proximity is not authority.",
+    "h": "Think of a crowd watching, not playing.",
+    "q": "In the 'three circles' framework, who are the spectators?"
+   },
+   {
+    "a": [
+     "A filter that evaluates whether opinions are qualified and relevant",
+     "Pure conviction to move fast",
+     "A list of objections",
+     "Applause and encouragement"
+    ],
+    "d": 1,
+    "e": "The bull supplies conviction, the bear supplies caution, and the humanoid supplies a filter.",
+    "h": "No cheering, no fear, just analysis.",
+    "q": "In the approval tribunal, what does the humanoid supply?"
+   },
+   {
+    "a": [
+     "Attachment",
+     "Wisdom",
+     "A misunderstanding budget",
+     "Self-trust"
+    ],
+    "d": 3,
+    "e": "Donald says that if nothing could change your mind, you may not have conviction, you may have attachment.",
+    "h": "It's an emotional bond to the idea, not evidence.",
+    "q": "Per the episode, if no evidence could change your mind, what may you have instead of conviction?"
+   }
+  ]
+ },
+ {
+  "id": "ep-wsw04",
+  "series": "Wall Street Wednesday",
+  "ep": "EP04",
+  "title": "The Power of Time",
+  "order": 7,
+  "cat": "M",
+  "yt": "zCdHx8PGEMc",
+  "questions": [
+   {
+    "a": [
+     "Compounding",
+     "Rebalancing",
+     "Hedging",
+     "Leverage"
+    ],
+    "d": 1,
+    "e": "The longer money compounds, the more of your growth comes from earlier growth.",
+    "h": "Interest on interest.",
+    "q": "Earning returns on your previous returns is called..."
+   },
+   {
+    "a": [
+     "12 years",
+     "6 years",
+     "20 years",
+     "72 years"
+    ],
+    "d": 1,
+    "e": "72 divided by 6 is 12.",
+    "h": "Divide 72 by the rate.",
+    "q": "Using the Rule of 72, money growing at 6% a year doubles in about..."
+   },
+   {
+    "a": [
+     "Close to its biggest down days",
+     "Only in January",
+     "Only in bull markets",
+     "On holidays"
+    ],
+    "d": 2,
+    "e": "That's why selling during a panic often means missing the rebound.",
+    "h": "They cluster together.",
+    "q": "The market's biggest up days often happen..."
+   },
+   {
+    "a": [
+     "Sharply reduce your long-term return",
+     "Double your return",
+     "Have no effect",
+     "Eliminate all risk"
+    ],
+    "d": 2,
+    "e": "A few big days account for a large share of long-run gains, and nobody can reliably predict them.",
+    "h": "Those few days matter a lot.",
+    "q": "Studies of the S&P 500 find that missing just a handful of its best days over decades can..."
+   },
+   {
+    "a": [
+     "Dollar-cost averaging",
+     "Market timing",
+     "Day trading",
+     "Short selling"
+    ],
+    "d": 2,
+    "e": "You automatically buy more shares when prices are low and fewer when they're high.",
+    "h": "Same dollars every time.",
+    "q": "Investing the same amount on a regular schedule, no matter the price, is called..."
+   },
+   {
+    "a": [
+     "Much more money at retirement, thanks to 10 extra years of compounding",
+     "About the same amount",
+     "Less money",
+     "Exactly double the contributions only"
+    ],
+    "d": 2,
+    "e": "The early years have the most time to compound, so they can be the most valuable.",
+    "h": "Time does the heavy lifting.",
+    "q": "Starting at 25 instead of 35, with the same monthly savings and returns, usually means..."
+   },
+   {
+    "a": [
+     "About 7 out of 10 years",
+     "About 3 out of 10 years",
+     "Every single year",
+     "About 1 out of 10 years"
+    ],
+    "d": 2,
+    "e": "Down years happen regularly, but up years have been far more common over the long run.",
+    "h": "Most years.",
+    "q": "Since 1928, roughly how often has the S&P 500 ended a calendar year higher?"
+   },
+   {
+    "a": [
+     "Ride out more short-term ups and downs",
+     "Avoid all losses",
+     "Ignore fees",
+     "Skip diversification"
+    ],
+    "d": 1,
+    "e": "More time means more chance for a portfolio to recover from downturns before you need the money.",
+    "h": "Patience pays.",
+    "q": "A long time horizon generally lets an investor..."
+   }
+  ]
+ },
+ {
+  "id": "ep-tt11",
+  "series": "Taco Tuesday",
+  "ep": "EP11",
+  "title": "Preferred Stocks on the Menu",
+  "order": 6,
+  "cat": "P",
+  "yt": "vghlneKA17E",
+  "questions": [
+   {
+    "a": [
+     "Before common shareholders",
+     "After common shareholders",
+     "Only if the stock rises",
+     "Never"
+    ],
+    "d": 1,
+    "e": "That priority is the “preferred” part.",
+    "h": "First in line.",
+    "q": "Preferred shareholders usually get their dividends..."
+   },
+   {
+    "a": [
+     "Has no voting rights",
+     "Has more voting rights",
+     "Has unlimited upside",
+     "Is FDIC insured"
+    ],
+    "d": 2,
+    "e": "Preferred holders trade voting power for steadier income and priority on dividends.",
+    "h": "Less say.",
+    "q": "Compared with common stock, preferred stock usually..."
+   },
+   {
+    "a": [
+     "Must be paid before common dividends resume",
+     "Are lost forever",
+     "Turn into common shares",
+     "Are paid by the government"
+    ],
+    "d": 2,
+    "e": "Non-cumulative preferreds don't carry that protection.",
+    "h": "They pile up.",
+    "q": "With cumulative preferred stock, skipped dividends..."
+   },
+   {
+    "a": [
+     "Behind bondholders but ahead of common shareholders",
+     "Ahead of all lenders",
+     "Behind common shareholders",
+     "Equal to bondholders"
+    ],
+    "d": 2,
+    "e": "Preferreds sit in the middle of the capital structure.",
+    "h": "In the middle.",
+    "q": "In a bankruptcy, preferred shareholders rank..."
+   },
+   {
+    "a": [
+     "Interest rates rise",
+     "The company raises its dividend",
+     "Inflation falls",
+     "The stock market rallies"
+    ],
+    "d": 2,
+    "e": "Fixed payments become less attractive when new investments pay more.",
+    "h": "Think like a bond.",
+    "q": "Like bonds, preferred stock prices tend to fall when..."
+   },
+   {
+    "a": [
+     "$25",
+     "$1,000",
+     "$1",
+     "$100,000"
+    ],
+    "d": 2,
+    "e": "The dividend rate is usually stated as a percentage of that par value.",
+    "h": "A quarter of $100.",
+    "q": "Many exchange-traded preferred shares are issued with a par value of..."
+   },
+   {
+    "a": [
+     "The issuer can redeem it at a set price after a certain date",
+     "You can call the company for dividends",
+     "It converts to a bond",
+     "It can never be sold"
+    ],
+    "d": 3,
+    "e": "Issuers often call preferreds when rates fall, capping the upside for holders.",
+    "h": "The issuer can call it back.",
+    "q": "A “callable” preferred means..."
+   },
+   {
+    "a": [
+     "It has features of both stocks and bonds",
+     "It trades on two exchanges",
+     "It's half cash",
+     "It pays in two currencies"
+    ],
+    "d": 2,
+    "e": "It's equity on paper but behaves a lot like a bond with fixed payments.",
+    "h": "Part stock, part bond.",
+    "q": "Why do some investors call preferred stock a hybrid?"
+   }
+  ]
+ },
+ {
+  "id": "ep-tt10",
+  "series": "Taco Tuesday",
+  "ep": "EP10",
+  "title": "REITs on the Menu",
+  "order": 5,
+  "cat": "P",
+  "yt": "uNvrwv7Z4m4",
+  "questions": [
+   {
+    "a": [
+     "Real Estate Investment Trust",
+     "Retirement Equity Income Trust",
+     "Registered Exchange Index Tracker",
+     "Real Estate Interest Tax"
+    ],
+    "d": 1,
+    "e": "REITs let investors own a share of income-producing real estate.",
+    "h": "Real estate...",
+    "q": "REIT stands for..."
+   },
+   {
+    "a": [
+     "90%",
+     "50%",
+     "25%",
+     "100%"
+    ],
+    "d": 2,
+    "e": "That requirement is why REITs are known for high dividends.",
+    "h": "Almost all of it.",
+    "q": "To keep their tax status, REITs must distribute at least what share of taxable income?"
+   },
+   {
+    "a": [
+     "1960",
+     "1929",
+     "1987",
+     "2001"
+    ],
+    "d": 2,
+    "e": "The law aimed to let everyday investors own large-scale real estate.",
+    "h": "The Eisenhower era.",
+    "q": "Congress created REITs in which year?"
+   },
+   {
+    "a": [
+     "You can buy or sell shares any trading day",
+     "They never lose value",
+     "They have no fees",
+     "They're FDIC insured"
+    ],
+    "d": 1,
+    "e": "Selling a building can take months. Selling REIT shares takes seconds.",
+    "h": "Liquidity.",
+    "q": "A big advantage of publicly traded REITs over owning property directly is..."
+   },
+   {
+    "a": [
+     "They can be hard to sell, with limited redemptions",
+     "They trade too often",
+     "They pay no dividends by law",
+     "They can only own farmland"
+    ],
+    "d": 2,
+    "e": "Non-traded REITs may also carry high up-front fees, so read the fine print.",
+    "h": "Getting your money out.",
+    "q": "A key risk of non-traded REITs is..."
+   },
+   {
+    "a": [
+     "Owns and operates properties",
+     "Makes or buys mortgages",
+     "Trades stock options",
+     "Holds only cash"
+    ],
+    "d": 2,
+    "e": "Mortgage REITs, by contrast, earn income from real estate loans.",
+    "h": "Owns the buildings.",
+    "q": "An equity REIT mainly..."
+   },
+   {
+    "a": [
+     "Funds from operations",
+     "Future fixed obligations",
+     "Free float ownership",
+     "Federal funds offset"
+    ],
+    "d": 3,
+    "e": "FFO adds back depreciation, which can understate a property's real economics.",
+    "h": "Funds from...",
+    "q": "Analysts often judge REITs using FFO, which stands for..."
+   },
+   {
+    "a": [
+     "As ordinary income rather than at qualified-dividend rates",
+     "At zero percent",
+     "Only when you sell",
+     "As long-term capital gains always"
+    ],
+    "d": 2,
+    "e": "That's one reason some investors hold REITs in tax-advantaged accounts.",
+    "h": "Not the lower rate.",
+    "q": "Most REIT dividends are taxed..."
+   }
+  ]
+ },
+ {
+  "id": "ep-tt09",
+  "series": "Taco Tuesday",
+  "ep": "EP09",
+  "title": "Dividends on the Menu",
+  "order": 4,
+  "cat": "P",
+  "yt": "tX8GnReZtpU",
+  "questions": [
+   {
+    "a": [
+     "4%",
+     "2%",
+     "25%",
+     "8%"
+    ],
+    "d": 1,
+    "e": "Yield is the annual dividend divided by the price: $2 / $50 = 4%.",
+    "h": "Divide dividend by price.",
+    "q": "A $50 stock pays $2 a year in dividends. What's its dividend yield?"
+   },
+   {
+    "a": [
+     "Before the ex-dividend date",
+     "On the payment date",
+     "After the ex-dividend date",
+     "Any day that year"
+    ],
+    "d": 2,
+    "e": "Buy on or after the ex-dividend date and the seller keeps that dividend.",
+    "h": "“Ex” means without.",
+    "q": "To receive an upcoming dividend, you need to own the stock..."
+   },
+   {
+    "a": [
+     "Earnings",
+     "Revenue",
+     "Share price",
+     "Debt"
+    ],
+    "d": 2,
+    "e": "A very high payout ratio can mean the dividend is hard to sustain.",
+    "h": "How much of profit is paid out.",
+    "q": "The dividend payout ratio compares dividends to..."
+   },
+   {
+    "a": [
+     "Has a high yield because its price fell on real trouble, and the dividend may be cut",
+     "Never pays dividends",
+     "Pays dividends monthly",
+     "Is guaranteed by the government"
+    ],
+    "d": 2,
+    "e": "A sky-high yield can be a warning sign rather than a bargain.",
+    "h": "Too good to be true.",
+    "q": "A “dividend trap” is a stock that..."
+   },
+   {
+    "a": [
+     "25 consecutive years",
+     "5 consecutive years",
+     "10 consecutive years",
+     "100 consecutive years"
+    ],
+    "d": 2,
+    "e": "It's a list of S&P 500 members with long track records of dividend growth.",
+    "h": "A quarter century.",
+    "q": "The S&P 500 Dividend Aristocrats are companies that have raised their dividend for at least..."
+   },
+   {
+    "a": [
+     "Automatically reinvest dividends in more shares",
+     "Delay paying taxes forever",
+     "Receive dividends in gold",
+     "Skip the ex-dividend date"
+    ],
+    "d": 2,
+    "e": "Reinvesting dividends puts compounding to work.",
+    "h": "Dividend reinvestment plan.",
+    "q": "A DRIP lets shareholders..."
+   },
+   {
+    "a": [
+     "Long-term capital gains rates",
+     "Ordinary income rates plus 10%",
+     "Zero, always",
+     "The corporate tax rate"
+    ],
+    "d": 3,
+    "e": "Most dividends from U.S. companies held long enough qualify for these lower rates.",
+    "h": "Same as long-term gains.",
+    "q": "In the U.S., “qualified” dividends are generally taxed at..."
+   },
+   {
+    "a": [
+     "No, companies can cut or suspend them",
+     "Yes, by law",
+     "Yes, by the FDIC",
+     "Only for large companies"
+    ],
+    "d": 1,
+    "e": "Even long-time payers have cut dividends in tough times.",
+    "h": "Nothing is promised.",
+    "q": "Are dividends guaranteed?"
+   }
+  ]
+ },
+ {
+  "id": "ep-tt045",
+  "series": "Taco Tuesday",
+  "ep": "EP04.5",
+  "title": "Bonds on the Menu",
+  "order": 3,
+  "cat": "P",
+  "yt": "x_u-ydCWd3k",
+  "questions": [
+   {
+    "a": [
+     "Lending money to the issuer",
+     "Buying part of the company",
+     "Buying an option",
+     "Opening a bank account"
+    ],
+    "d": 1,
+    "e": "The issuer pays you interest and returns your principal at maturity.",
+    "h": "You're the lender.",
+    "q": "When you buy a bond, you are..."
+   },
+   {
+    "a": [
+     "Fall",
+     "Rise",
+     "Stay the same",
+     "Double"
+    ],
+    "d": 1,
+    "e": "New bonds pay higher rates, so older, lower-paying bonds become less valuable.",
+    "h": "A seesaw.",
+    "q": "When interest rates rise, prices of existing bonds generally..."
+   },
+   {
+    "a": [
+     "Par value",
+     "Coupon",
+     "Yield",
+     "Premium"
+    ],
+    "d": 1,
+    "e": "Many bonds have a par value of $1,000.",
+    "h": "Par.",
+    "q": "A bond's face value, repaid at maturity, is also called its..."
+   },
+   {
+    "a": [
+     "High-yield, or junk",
+     "Risk-free",
+     "Investment grade",
+     "A Treasury"
+    ],
+    "d": 2,
+    "e": "Lower-rated issuers must pay higher interest to attract lenders.",
+    "h": "Below investment grade.",
+    "q": "A bond rated below BBB- by S&P is considered..."
+   },
+   {
+    "a": [
+     "The full faith and credit of the U.S. government",
+     "FDIC insurance",
+     "Gold reserves",
+     "The stock market"
+    ],
+    "d": 2,
+    "e": "That's why Treasuries are considered among the safest investments in the world.",
+    "h": "The government's promise.",
+    "q": "U.S. Treasury securities are backed by..."
+   },
+   {
+    "a": [
+     "Federal income tax",
+     "All taxes in every state",
+     "Capital gains tax",
+     "Sales tax"
+    ],
+    "d": 2,
+    "e": "Munis are issued by states and cities. Interest is often state-tax-free too if you live in the issuing state.",
+    "h": "Uncle Sam won't tax it.",
+    "q": "Interest on most municipal bonds is exempt from..."
+   },
+   {
+    "a": [
+     "The total annual return if you hold the bond until it matures",
+     "The coupon rate only",
+     "The bond's credit rating",
+     "How long until the bond can be called"
+    ],
+    "d": 3,
+    "e": "It includes coupons plus any gain or loss from the price you paid versus par.",
+    "h": "Hold it all the way.",
+    "q": "“Yield to maturity” estimates..."
+   },
+   {
+    "a": [
+     "A 30-year zero-coupon bond",
+     "A 1-year Treasury bill",
+     "A 2-year note with a high coupon",
+     "A money market fund"
+    ],
+    "d": 3,
+    "e": "Longer maturities and lower coupons mean higher duration, so bigger price swings when rates move.",
+    "h": "Longest and no coupons.",
+    "q": "Which bond is usually most sensitive to interest rate changes?"
+   }
+  ]
+ },
+ {
+  "id": "ep-tt04",
+  "series": "Taco Tuesday",
+  "ep": "EP04",
+  "title": "Mutual Funds, Explained",
+  "order": 2,
+  "cat": "P",
+  "yt": "E_vGz-Bxwec",
+  "questions": [
+   {
+    "a": [
+     "Buy a diversified portfolio managed by professionals",
+     "Lend to one company",
+     "Buy a single stock",
+     "Insure bank deposits"
+    ],
+    "d": 1,
+    "e": "Pooling lets small investors own a slice of many securities at once.",
+    "h": "Strength in numbers.",
+    "q": "A mutual fund pools money from many investors to..."
+   },
+   {
+    "a": [
+     "Once a day, after the market closes",
+     "Every second",
+     "Once a month",
+     "Once a year"
+    ],
+    "d": 1,
+    "e": "Orders fill at that day's net asset value (NAV), calculated after the close.",
+    "h": "End of day.",
+    "q": "How often is a traditional mutual fund priced for buying and selling?"
+   },
+   {
+    "a": [
+     "Load",
+     "Spread",
+     "Coupon",
+     "Margin"
+    ],
+    "d": 2,
+    "e": "Front-end loads are charged when you buy; back-end loads when you sell. No-load funds have neither.",
+    "h": "Something you carry.",
+    "q": "A sales charge on a mutual fund is called a..."
+   },
+   {
+    "a": [
+     "Match the performance of a market index",
+     "Beat the market every year",
+     "Avoid all losses",
+     "Buy only one sector"
+    ],
+    "d": 1,
+    "e": "Index funds track a benchmark like the S&P 500 and usually have lower costs.",
+    "h": "Copy the index.",
+    "q": "An index mutual fund aims to..."
+   },
+   {
+    "a": [
+     "$50",
+     "$5",
+     "$500",
+     "$0.50"
+    ],
+    "d": 2,
+    "e": "Half a percent of $10,000 is $50, taken out of the fund's returns each year.",
+    "h": "Half of one percent.",
+    "q": "A fund with a 0.50% expense ratio costs about how much per year on $10,000?"
+   },
+   {
+    "a": [
+     "The fund may distribute capital gains from its own trading",
+     "Funds charge a yearly tax fee",
+     "The IRS taxes all fund balances",
+     "Dividends are always taxed twice"
+    ],
+    "d": 2,
+    "e": "Funds pass realized gains to shareholders, usually near year-end.",
+    "h": "The fund sells, you get the bill.",
+    "q": "Why can owning a mutual fund in a taxable account create a tax bill even if you never sell?"
+   },
+   {
+    "a": [
+     "The Investment Company Act of 1940",
+     "The Securities Act of 1933",
+     "The Dodd-Frank Act",
+     "The Sarbanes-Oxley Act"
+    ],
+    "d": 3,
+    "e": "The 1940 Act sets rules on disclosure, governance and how funds operate.",
+    "h": "Passed in 1940.",
+    "q": "Which federal law primarily regulates mutual funds?"
+   },
+   {
+    "a": [
+     "Beat its benchmark by picking investments",
+     "Exactly copy an index",
+     "Hold only cash",
+     "Guarantee a fixed return"
+    ],
+    "d": 2,
+    "e": "Active funds charge more for research and stock picking, and many trail their benchmarks after fees.",
+    "h": "Someone is actively picking.",
+    "q": "An actively managed mutual fund tries to..."
+   }
+  ]
+ },
+ {
+  "id": "ep-tt03",
+  "series": "Taco Tuesday",
+  "ep": "EP03",
+  "title": "ETFs, Explained",
+  "order": 1,
+  "cat": "P",
+  "yt": "LryjVn7aKzk",
+  "questions": [
+   {
+    "a": [
+     "Throughout the trading day at market prices",
+     "Only once a day after the close",
+     "Only once a month",
+     "Only directly from the fund company"
+    ],
+    "d": 1,
+    "e": "ETFs trade on exchanges like stocks, so their prices update all day. Mutual fund orders fill once, at the end-of-day NAV.",
+    "h": "Like a stock.",
+    "q": "Unlike a traditional mutual fund, an ETF can be bought and sold..."
+   },
+   {
+    "a": [
+     "Track an index",
+     "Beat the market every year",
+     "Guarantee a fixed return",
+     "Avoid all losses"
+    ],
+    "d": 1,
+    "e": "Most ETFs passively track an index such as the S&P 500, which keeps their costs low.",
+    "h": "Passive.",
+    "q": "Most ETFs are built to do what?"
+   },
+   {
+    "a": [
+     "$3",
+     "$30",
+     "$300",
+     "$0.30"
+    ],
+    "d": 1,
+    "e": "0.03% of $10,000 is $3 a year. Small differences in fees add up over decades.",
+    "h": "Move the decimal point.",
+    "q": "An ETF with a 0.03% expense ratio costs about how much per year on a $10,000 investment?"
+   },
+   {
+    "a": [
+     "The S&P 500",
+     "The Dow Jones Industrial Average",
+     "The Nasdaq-100",
+     "The Russell 2000"
+    ],
+    "d": 1,
+    "e": "SPY holds the companies in the S&P 500 and was the first U.S.-listed ETF, launched in 1993.",
+    "h": "It's in the name.",
+    "q": "The SPDR S&P 500 ETF, ticker SPY, tracks which index?"
+   },
+   {
+    "a": [
+     "The Nasdaq-100",
+     "The S&P 500",
+     "The Russell 2000",
+     "The Dow Jones Industrial Average"
+    ],
+    "d": 2,
+    "e": "QQQ holds the 100 largest non-financial companies listed on the Nasdaq, which makes it tech-heavy.",
+    "h": "Q is for Nasdaq.",
+    "q": "Invesco QQQ tracks which index?"
+   },
+   {
+    "a": [
+     "Stocks from one industry",
+     "One stock from each country",
+     "Only government bonds",
+     "Cash and gold"
+    ],
+    "d": 2,
+    "e": "Sector ETFs concentrate on one part of the economy, so they can swing more than a broad-market fund.",
+    "h": "One slice of the economy.",
+    "q": "A sector ETF, such as a technology or energy ETF, holds..."
+   },
+   {
+    "a": [
+     "Move opposite the index on a daily basis",
+     "Double the index's long-term return",
+     "Pay a fixed interest rate",
+     "Track the index with a one-day delay"
+    ],
+    "d": 2,
+    "e": "Inverse ETFs aim for the opposite of the index's daily move. Because they reset daily, they are generally built for short-term use.",
+    "h": "Opposite.",
+    "q": "An inverse ETF is designed to..."
+   },
+   {
+    "a": [
+     "Creation and redemption by authorized participants",
+     "A daily price set by the SEC",
+     "A guarantee from the fund manager",
+     "Trading halts at the close"
+    ],
+    "d": 3,
+    "e": "Large firms called authorized participants create or redeem ETF shares when the price drifts from NAV, profiting from the gap and pushing the price back in line.",
+    "h": "Big firms can create or redeem shares.",
+    "q": "What mechanism helps keep an ETF's market price close to the value of its holdings?"
+   },
+   {
+    "a": [
+     "Lower costs",
+     "Higher costs",
+     "Guaranteed higher returns",
+     "No disclosure of holdings"
+    ],
+    "d": 2,
+    "e": "Index funds don't pay teams to pick stocks, so their fees are usually much lower.",
+    "h": "Less work, lower fees.",
+    "q": "Compared with actively managed funds, passive index ETFs typically have..."
+   },
+   {
+    "a": [
+     "A basket of bonds",
+     "Only one company's stock",
+     "Physical gold bars",
+     "Real estate directly"
+    ],
+    "d": 2,
+    "e": "Bond ETFs make it easy to own many bonds at once. Their prices still fall when interest rates rise.",
+    "h": "Fixed income.",
+    "q": "A bond ETF holds..."
+   }
+  ]
+ },
+ {
+  "id": "ep-tt02",
+  "series": "Taco Tuesday",
+  "ep": "EP02",
+  "title": "Options, Made Simple",
+  "order": 0,
+  "cat": "P",
+  "yt": "RMLgzuyNjHo",
+  "questions": [
+   {
+    "a": [
+     "Premium",
+     "Strike",
+     "Margin",
+     "Dividend"
+    ],
+    "d": 1,
+    "e": "The premium is what the buyer pays and the seller collects up front.",
+    "h": "Like an insurance payment.",
+    "q": "The price you pay to buy an option is called the..."
+   },
+   {
+    "a": [
+     "Rises",
+     "Falls",
+     "Pays a dividend",
+     "Stays exactly flat"
+    ],
+    "d": 1,
+    "e": "A call is the right to buy at the strike price, which becomes more valuable as the stock climbs.",
+    "h": "Calls like going up.",
+    "q": "A call option generally gains value when the underlying stock..."
+   },
+   {
+    "a": [
+     "Falls",
+     "Rises",
+     "Splits",
+     "Is added to an index"
+    ],
+    "d": 1,
+    "e": "A put is the right to sell at the strike price, which is worth more as the stock drops.",
+    "h": "Puts like going down.",
+    "q": "A put option generally gains value when the underlying stock..."
+   },
+   {
+    "a": [
+     "The premium you paid",
+     "Unlimited",
+     "Twice the premium",
+     "The stock's full price"
+    ],
+    "d": 2,
+    "e": "Option buyers' risk is capped at the premium. Option sellers can face much larger losses.",
+    "h": "What you paid.",
+    "q": "If you buy a call or a put, what's the most you can lose?"
+   },
+   {
+    "a": [
+     "Loses the premium paid",
+     "Gets the premium back",
+     "Must buy 100 shares",
+     "Earns the strike price"
+    ],
+    "d": 2,
+    "e": "An out-of-the-money option has no exercise value at expiration, so it expires worthless.",
+    "h": "Worthless at the end.",
+    "q": "If an option expires out of the money, the buyer typically..."
+   },
+   {
+    "a": [
+     "100 shares",
+     "1 share",
+     "10 shares",
+     "1,000 shares"
+    ],
+    "d": 2,
+    "e": "An option quoted at $1.50 costs about $150 for one contract.",
+    "h": "A round hundred.",
+    "q": "One standard U.S. stock option contract usually controls..."
+   },
+   {
+    "a": [
+     "Protective put",
+     "Covered call",
+     "Naked call",
+     "Iron condor"
+    ],
+    "d": 2,
+    "e": "The put acts like insurance: if the stock falls below the strike, you can still sell at the strike.",
+    "h": "It protects you.",
+    "q": "Owning shares and buying a put on them to limit your downside is called a..."
+   },
+   {
+    "a": [
+     "Time decay",
+     "Dividend drag",
+     "Contango",
+     "Slippage"
+    ],
+    "d": 3,
+    "e": "Option traders call it theta. Less time left means less chance of a big favorable move.",
+    "h": "The clock is ticking.",
+    "q": "All else equal, options lose value as expiration approaches. This is called..."
+   }
+  ]
+ }
+]

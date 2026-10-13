@@ -1,0 +1,115 @@
+{
+ "asOf": "2026-10-09",
+ "id": "2026-W41",
+ "label": "Week of Oct 5, 2026",
+ "questions": [
+  {
+   "a": [
+    "Raised it 0.25 point to 3.75%-4.00%",
+    "Cut it 0.25 point to 3.25%-3.50%",
+    "Held it at 3.50%-3.75%",
+    "Cut it 0.50 point to 3.00%-3.25%"
+   ],
+   "d": 2,
+   "e": "The FOMC voted 12-0 to raise the target range by a quarter point, to 3.75% to 4.00%.",
+   "h": "It was unanimous, and rates went up.",
+   "q": "At its September 16, 2026 meeting, what did the FOMC do with the fed funds target range?"
+  },
+  {
+   "a": [
+    "29,000",
+    "290,000",
+    "129,000",
+    "9,000"
+   ],
+   "d": 2,
+   "e": "Payrolls rose by just 29,000 in September, well below the roughly 90,000 economists expected.",
+   "h": "Well under 100,000.",
+   "q": "The September 2026 jobs report (released October 2) showed nonfarm payrolls rising by about how much?"
+  },
+  {
+   "a": [
+    "4.2%",
+    "3.5%",
+    "5.5%",
+    "6.1%"
+   ],
+   "d": 1,
+   "e": "The Bureau of Labor Statistics reported a 4.2% unemployment rate for September 2026.",
+   "h": "Just above 4%.",
+   "q": "What was the U.S. unemployment rate in the September 2026 jobs report?"
+  },
+  {
+   "a": [
+    "About 5.25%",
+    "About 3.25%",
+    "About 4.25%",
+    "About 6.25%"
+   ],
+   "d": 2,
+   "e": "The 10-year yield finished the week just under 5.25% after touching nearly 5.37% midweek. Higher yields raise borrowing costs across the economy, including mortgages.",
+   "h": "Above 5%.",
+   "q": "The 10-year Treasury yield ended the week of October 5, 2026 near which level, close to its highest in about 24 years?"
+  },
+  {
+   "a": [
+    "About $91",
+    "About $61",
+    "About $121",
+    "About $45"
+   ],
+   "d": 1,
+   "e": "WTI traded around $91 a barrel, with international benchmark Brent near $104, as energy supply worries kept prices elevated.",
+   "h": "Above $90.",
+   "q": "Near what price per barrel did U.S. benchmark WTI crude oil trade on October 9, 2026?"
+  },
+  {
+   "a": [
+    "7,811",
+    "5,811",
+    "6,811",
+    "8,811"
+   ],
+   "d": 1,
+   "e": "The S&P 500 closed near 7,811.5, rising 0.6% on the day to end the week higher.",
+   "h": "Between 7,000 and 8,000.",
+   "q": "The S&P 500 closed Friday, October 9, 2026 at about what level?"
+  },
+  {
+   "a": [
+    "Wireless carriers like T-Mobile, AT&T and Verizon",
+    "Airlines",
+    "Gold miners",
+    "Regional banks"
+   ],
+   "d": 2,
+   "e": "Investors saw the deal as a step toward Starlink competing as a mobile carrier. T-Mobile, AT&T and Verizon fell sharply, while cell tower owners rose.",
+   "h": "Who sells your phone plan?",
+   "q": "On October 9, 2026, SpaceX agreed to buy a nationwide block of wireless spectrum. Which group of stocks fell sharply on the news?"
+  },
+  {
+   "a": [
+    "Delta Air Lines",
+    "Southwest Airlines",
+    "JetBlue",
+    "Alaska Air"
+   ],
+   "d": 2,
+   "e": "Delta's report is traditionally one of the first of earnings season, and its cut outlook weighed on airline stocks.",
+   "h": "It's based in Atlanta.",
+   "q": "Which airline reported weaker-than-expected earnings and cut its 2026 profit outlook in the week of October 5, 2026, citing pressures including high fuel costs?"
+  },
+  {
+   "a": [
+    "The big banks",
+    "Big tech",
+    "Utilities",
+    "Retailers"
+   ],
+   "d": 1,
+   "e": "Major banks like JPMorgan traditionally report first, giving an early read on consumers, lending and the economy.",
+   "h": "Think Wall Street's largest lenders.",
+   "q": "Third-quarter 2026 earnings season ramps up on Tuesday, October 13. Which group traditionally kicks it off?"
+  }
+ ]
+}
