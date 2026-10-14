@@ -1,16 +1,16 @@
 {
- "date": "2026-10-12",
- "q": {
-  "a": [
-   "Isaac Newton",
-   "Charles Darwin",
-   "Galileo Galilei",
-   "Benjamin Franklin"
-  ],
-  "c": "H",
-  "d": 2,
-  "e": "Newton reportedly lost a large sum after buying back into South Sea Company stock near the top.",
-  "h": "Gravity.",
-  "q": "Which famous scientist reportedly lost a fortune in the 1720 South Sea Bubble?"
- }
+  "date": "2026-10-14",
+  "q": {
+    "a": [
+      "Forward guidance",
+      "Quantitative easing",
+      "Yield curve control",
+      "Reserve requirements"
+    ],
+    "c": "E",
+    "d": 2,
+    "e": "Forward guidance influences long-term rates and markets now by telling people what the Fed expects to do later.",
+    "h": "It's done with words, not trades.",
+    "q": "When the Fed signals its likely future path for interest rates to shape expectations today, it's using..."
+  }
 }

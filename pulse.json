@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-09",
- "id": "2026-10-09",
- "label": "Fri, Oct 9",
- "questions": [
-  {
-   "a": [
-    "About 7,800",
-    "About 6,500",
-    "About 9,100",
-    "About 5,200"
-   ],
-   "d": 1,
-   "e": "The S&P 500 rose about 0.6% to close near 7,812, as stocks rallied into the start of third-quarter earnings season.",
-   "h": "Just over seven thousand eight hundred.",
-   "q": "About where did the S&P 500 close on Friday, October 9, 2026?"
-  },
-  {
-   "a": [
-    "Fell to 46.3 from 48.1 in September",
-    "Rose to 62.0 from 48.1 in September",
-    "Stayed exactly at 48.1",
-    "Jumped above 80 for the first time in years"
-   ],
-   "d": 1,
-   "e": "Sentiment slipped to 46.3, below economists' forecasts, with consumers pointing to cost-of-living pressures. The survey measures how Americans feel about their finances and the economy.",
-   "h": "It went down, but only a little.",
-   "q": "The University of Michigan's preliminary October consumer sentiment index, released October 9, did what?"
-  },
-  {
-   "a": [
-    "SpaceX",
-    "Amazon",
-    "Apple",
-    "Alphabet"
-   ],
-   "d": 1,
-   "e": "Investors saw SpaceX's spectrum purchase as a sign it could compete more directly with the big carriers for mobile customers, using its Starlink satellites.",
-   "h": "It also runs Starlink.",
-   "q": "Shares of T-Mobile, AT&T and Verizon fell sharply on October 9 after which company agreed to buy a nationwide wireless spectrum portfolio?"
-  },
-  {
-   "a": [
-    "About 5.25%",
-    "About 3.25%",
-    "About 1.25%",
-    "About 7.25%"
-   ],
-   "d": 2,
-   "e": "The 10-year yield held near 5.24% to 5.25%, little changed on the day. It influences borrowing costs such as mortgage rates.",
-   "h": "A little above 5%.",
-   "q": "Around what level was the 10-year U.S. Treasury yield trading on October 9, 2026?"
-  },
-  {
-   "a": [
-    "$5.10 to $5.60",
-    "$1.00 to $1.50",
-    "$12.00 to $14.00",
-    "$25.00 to $30.00"
-   ],
-   "d": 3,
-   "e": "Delta lowered its 2026 adjusted EPS guidance to $5.10 to $5.60, saying it was absorbing about $6 billion in higher fuel costs this year.",
-   "h": "Between five and six dollars.",
-   "q": "Delta Air Lines reported earnings October 9 and cut its 2026 earnings-per-share outlook, citing much higher fuel costs. What was the new full-year range?"
-  }
- ]
+  "asOf": "2026-10-13",
+  "id": "2026-10-13",
+  "label": "Tue, Oct 13",
+  "questions": [
+    {
+      "a": [
+        "Essentially flat, closing near 7,805",
+        "Up more than 3%, closing above 8,000",
+        "Down more than 4%, closing below 7,500",
+        "Up more than 6%, closing above 8,250"
+      ],
+      "d": 1,
+      "e": "The S&P 500 slipped just 1.79 points (about 0.02%) to close at 7,805.45, while the Dow fell about 180 points and the Nasdaq dipped about 0.15%.",
+      "h": "It barely budged.",
+      "q": "How did the S&P 500 finish on Tuesday, October 13, 2026, a busy day of big-bank earnings?"
+    },
+    {
+      "a": [
+        "Memory and storage makers like Micron, Western Digital and Seagate",
+        "Graphics-chip designers like Nvidia",
+        "Chip-equipment makers that all hit record highs",
+        "Smartphone chip licensors that were halted all day"
+      ],
+      "d": 1,
+      "e": "Memory names such as Micron, Western Digital and Seagate fell sharply for a second day, with traders worried about rising competition from Chinese memory makers.",
+      "h": "Think DRAM and flash storage.",
+      "q": "Which group of chip stocks led the tech sector lower on October 13, 2026?"
+    },
+    {
+      "a": [
+        "About $18.7 billion",
+        "About $8.7 billion",
+        "About $38.7 billion",
+        "About $2.7 billion"
+      ],
+      "d": 2,
+      "e": "Goldman posted net revenues of $18.68 billion, up 23% from a year earlier, and earnings of $17.01 per share, well above analyst estimates, helped by strong equities trading.",
+      "h": "Just under $20 billion.",
+      "q": "Goldman Sachs reported third-quarter 2026 results on October 13. Roughly how much were its net revenues for the quarter?"
+    },
+    {
+      "a": [
+        "$6.05 per share",
+        "$0.65 per share",
+        "$26.05 per share",
+        "$60.50 per share"
+      ],
+      "d": 2,
+      "e": "The all-cash deal values Bumble at about $1.3 billion, roughly a 138% premium to its unaffected closing price on October 9.",
+      "h": "Single digits, just over $6.",
+      "q": "Dating-app company Bumble agreed on October 13, 2026 to be taken private by Ithaca Holdings. What cash price per share was offered?"
+    },
+    {
+      "a": [
+        "Raised it to at least $20.50 per share",
+        "Cut it to below $10 per share",
+        "Withdrew all guidance for the year",
+        "Left it unchanged at $30 per share"
+      ],
+      "d": 3,
+      "e": "UnitedHealth posted adjusted EPS of $4.69 on revenue of about $112.7 billion and raised its 2026 adjusted EPS outlook to at least $20.50.",
+      "h": "Good news for shareholders.",
+      "q": "UnitedHealth Group reported third-quarter results on October 13, 2026. What did it do with its full-year 2026 adjusted earnings outlook?"
+    }
+  ]
 }
