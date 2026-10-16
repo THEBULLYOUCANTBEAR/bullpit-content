@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-14",
- "id": "2026-10-14",
- "label": "Wed, Oct 14",
+ "asOf": "2026-10-15",
+ "id": "2026-10-15",
+ "label": "Thu, Oct 15",
  "questions": [
-  {
-   "a": [
-    "3.7%",
-    "1.4%",
-    "5.9%",
-    "8.2%"
-   ],
-   "d": 1,
-   "e": "The BLS reported headline CPI rose 3.7% over the 12 months ending in September, after a 0.6% monthly gain. Core CPI (excluding food and energy) was up 2.6% for the year.",
-   "h": "Above 3%, below 4%",
-   "q": "The September Consumer Price Index, released Wednesday, showed consumer prices up how much from a year earlier?"
-  },
-  {
-   "a": [
-    "Gasoline",
-    "Shelter",
-    "Used cars and trucks",
-    "Airline fares"
-   ],
-   "d": 2,
-   "e": "Gasoline prices rose 9.1% in September and made up over half of the all-items monthly increase. Energy overall was up 20.4% from a year earlier.",
-   "h": "You pay for it at the pump",
-   "q": "According to the BLS, which item accounted for over half of September's monthly CPI increase?"
-  },
   {
    "a": [
     "Dow Jones Industrial Average",
     "Nasdaq Composite",
-    "Russell 2000",
-    "Philadelphia Semiconductor Index"
+    "S&P 500",
+    "Nasdaq-100"
    ],
    "d": 1,
-   "e": "The Dow dipped 48.62 points, or 0.1%, while the tech-heavy Nasdaq and the small-cap Russell 2000 each fell about 1.9% as a tech sell-off weighed on growth stocks.",
-   "h": "The 30-stock blue-chip index",
-   "q": "Stocks fell after the hot inflation report. Which major index held up best, slipping only about 0.1%?"
+   "e": "The Dow rose about 556 points (+1.08%) to roughly 52,178 as money rotated out of tech, while the Nasdaq Composite eked out a gain of less than 0.1%.",
+   "h": "The 30-stock blue-chip average",
+   "q": "On Thursday, Oct 15, which major U.S. index gained more than 1% and closed above 52,000?"
   },
   {
    "a": [
-    "Just above 7,700",
-    "Just above 5,400",
-    "Just above 6,200",
-    "Just above 8,900"
+    "1.3%",
+    "0.1%",
+    "-0.4%",
+    "3.5%"
    ],
    "d": 2,
-   "e": "The S&P 500 lost 86.51 points to close at 7,718.94. Technology was the weakest sector, while health care and consumer staples gained.",
-   "h": "Think 7,000-something",
-   "q": "The S&P 500 fell about 1.1% on Wednesday. Roughly where did it close?"
+   "e": "The Bureau of Labor Statistics reported a 1.3% monthly jump in wholesale prices, the largest since March 2022; prices were up 6.3% from a year earlier.",
+   "h": "A bit more than 1%",
+   "q": "The Producer Price Index for final demand, released Oct 15, rose by how much in September (month over month, seasonally adjusted)?"
   },
   {
    "a": [
-    "Anti-money-laundering and sanctions compliance failures",
-    "Overdraft fee practices",
-    "Mortgage lending discrimination",
-    "Misleading crypto marketing"
+    "Fell about 0.10 percentage point to near 5.1%",
+    "Rose about 0.10 percentage point to near 5.3%",
+    "Held flat near 4.0%",
+    "Jumped above 6%"
    ],
    "d": 2,
-   "e": "The Treasury Department, through FinCEN, the OCC and OFAC, penalized the bank about $1.2 billion over failures to investigate suspicious transactions under the Bank Secrecy Act and apparent sanctions violations. BofA reported Q3 net income of $6.9 billion, or $0.91 per share.",
-   "h": "Think Bank Secrecy Act",
-   "q": "Bank of America's third-quarter results, reported Wednesday, absorbed a roughly $1.2 billion federal penalty announced a day earlier. What was the penalty for?"
+   "e": "The 10-year yield dropped roughly 10 basis points to about 5.09%, one of its biggest one-day declines in months. When yields fall, bond prices rise.",
+   "h": "Bonds rallied",
+   "q": "What did the 10-year Treasury yield do on Thursday, Oct 15?"
+  },
+  {
+   "a": [
+    "TSMC",
+    "Intel",
+    "Qualcomm",
+    "Texas Instruments"
+   ],
+   "d": 1,
+   "e": "Taiwan Semiconductor Manufacturing Co. posted a record quarterly profit and gave strong fourth-quarter revenue guidance, but its stock slipped amid a broad selloff in AI and chip stocks.",
+   "h": "The world's largest contract chip manufacturer",
+   "q": "Which chipmaker reported a record third-quarter profit that beat estimates on Oct 15, yet saw its shares fall?"
+  },
+  {
+   "a": [
+    "Its Neutron medium-lift rocket",
+    "A satellite internet service",
+    "A crewed lunar lander",
+    "A space tourism capsule"
+   ],
+   "d": 2,
+   "e": "Rocket Lab pushed the first launch of its Neutron rocket into 2027, sending the stock down by double digits.",
+   "h": "A bigger rocket than its Electron",
+   "q": "Rocket Lab shares fell sharply on Oct 15 after the company delayed the debut of what?"
   }
  ]
 }
