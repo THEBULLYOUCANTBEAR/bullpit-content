@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-14",
-  "q": {
-    "a": [
-      "Forward guidance",
-      "Quantitative easing",
-      "Yield curve control",
-      "Reserve requirements"
-    ],
-    "c": "E",
-    "d": 2,
-    "e": "Forward guidance influences long-term rates and markets now by telling people what the Fed expects to do later.",
-    "h": "It's done with words, not trades.",
-    "q": "When the Fed signals its likely future path for interest rates to shape expectations today, it's using..."
-  }
+ "date": "2026-10-15",
+ "q": {
+  "a": [
+   "Buttonwood Agreement",
+   "Wall Street Accord",
+   "Hamilton Compact",
+   "Broad Street Pact"
+  ],
+  "c": "H",
+  "d": 2,
+  "e": "Twenty-four brokers signed the Buttonwood Agreement under a buttonwood tree on Wall Street in 1792.",
+  "h": "It's named after a tree.",
+  "q": "The 1792 agreement that is considered the founding of the New York Stock Exchange is called the..."
+ }
 }

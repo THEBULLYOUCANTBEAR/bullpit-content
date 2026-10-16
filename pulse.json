@@ -1,67 +1,67 @@
 {
-  "asOf": "2026-10-13",
-  "id": "2026-10-13",
-  "label": "Tue, Oct 13",
-  "questions": [
-    {
-      "a": [
-        "Essentially flat, closing near 7,805",
-        "Up more than 3%, closing above 8,000",
-        "Down more than 4%, closing below 7,500",
-        "Up more than 6%, closing above 8,250"
-      ],
-      "d": 1,
-      "e": "The S&P 500 slipped just 1.79 points (about 0.02%) to close at 7,805.45, while the Dow fell about 180 points and the Nasdaq dipped about 0.15%.",
-      "h": "It barely budged.",
-      "q": "How did the S&P 500 finish on Tuesday, October 13, 2026, a busy day of big-bank earnings?"
-    },
-    {
-      "a": [
-        "Memory and storage makers like Micron, Western Digital and Seagate",
-        "Graphics-chip designers like Nvidia",
-        "Chip-equipment makers that all hit record highs",
-        "Smartphone chip licensors that were halted all day"
-      ],
-      "d": 1,
-      "e": "Memory names such as Micron, Western Digital and Seagate fell sharply for a second day, with traders worried about rising competition from Chinese memory makers.",
-      "h": "Think DRAM and flash storage.",
-      "q": "Which group of chip stocks led the tech sector lower on October 13, 2026?"
-    },
-    {
-      "a": [
-        "About $18.7 billion",
-        "About $8.7 billion",
-        "About $38.7 billion",
-        "About $2.7 billion"
-      ],
-      "d": 2,
-      "e": "Goldman posted net revenues of $18.68 billion, up 23% from a year earlier, and earnings of $17.01 per share, well above analyst estimates, helped by strong equities trading.",
-      "h": "Just under $20 billion.",
-      "q": "Goldman Sachs reported third-quarter 2026 results on October 13. Roughly how much were its net revenues for the quarter?"
-    },
-    {
-      "a": [
-        "$6.05 per share",
-        "$0.65 per share",
-        "$26.05 per share",
-        "$60.50 per share"
-      ],
-      "d": 2,
-      "e": "The all-cash deal values Bumble at about $1.3 billion, roughly a 138% premium to its unaffected closing price on October 9.",
-      "h": "Single digits, just over $6.",
-      "q": "Dating-app company Bumble agreed on October 13, 2026 to be taken private by Ithaca Holdings. What cash price per share was offered?"
-    },
-    {
-      "a": [
-        "Raised it to at least $20.50 per share",
-        "Cut it to below $10 per share",
-        "Withdrew all guidance for the year",
-        "Left it unchanged at $30 per share"
-      ],
-      "d": 3,
-      "e": "UnitedHealth posted adjusted EPS of $4.69 on revenue of about $112.7 billion and raised its 2026 adjusted EPS outlook to at least $20.50.",
-      "h": "Good news for shareholders.",
-      "q": "UnitedHealth Group reported third-quarter results on October 13, 2026. What did it do with its full-year 2026 adjusted earnings outlook?"
-    }
-  ]
+ "asOf": "2026-10-14",
+ "id": "2026-10-14",
+ "label": "Wed, Oct 14",
+ "questions": [
+  {
+   "a": [
+    "3.7%",
+    "1.4%",
+    "5.9%",
+    "8.2%"
+   ],
+   "d": 1,
+   "e": "The BLS reported headline CPI rose 3.7% over the 12 months ending in September, after a 0.6% monthly gain. Core CPI (excluding food and energy) was up 2.6% for the year.",
+   "h": "Above 3%, below 4%",
+   "q": "The September Consumer Price Index, released Wednesday, showed consumer prices up how much from a year earlier?"
+  },
+  {
+   "a": [
+    "Gasoline",
+    "Shelter",
+    "Used cars and trucks",
+    "Airline fares"
+   ],
+   "d": 2,
+   "e": "Gasoline prices rose 9.1% in September and made up over half of the all-items monthly increase. Energy overall was up 20.4% from a year earlier.",
+   "h": "You pay for it at the pump",
+   "q": "According to the BLS, which item accounted for over half of September's monthly CPI increase?"
+  },
+  {
+   "a": [
+    "Dow Jones Industrial Average",
+    "Nasdaq Composite",
+    "Russell 2000",
+    "Philadelphia Semiconductor Index"
+   ],
+   "d": 1,
+   "e": "The Dow dipped 48.62 points, or 0.1%, while the tech-heavy Nasdaq and the small-cap Russell 2000 each fell about 1.9% as a tech sell-off weighed on growth stocks.",
+   "h": "The 30-stock blue-chip index",
+   "q": "Stocks fell after the hot inflation report. Which major index held up best, slipping only about 0.1%?"
+  },
+  {
+   "a": [
+    "Just above 7,700",
+    "Just above 5,400",
+    "Just above 6,200",
+    "Just above 8,900"
+   ],
+   "d": 2,
+   "e": "The S&P 500 lost 86.51 points to close at 7,718.94. Technology was the weakest sector, while health care and consumer staples gained.",
+   "h": "Think 7,000-something",
+   "q": "The S&P 500 fell about 1.1% on Wednesday. Roughly where did it close?"
+  },
+  {
+   "a": [
+    "Anti-money-laundering and sanctions compliance failures",
+    "Overdraft fee practices",
+    "Mortgage lending discrimination",
+    "Misleading crypto marketing"
+   ],
+   "d": 2,
+   "e": "The Treasury Department, through FinCEN, the OCC and OFAC, penalized the bank about $1.2 billion over failures to investigate suspicious transactions under the Bank Secrecy Act and apparent sanctions violations. BofA reported Q3 net income of $6.9 billion, or $0.91 per share.",
+   "h": "Think Bank Secrecy Act",
+   "q": "Bank of America's third-quarter results, reported Wednesday, absorbed a roughly $1.2 billion federal penalty announced a day earlier. What was the penalty for?"
+  }
+ ]
 }

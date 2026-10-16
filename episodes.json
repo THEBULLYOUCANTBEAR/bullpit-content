@@ -1,11 +1,223 @@
 [
  {
-  "id": "ep-mm15",
-  "series": "Motivation Monday",
+  "cat": "M",
   "ep": "EP15",
-  "title": "The Motivation Debt",
-  "order": 385,
+  "id": "ep-wsw15",
+  "order": 387,
+  "questions": [
+   {
+    "a": [
+     "Zero days to expiration — options that expire at the end of the current trading day",
+     "Zero dividend trading equity — stocks that pay no dividend",
+     "Zero-delta trade execution — orders with no price sensitivity",
+     "Zero downside trading exposure — options that cannot lose money"
+    ],
+    "d": 1,
+    "e": "0DTE options expire at the end of the current trading day — as Donald put it, there is no tomorrow inside the contract.",
+    "h": "The clock isn't ticking; it's sprinting.",
+    "q": "In the episode, what does 0DTE stand for?"
+   },
+   {
+    "a": [
+     "How quickly delta may change as the underlying price changes",
+     "How much the option loses to time decay each day",
+     "The total number of contracts traded",
+     "The dividend yield of the underlying stock"
+    ],
+    "d": 1,
+    "e": "Delta is current directional sensitivity; gamma is how fast that sensitivity can transform — especially near expiration and near the strike.",
+    "h": "The sensitivity of the steering wheel.",
+    "q": "Donald calls delta the steering wheel. What does he say gamma measures?"
+   },
+   {
+    "a": [
+     "A market maker adjusting a hedge again and again as an option's delta changes",
+     "Buying a put once and holding it until expiration",
+     "Spreading money evenly across many sectors",
+     "Switching from stocks to bonds when rates rise"
+    ],
+    "d": 2,
+    "e": "After selling an option, a market maker may hedge with stock, ETFs or futures, then keep re-adjusting as delta shifts.",
+    "h": "Again and again and again.",
+    "q": "According to the episode, what is dynamic hedging?"
+   },
+   {
+    "a": [
+     "Feedback",
+     "Concentration",
+     "Sensitivity",
+     "Liquidity"
+    ],
+    "d": 2,
+    "e": "The steps are concentration, sensitivity, positioning, liquidity and feedback — whether an initial move could trigger hedge adjustments that reinforce it.",
+    "h": "Around and around it goes.",
+    "q": "What is the fifth and final step of the five-step tailwag test?"
+   },
+   {
+    "a": [
+     "The move is too small or too late, the option was too expensive, or implied volatility fell",
+     "Call options always lose money when the stock rises",
+     "Brokers cancel call options when the stock rises",
+     "Calls only pay out if the stock falls"
+    ],
+    "d": 2,
+    "e": "Direction matters, but it isn't the entire contract — size, timing, price paid and implied volatility all count.",
+    "h": "Direction is not the entire contract.",
+    "q": "Per the episode, how can you correctly predict a stock will rise and still lose money on a call?"
+   },
+   {
+    "a": [
+     "False — news, fundamentals, positioning, liquidity and ordinary supply and demand can all move markets",
+     "True — every sharp move is a gamma squeeze",
+     "True, but only on Fridays",
+     "False — sharp moves are always caused by earnings reports"
+    ],
+    "d": 1,
+    "e": "Many forces move markets; gamma is only one possible explanation.",
+    "h": "Not every move has the same cause.",
+    "q": "Myth number one in the episode was 'every sharp move is a gamma squeeze.' What was the verdict?"
+   },
+   {
+    "a": [
+     "Not an explanation — the beginning of an investigation",
+     "The complete answer to any sudden move",
+     "Proof the market is rigged",
+     "A myth because algorithms don't trade stocks"
+    ],
+    "d": 1,
+    "e": "Algorithms differ widely; the better question is what signal triggered which behavior, and under what conditions.",
+    "h": "Where the detective work starts.",
+    "q": "How does Donald describe the explanation 'algorithms did it'?"
+   },
+   {
+    "a": [
+     "What evidence would disprove it?",
+     "What will the stock do tomorrow?",
+     "Which influencer agrees with it?",
+     "How much money could I make from it?"
+    ],
+    "d": 2,
+    "e": "A theory that cannot be disproved is not analysis — it's storytelling.",
+    "h": "Analysis vs. storytelling.",
+    "q": "In this week's challenge, what does Donald call the most important question to ask about your explanation?"
+   }
+  ],
+  "series": "Wall Street Wednesday",
+  "title": "When the Tail Wags Wall Street",
+  "yt": "-HVhgHE6B9Q"
+ },
+ {
+  "cat": "M",
+  "ep": "EP15",
+  "id": "ep-tt15",
+  "order": 386,
+  "questions": [
+   {
+    "a": [
+     "A security backed by a pool of many mortgages whose payments flow to investors",
+     "A share of stock in a mortgage lender",
+     "A single homeowner's loan held in a bank vault",
+     "A government savings bond for first-time homebuyers"
+    ],
+    "d": 1,
+    "e": "Mortgages can be sold, pooled together, and used to support a security whose investors receive cash flows from the underlying loans.",
+    "h": "Thousands of ingredients make one filling.",
+    "q": "In the episode, what is a mortgage-backed security (MBS)?"
+   },
+   {
+    "a": [
+     "You may own the mortgage taco, but the homeowner controls the timer",
+     "The bank always controls the clock",
+     "The investor sets the payoff date",
+     "The Fed decides when every mortgage ends"
+    ],
+    "d": 1,
+    "e": "Homeowners can refinance, sell, prepay, or keep their loans longer, changing when investors get principal back.",
+    "h": "Who holds the giant silver timer?",
+    "q": "What is the episode's key phrase about who controls an MBS investor's timing?"
+   },
+   {
+    "a": [
+     "The servicer",
+     "The bull",
+     "The homeowner's neighbor",
+     "The stock exchange"
+    ],
+    "d": 1,
+    "e": "The servicer collects the payments, and the security delivers the packaged cash flow to investors.",
+    "h": "It services the loans.",
+    "q": "In the mortgage taco assembly line, who collects the homeowners' payments?"
+   },
+   {
+    "a": [
+     "Prepayment risk",
+     "Extension risk",
+     "Currency risk",
+     "Dividend risk"
+    ],
+    "d": 2,
+    "e": "Money comes back early, often just when reinvestment opportunities offer lower yields.",
+    "h": "The customer returned the taco before dinner.",
+    "q": "When interest rates fall and homeowners refinance, returning principal early, what risk does the MBS investor face?"
+   },
+   {
+    "a": [
+     "Extension risk",
+     "Prepayment risk",
+     "Inflation-indexing",
+     "A stock split"
+    ],
+    "d": 2,
+    "e": "Refinancing slows, the pool stays outstanding longer, and the security's expected life stretches.",
+    "h": "The mortgage taco just became extra large.",
+    "q": "When rates rise and homeowners keep their low-rate mortgages longer than expected, what is that called?"
+   },
+   {
+    "a": [
+     "How quickly will it arrive?",
+     "Who owns the house?",
+     "What is the stock price?",
+     "Which bank made the loan?"
+    ],
+    "d": 1,
+    "e": "MBS investors analyze not only whether homeowners pay, but when they pay.",
+    "h": "Think speed, not certainty.",
+    "q": "According to the episode, credit analysis asks 'Will the money arrive?' What does prepayment analysis ask?"
+   },
+   {
+    "a": [
+     "Ginnie Mae securities",
+     "Private-label (non-agency) securities",
+     "Corporate junk bonds",
+     "All mortgage securities equally"
+    ],
+    "d": 2,
+    "e": "Ginnie Mae securities carry the U.S. government's full faith and credit guarantee; Fannie Mae, Freddie Mac and private-label MBS have different structures.",
+    "h": "Its nickname sounds like a person's name.",
+    "q": "Which MBS carry the explicit full faith and credit guarantee of the U.S. government for timely principal and interest?"
+   },
+   {
+    "a": [
+     "No—prepayment, extension, rate, liquidity and price risks can remain",
+     "Yes—guaranteed means risk-free",
+     "Yes, but only for 30-year loans",
+     "No, because guarantees only cover fees"
+    ],
+    "d": 2,
+    "e": "A guarantee may cover specified payments but isn't a force field: prices, rates, prepayments and liquidity can still change.",
+    "h": "A protected ingredient doesn't make the taco indestructible.",
+    "q": "Per the episode's myth-busting, does a guarantee eliminate all MBS investment risk?"
+   }
+  ],
+  "series": "Taco Tuesday",
+  "title": "Mortgage-Backed Securities on the Menu",
+  "yt": "9zVAuzE_mVM"
+ },
+ {
   "cat": "L",
+  "ep": "EP15",
+  "id": "ep-mm15",
+  "order": 385,
   "questions": [
    {
     "a": [
@@ -103,16 +315,16 @@
     "h": "The goal is fewer withdrawals, not more.",
     "q": "Which is NOT one of the three 'payments' Donald asks listeners to make before the day ends?"
    }
-  ]
+  ],
+  "series": "Motivation Monday",
+  "title": "The Motivation Debt",
+  "yt": "czK86uWhQWU"
  },
  {
-  "id": "ep-fff14",
-  "series": "Future Forward Friday",
-  "ep": "EP14",
-  "title": "The Self-Driving Discovery Machine",
-  "order": 13,
   "cat": "R",
-  "yt": "z__mmAwY5yw",
+  "ep": "EP14",
+  "id": "ep-fff14",
+  "order": 13,
   "questions": [
    {
     "a": [
@@ -210,16 +422,16 @@
     "h": "Who approves objectives and can stop the process?",
     "q": "Which is the sixth layer of the episode's 'discovery stack'?"
    }
-  ]
+  ],
+  "series": "Future Forward Friday",
+  "title": "The Self-Driving Discovery Machine",
+  "yt": "z__mmAwY5yw"
  },
  {
-  "id": "ep-wsw-oct8",
-  "series": "Wall Street Wednesday",
-  "ep": "EP14",
-  "title": "When Records Lie",
-  "order": 12,
   "cat": "M",
-  "yt": "s-gMMpCfcz0",
+  "ep": "EP14",
+  "id": "ep-wsw-oct8",
+  "order": 12,
   "questions": [
    {
     "a": [
@@ -317,16 +529,16 @@
     "h": "Think about competition for investor money.",
     "q": "Why can higher Treasury yields pressure stocks, per the episode?"
    }
-  ]
+  ],
+  "series": "Wall Street Wednesday",
+  "title": "When Records Lie",
+  "yt": "s-gMMpCfcz0"
  },
  {
-  "id": "ep-tt-oct7",
-  "series": "Taco Tuesday",
-  "ep": "EP14",
-  "title": "Private Credit on the Menu",
-  "order": 11,
   "cat": "M",
-  "yt": "q-Fhh63tdBs",
+  "ep": "EP14",
+  "id": "ep-tt-oct7",
+  "order": 11,
   "questions": [
    {
     "a": [
@@ -424,16 +636,16 @@
     "h": "Extra yield is 'not free guacamole.'",
     "q": "What key question does the humanoid ask about private credit's extra yield?"
    }
-  ]
+  ],
+  "series": "Taco Tuesday",
+  "title": "Private Credit on the Menu",
+  "yt": "q-Fhh63tdBs"
  },
  {
-  "id": "ep-mm-oct6",
-  "series": "Motivation Monday",
-  "ep": "EP14",
-  "title": "The Approval Trap",
-  "order": 10,
   "cat": "L",
-  "yt": "6YY00B9srg8",
+  "ep": "EP14",
+  "id": "ep-mm-oct6",
+  "order": 10,
   "questions": [
    {
     "a": [
@@ -531,16 +743,16 @@
     "h": "It's an emotional bond to the idea, not evidence.",
     "q": "Per the episode, if no evidence could change your mind, what may you have instead of conviction?"
    }
-  ]
+  ],
+  "series": "Motivation Monday",
+  "title": "The Approval Trap",
+  "yt": "6YY00B9srg8"
  },
  {
-  "id": "ep-wsw04",
-  "series": "Wall Street Wednesday",
-  "ep": "EP04",
-  "title": "The Power of Time",
-  "order": 7,
   "cat": "M",
-  "yt": "zCdHx8PGEMc",
+  "ep": "EP04",
+  "id": "ep-wsw04",
+  "order": 7,
   "questions": [
    {
     "a": [
@@ -638,16 +850,16 @@
     "h": "Patience pays.",
     "q": "A long time horizon generally lets an investor..."
    }
-  ]
+  ],
+  "series": "Wall Street Wednesday",
+  "title": "The Power of Time",
+  "yt": "zCdHx8PGEMc"
  },
  {
-  "id": "ep-tt11",
-  "series": "Taco Tuesday",
-  "ep": "EP11",
-  "title": "Preferred Stocks on the Menu",
-  "order": 6,
   "cat": "P",
-  "yt": "vghlneKA17E",
+  "ep": "EP11",
+  "id": "ep-tt11",
+  "order": 6,
   "questions": [
    {
     "a": [
@@ -745,16 +957,16 @@
     "h": "Part stock, part bond.",
     "q": "Why do some investors call preferred stock a hybrid?"
    }
-  ]
+  ],
+  "series": "Taco Tuesday",
+  "title": "Preferred Stocks on the Menu",
+  "yt": "vghlneKA17E"
  },
  {
-  "id": "ep-tt10",
-  "series": "Taco Tuesday",
-  "ep": "EP10",
-  "title": "REITs on the Menu",
-  "order": 5,
   "cat": "P",
-  "yt": "uNvrwv7Z4m4",
+  "ep": "EP10",
+  "id": "ep-tt10",
+  "order": 5,
   "questions": [
    {
     "a": [
@@ -852,16 +1064,16 @@
     "h": "Not the lower rate.",
     "q": "Most REIT dividends are taxed..."
    }
-  ]
+  ],
+  "series": "Taco Tuesday",
+  "title": "REITs on the Menu",
+  "yt": "uNvrwv7Z4m4"
  },
  {
-  "id": "ep-tt09",
-  "series": "Taco Tuesday",
-  "ep": "EP09",
-  "title": "Dividends on the Menu",
-  "order": 4,
   "cat": "P",
-  "yt": "tX8GnReZtpU",
+  "ep": "EP09",
+  "id": "ep-tt09",
+  "order": 4,
   "questions": [
    {
     "a": [
@@ -959,16 +1171,16 @@
     "h": "Nothing is promised.",
     "q": "Are dividends guaranteed?"
    }
-  ]
+  ],
+  "series": "Taco Tuesday",
+  "title": "Dividends on the Menu",
+  "yt": "tX8GnReZtpU"
  },
  {
-  "id": "ep-tt045",
-  "series": "Taco Tuesday",
-  "ep": "EP04.5",
-  "title": "Bonds on the Menu",
-  "order": 3,
   "cat": "P",
-  "yt": "x_u-ydCWd3k",
+  "ep": "EP04.5",
+  "id": "ep-tt045",
+  "order": 3,
   "questions": [
    {
     "a": [
@@ -1066,16 +1278,16 @@
     "h": "Longest and no coupons.",
     "q": "Which bond is usually most sensitive to interest rate changes?"
    }
-  ]
+  ],
+  "series": "Taco Tuesday",
+  "title": "Bonds on the Menu",
+  "yt": "x_u-ydCWd3k"
  },
  {
-  "id": "ep-tt04",
-  "series": "Taco Tuesday",
-  "ep": "EP04",
-  "title": "Mutual Funds, Explained",
-  "order": 2,
   "cat": "P",
-  "yt": "E_vGz-Bxwec",
+  "ep": "EP04",
+  "id": "ep-tt04",
+  "order": 2,
   "questions": [
    {
     "a": [
@@ -1173,16 +1385,16 @@
     "h": "Someone is actively picking.",
     "q": "An actively managed mutual fund tries to..."
    }
-  ]
+  ],
+  "series": "Taco Tuesday",
+  "title": "Mutual Funds, Explained",
+  "yt": "E_vGz-Bxwec"
  },
  {
-  "id": "ep-tt03",
-  "series": "Taco Tuesday",
-  "ep": "EP03",
-  "title": "ETFs, Explained",
-  "order": 1,
   "cat": "P",
-  "yt": "LryjVn7aKzk",
+  "ep": "EP03",
+  "id": "ep-tt03",
+  "order": 1,
   "questions": [
    {
     "a": [
@@ -1304,16 +1516,16 @@
     "h": "Fixed income.",
     "q": "A bond ETF holds..."
    }
-  ]
+  ],
+  "series": "Taco Tuesday",
+  "title": "ETFs, Explained",
+  "yt": "LryjVn7aKzk"
  },
  {
-  "id": "ep-tt02",
-  "series": "Taco Tuesday",
-  "ep": "EP02",
-  "title": "Options, Made Simple",
-  "order": 0,
   "cat": "P",
-  "yt": "RMLgzuyNjHo",
+  "ep": "EP02",
+  "id": "ep-tt02",
+  "order": 0,
   "questions": [
    {
     "a": [
@@ -1411,6 +1623,9 @@
     "h": "The clock is ticking.",
     "q": "All else equal, options lose value as expiration approaches. This is called..."
    }
-  ]
+  ],
+  "series": "Taco Tuesday",
+  "title": "Options, Made Simple",
+  "yt": "RMLgzuyNjHo"
  }
 ]
