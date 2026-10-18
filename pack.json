@@ -1,115 +1,127 @@
 {
- "asOf": "2026-10-09",
- "id": "2026-W41",
- "label": "Week of Oct 5, 2026",
+ "asOf": "2026-10-16",
+ "id": "2026-W42",
+ "label": "Week of Oct 12, 2026",
  "questions": [
   {
    "a": [
-    "Raised it 0.25 point to 3.75%-4.00%",
-    "Cut it 0.25 point to 3.25%-3.50%",
-    "Held it at 3.50%-3.75%",
-    "Cut it 0.50 point to 3.00%-3.25%"
-   ],
-   "d": 2,
-   "e": "The FOMC voted 12-0 to raise the target range by a quarter point, to 3.75% to 4.00%.",
-   "h": "It was unanimous, and rates went up.",
-   "q": "At its September 16, 2026 meeting, what did the FOMC do with the fed funds target range?"
-  },
-  {
-   "a": [
-    "29,000",
-    "290,000",
-    "129,000",
-    "9,000"
-   ],
-   "d": 2,
-   "e": "Payrolls rose by just 29,000 in September, well below the roughly 90,000 economists expected.",
-   "h": "Well under 100,000.",
-   "q": "The September 2026 jobs report (released October 2) showed nonfarm payrolls rising by about how much?"
-  },
-  {
-   "a": [
-    "4.2%",
-    "3.5%",
-    "5.5%",
-    "6.1%"
+    "3.7%",
+    "1.9%",
+    "5.8%",
+    "0.7%"
    ],
    "d": 1,
-   "e": "The Bureau of Labor Statistics reported a 4.2% unemployment rate for September 2026.",
-   "h": "Just above 4%.",
-   "q": "What was the U.S. unemployment rate in the September 2026 jobs report?"
+   "e": "Headline inflation of 3.7% is well above the Fed's 2% goal, which raises pressure on the central bank to keep rates high or even raise them.",
+   "h": "Between 3% and 4%",
+   "q": "The September CPI report, released Oct. 14, showed consumer prices rose by how much over the prior 12 months?"
   },
   {
    "a": [
-    "About 5.25%",
-    "About 3.25%",
-    "About 4.25%",
-    "About 6.25%"
+    "Gasoline",
+    "Used cars",
+    "Airline fares",
+    "Medical care"
    ],
    "d": 2,
-   "e": "The 10-year yield finished the week just under 5.25% after touching nearly 5.37% midweek. Higher yields raise borrowing costs across the economy, including mortgages.",
-   "h": "Above 5%.",
-   "q": "The 10-year Treasury yield ended the week of October 5, 2026 near which level, close to its highest in about 24 years?"
+   "e": "Gasoline prices jumped 9.1% in the month (seasonally adjusted), showing how energy shocks can quickly push up headline inflation.",
+   "h": "You buy it at the pump",
+   "q": "According to the BLS, which single item accounted for over half of the 0.6% monthly rise in September CPI?"
   },
   {
    "a": [
-    "About $91",
-    "About $61",
-    "About $121",
-    "About $45"
+    "2.6%",
+    "4.4%",
+    "1.1%",
+    "6.0%"
    ],
-   "d": 1,
-   "e": "WTI traded around $91 a barrel, with international benchmark Brent near $104, as energy supply worries kept prices elevated.",
-   "h": "Above $90.",
-   "q": "Near what price per barrel did U.S. benchmark WTI crude oil trade on October 9, 2026?"
+   "d": 3,
+   "e": "Core inflation was much lower than the 3.7% headline rate, a sign that energy was the main driver of September's jump.",
+   "h": "Lower than headline",
+   "q": "Core CPI, which strips out food and energy, rose how much in the 12 months through September?"
   },
   {
    "a": [
-    "7,811",
-    "5,811",
-    "6,811",
-    "8,811"
-   ],
-   "d": 1,
-   "e": "The S&P 500 closed near 7,811.5, rising 0.6% on the day to end the week higher.",
-   "h": "Between 7,000 and 8,000.",
-   "q": "The S&P 500 closed Friday, October 9, 2026 at about what level?"
-  },
-  {
-   "a": [
-    "Wireless carriers like T-Mobile, AT&T and Verizon",
-    "Airlines",
-    "Gold miners",
-    "Regional banks"
+    "1.3%",
+    "0.1%",
+    "-0.8%",
+    "3.5%"
    ],
    "d": 2,
-   "e": "Investors saw the deal as a step toward Starlink competing as a mobile carrier. T-Mobile, AT&T and Verizon fell sharply, while cell tower owners rose.",
-   "h": "Who sells your phone plan?",
-   "q": "On October 9, 2026, SpaceX agreed to buy a nationwide block of wireless spectrum. Which group of stocks fell sharply on the news?"
+   "e": "The monthly gain was more than double the roughly 0.6% economists expected, adding to worries about price pressures moving through the supply chain.",
+   "h": "More than 1% in one month",
+   "q": "The Producer Price Index for final demand jumped how much in September alone, per the Oct. 15 BLS report?"
   },
   {
    "a": [
-    "Delta Air Lines",
-    "Southwest Airlines",
-    "JetBlue",
-    "Alaska Air"
-   ],
-   "d": 2,
-   "e": "Delta's report is traditionally one of the first of earnings season, and its cut outlook weighed on airline stocks.",
-   "h": "It's based in Atlanta.",
-   "q": "Which airline reported weaker-than-expected earnings and cut its 2026 profit outlook in the week of October 5, 2026, citing pressures including high fuel costs?"
-  },
-  {
-   "a": [
-    "The big banks",
-    "Big tech",
-    "Utilities",
-    "Retailers"
+    "Fell about 4.5%",
+    "Rose about 4.5%",
+    "Fell about 0.5%",
+    "Fell about 12%"
    ],
    "d": 1,
-   "e": "Major banks like JPMorgan traditionally report first, giving an early read on consumers, lending and the economy.",
-   "h": "Think Wall Street's largest lenders.",
-   "q": "Third-quarter 2026 earnings season ramps up on Tuesday, October 13. Which group traditionally kicks it off?"
+   "e": "A selloff in AI-linked and chip stocks drove the tech-heavy index to its steepest weekly drop in months, ending a four-week winning streak.",
+   "h": "Tech had a rough week",
+   "q": "How did the Nasdaq Composite fare for the week ended Oct. 16?"
+  },
+  {
+   "a": [
+    "Dow Jones Industrial Average",
+    "Nasdaq Composite",
+    "S&P 500",
+    "Russell 2000"
+   ],
+   "d": 1,
+   "e": "The Dow rose about 0.7% for the week while the S&P 500, Nasdaq and Russell 2000 fell, showing how less tech-heavy indexes can hold up when tech sells off.",
+   "h": "30 blue chips",
+   "q": "Which major U.S. stock index managed a gain for the week ended Oct. 16?"
+  },
+  {
+   "a": [
+    "72%",
+    "7%",
+    "25% decline",
+    "150%"
+   ],
+   "d": 3,
+   "e": "Strong trading activity drove Goldman's results; its equities business brought in $6.44 billion in the quarter, per its SEC filing.",
+   "h": "Up sharply, but under double",
+   "q": "Goldman Sachs beat Q3 estimates with EPS of $17.01. By about how much did its equities net revenues rise from a year earlier?"
+  },
+  {
+   "a": [
+    "About 51%",
+    "About 5%",
+    "About 120%",
+    "It fell about 10%"
+   ],
+   "d": 2,
+   "e": "TSMC makes chips for many AI and smartphone companies, so its growth is a widely watched gauge of AI-related demand.",
+   "h": "About half again as much",
+   "q": "Chipmaker TSMC reported Q3 revenue of about $46.7 billion on Oct. 15. Roughly how much did revenue grow year over year?"
+  },
+  {
+   "a": [
+    "Bangkok",
+    "Washington, D.C.",
+    "Jackson Hole",
+    "Frankfurt"
+   ],
+   "d": 2,
+   "e": "The IMF and World Bank meetings were held in Bangkok, where investors listened closely for hints on the Fed's next rate move.",
+   "h": "Capital of Thailand",
+   "q": "Fed Chair Kevin Warsh spoke at a fireside chat with IMF Managing Director Kristalina Georgieva this week in which city?"
+  },
+  {
+   "a": [
+    "Oct. 27-28",
+    "Oct. 20-21",
+    "Nov. 3-4",
+    "Nov. 17-18"
+   ],
+   "d": 1,
+   "e": "The FOMC sets the federal funds rate; its decision is due at 2 p.m. ET on Oct. 28, followed by the Chair's press conference.",
+   "h": "End of this month",
+   "q": "When is the Federal Reserve's next scheduled FOMC policy meeting?"
   }
  ]
 }

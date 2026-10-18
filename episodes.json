@@ -1,5 +1,112 @@
 [
  {
+  "cat": "R",
+  "ep": "Oct 16",
+  "id": "ep-fff-oct16",
+  "order": 389,
+  "questions": [
+   {
+    "a": [
+     "Super Intelligence (SI)",
+     "Advanced Computing (AC)",
+     "Machine Intelligence (MI)",
+     "General Intelligence (GI)"
+    ],
+    "d": 1,
+    "e": "The order directed agencies to use \"Super Intelligence\" and \"SI\" instead of \"AI\" in official communications and non-statutory materials.",
+    "h": "It's the title the ceremony wants to award.",
+    "q": "A September 29, 2026 executive order told the executive branch to use which term in place of \"artificial intelligence\"?"
+   },
+   {
+    "a": [
+     "Narrow AI, general intelligence (AGI), superintelligence",
+     "Chatbots, robots, cyborgs",
+     "Data, models, products",
+     "Prediction, reasoning, consciousness"
+    ],
+    "d": 1,
+    "e": "The humanoid rides from narrow AI to AGI, then presses the button for the superintelligence penthouse.",
+    "h": "The penthouse is the 'super' level.",
+    "q": "According to the episode, what are the three floors of the intelligence elevator, bottom to top?"
+   },
+   {
+    "a": [
+     "Built for particular categories of tasks, not necessarily weak",
+     "Weak and unreliable at every task",
+     "Limited to one company's data",
+     "Too small to run on a phone"
+    ],
+    "d": 2,
+    "e": "Donald stresses narrow doesn't mean weak: a narrow system can beat humans at a specific task, but that strength may not transfer to unfamiliar settings.",
+    "h": "Think scope, not strength.",
+    "q": "In the episode, what does the word \"narrow\" in narrow AI mean?"
+   },
+   {
+    "a": [
+     "How strong the performance is and how broad the range of tasks",
+     "How fast it runs and how much it costs",
+     "How many users it has and how much data it uses",
+     "How human it sounds and how polite it is"
+    ],
+    "d": 2,
+    "e": "Performance and breadth both matter, which is why one benchmark can't settle whether a system is AGI.",
+    "h": "Depth and width.",
+    "q": "Researchers have proposed measuring AGI along which two dimensions, according to the episode?"
+   },
+   {
+    "a": [
+     "Breadth, autonomy, discovery, self-improvement, verification",
+     "Speed, memory, creativity, empathy, consciousness",
+     "Accuracy, cost, safety, scale, branding",
+     "Language, code, images, data, robots"
+    ],
+    "d": 1,
+    "e": "To reach the penthouse, the system must earn breadth, autonomy, discovery, self-improvement and verification.",
+    "h": "The fifth one stays locked.",
+    "q": "Which set lists the five badges of the episode's \"respect test\"?"
+   },
+   {
+    "a": [
+     "When not to act",
+     "How to avoid all human input",
+     "How to act as fast as possible",
+     "When to ask for more computing power"
+    ],
+    "d": 2,
+    "e": "A machine traveling efficiently in the wrong direction isn't wise; it's just accelerating the error.",
+    "h": "Sometimes the smartest move is stopping.",
+    "q": "According to the episode, reliable autonomy requires judgment about what?"
+   },
+   {
+    "a": [
+     "How convincingly it flaps its wings",
+     "How loud its engines are",
+     "How many passengers it carries",
+     "How shiny its paint is"
+    ],
+    "d": 2,
+    "e": "A machine may not need to think like a human to become enormously powerful.",
+    "h": "Birds do it; planes don't.",
+    "q": "The episode says judging AI only by how well it imitates human conversation is like judging an airplane by what?"
+   },
+   {
+    "a": [
+     "A conditional promotion: the nameplate stays suspended pending evidence",
+     "Full approval effective immediately",
+     "Permanent rejection of the title",
+     "Postponed until AI becomes conscious"
+    ],
+    "d": 1,
+    "e": "Not rejected, not fully approved: the title must be earned through capability, reliability, verification, security and responsibility.",
+    "h": "Not yes, not no.",
+    "q": "What was the committee's final ruling on the \"super\" title?"
+   }
+  ],
+  "series": "Future Forward Friday",
+  "title": "Put Some Respect On My Name: AI vs. Superintelligence",
+  "yt": "wqTluLWZwpE"
+ },
+ {
   "cat": "M",
   "ep": "EP15",
   "id": "ep-wsw15",
