@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-15",
- "id": "2026-10-15",
- "label": "Thu, Oct 15",
+ "asOf": "2026-10-16",
+ "id": "2026-10-16",
+ "label": "Fri, Oct 16",
  "questions": [
   {
    "a": [
     "Dow Jones Industrial Average",
     "Nasdaq Composite",
     "S&P 500",
-    "Nasdaq-100"
+    "Russell 2000"
    ],
    "d": 1,
-   "e": "The Dow rose about 556 points (+1.08%) to roughly 52,178 as money rotated out of tech, while the Nasdaq Composite eked out a gain of less than 0.1%.",
-   "h": "The 30-stock blue-chip average",
-   "q": "On Thursday, Oct 15, which major U.S. index gained more than 1% and closed above 52,000?"
+   "e": "The Dow rose about 0.7% for the week, its second straight weekly gain, while the S&P 500 lost about 2% and the Nasdaq about 4.5%.",
+   "h": "Think blue chips, not tech.",
+   "q": "For the week ending Friday, Oct 16, which major U.S. index finished with a weekly GAIN while the others fell?"
   },
   {
    "a": [
-    "1.3%",
-    "0.1%",
-    "-0.4%",
-    "3.5%"
-   ],
-   "d": 2,
-   "e": "The Bureau of Labor Statistics reported a 1.3% monthly jump in wholesale prices, the largest since March 2022; prices were up 6.3% from a year earlier.",
-   "h": "A bit more than 1%",
-   "q": "The Producer Price Index for final demand, released Oct 15, rose by how much in September (month over month, seasonally adjusted)?"
-  },
-  {
-   "a": [
-    "Fell about 0.10 percentage point to near 5.1%",
-    "Rose about 0.10 percentage point to near 5.3%",
-    "Held flat near 4.0%",
-    "Jumped above 6%"
-   ],
-   "d": 2,
-   "e": "The 10-year yield dropped roughly 10 basis points to about 5.09%, one of its biggest one-day declines in months. When yields fall, bond prices rise.",
-   "h": "Bonds rallied",
-   "q": "What did the 10-year Treasury yield do on Thursday, Oct 15?"
-  },
-  {
-   "a": [
-    "TSMC",
-    "Intel",
-    "Qualcomm",
-    "Texas Instruments"
+    "About 2%",
+    "About 0.2%",
+    "About 6%",
+    "It rose about 1%"
    ],
    "d": 1,
-   "e": "Taiwan Semiconductor Manufacturing Co. posted a record quarterly profit and gave strong fourth-quarter revenue guidance, but its stock slipped amid a broad selloff in AI and chip stocks.",
-   "h": "The world's largest contract chip manufacturer",
-   "q": "Which chipmaker reported a record third-quarter profit that beat estimates on Oct 15, yet saw its shares fall?"
+   "e": "The Nasdaq dropped about 2.1% Friday, led by semiconductor and memory stocks, and lost about 4.5% for the week.",
+   "h": "A noticeable drop, but not a crash.",
+   "q": "Roughly how much did the Nasdaq Composite fall on Friday, Oct 16, as chip and AI stocks sold off?"
   },
   {
    "a": [
-    "Its Neutron medium-lift rocket",
-    "A satellite internet service",
-    "A crewed lunar lander",
-    "A space tourism capsule"
+    "Around $100 a barrel",
+    "Around $60 a barrel",
+    "Around $40 a barrel",
+    "Around $150 a barrel"
+   ],
+   "d": 1,
+   "e": "WTI jumped about 3.5% to roughly $101 a barrel as Middle East supply worries pushed energy prices higher; Brent finished near $110.",
+   "h": "A big round number.",
+   "q": "Where did U.S. benchmark West Texas Intermediate (WTI) crude oil end on Friday, Oct 16?"
+  },
+  {
+   "a": [
+    "About 5%",
+    "About 2%",
+    "About 3.5%",
+    "About 7%"
    ],
    "d": 2,
-   "e": "Rocket Lab pushed the first launch of its Neutron rocket into 2027, sending the stock down by double digits.",
-   "h": "A bigger rocket than its Electron",
-   "q": "Rocket Lab shares fell sharply on Oct 15 after the company delayed the debut of what?"
+   "e": "The 10-year yield ended the day around 5.1%, up slightly on the day but lower for the week after spiking above 5.3% following Wednesday's hot CPI report.",
+   "h": "Think in whole numbers.",
+   "q": "The 10-year Treasury yield, a key benchmark for mortgages and borrowing costs, hovered near what level on Friday, Oct 16?"
+  },
+  {
+   "a": [
+    "About $2 trillion",
+    "About $500 billion",
+    "About $5 trillion",
+    "About $10 trillion"
+   ],
+   "d": 2,
+   "e": "The FY2026 deficit was about $1.99 trillion, up from about $1.78 trillion a year earlier and the largest in five years, as spending and interest costs outpaced record revenue.",
+   "h": "Just shy of a round number of trillions.",
+   "q": "On Friday, Oct 16, the U.S. Treasury reported the federal budget deficit for fiscal year 2026 (ended Sept 30). Roughly how large was it?"
   }
  ]
 }

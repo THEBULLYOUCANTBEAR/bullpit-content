@@ -1,16 +1,16 @@
 {
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "q": {
   "a": [
-   "J.P. Morgan",
-   "John D. Rockefeller",
-   "Andrew Carnegie",
-   "Cornelius Vanderbilt"
+   "Walt Disney",
+   "Comcast",
+   "Netflix",
+   "Sony Group"
   ],
-  "c": "H",
-  "d": 2,
-  "e": "The panic exposed the lack of a lender of last resort and helped lead to the creation of the Federal Reserve in 1913.",
-  "h": "His name is on a giant bank today.",
-  "q": "Which financier is credited with organizing bankers to calm the Panic of 1907?"
+  "c": "O",
+  "d": 1,
+  "e": "The Mouse House bought Pixar in 2006 for about $7.4 billion, making Steve Jobs its largest individual shareholder at the time.",
+  "h": "Pixar's films have long been released under a famous castle logo.",
+  "q": "Pixar Animation Studios is owned by which company?"
  }
 }
