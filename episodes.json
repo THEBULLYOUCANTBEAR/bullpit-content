@@ -1,5 +1,112 @@
 [
  {
+  "cat": "L",
+  "ep": "Oct 19",
+  "id": "ep-mm-oct19",
+  "order": 392,
+  "questions": [
+   {
+    "a": [
+     "Turning a single event into a permanent identity",
+     "Making you work too hard on the next attempt",
+     "Hiding the name of the person who said no",
+     "Making every opportunity look equally attractive"
+    ],
+    "d": 1,
+    "e": "Donald says 'I was rejected' quickly becomes 'I am not good enough' — an event becomes an identity.",
+    "h": "Event vs. identity.",
+    "q": "According to the episode, what is one of rejection's most dangerous tricks?"
+   },
+   {
+    "a": [
+     "Not yet, not here, not this way, not without growth",
+     "Not now, not ever, not you, not me",
+     "Too early, too late, too small, too big",
+     "Fact, feeling, fear, failure"
+    ],
+    "d": 1,
+    "e": "Each file gives a different instruction even though the word 'no' sounds the same.",
+    "h": "Each starts with 'Not…'.",
+    "q": "What are the four files the Rejection Intelligence Unit uses to classify a no?"
+   },
+   {
+    "a": [
+     "Prepare aggressively until timing catches up",
+     "Wait passively for the market to change",
+     "Abandon the goal and pick a new one",
+     "Repeat the same pitch more often"
+    ],
+    "d": 2,
+    "e": "Donald says 'not yet' is not permission to wait passively; build skills, relationships and visibility so you're ready.",
+    "h": "The opposite of waiting passively.",
+    "q": "In the episode, a 'not yet' rejection is an invitation to do what?"
+   },
+   {
+    "a": [
+     "A seed with great potential planted in the wrong soil",
+     "A ship sailing into a storm",
+     "A runner starting before the gun",
+     "A bull charging the wrong fence"
+    ],
+    "d": 2,
+    "e": "The seed isn't defective; the environment is mismatched, so sometimes the move is to find better soil.",
+    "h": "Think gardening.",
+    "q": "What image does Donald use to explain the 'not here' file?"
+   },
+   {
+    "a": [
+     "Staying committed to the objective while being flexible about the route",
+     "Forcing the same key harder until the lock gives",
+     "Never changing your plan once it's set",
+     "Walking away the first time a door stays closed"
+    ],
+    "d": 2,
+    "e": "Forcing the same key breaks it; persistence keeps the mission but changes the method.",
+    "h": "Keep the destination, change the route.",
+    "q": "According to the broken-key story, what does true persistence mean?"
+   },
+   {
+    "a": [
+     "Feel, File, Find, Fix, Forward",
+     "Focus, Fight, Finish, Flex, Fly",
+     "Face, Forgive, Forget, Focus, Follow",
+     "Find, Fund, Fix, Flip, Finish"
+    ],
+    "d": 1,
+    "e": "Acknowledge the emotion, classify the no, find the information, fix what's yours, then take one forward action.",
+    "h": "It ends with 'Forward'.",
+    "q": "What are the five steps of the F5 Protocol?"
+   },
+   {
+    "a": [
+     "When emotion is too loud to interpret the evidence clearly",
+     "When the mission is valuable and progress is measurable",
+     "When a better route clearly exists",
+     "Whenever the bear brings a calculator"
+    ],
+    "d": 2,
+    "e": "Push when progress is measurable, pivot when a better route exists, and pause when emotion distorts the evidence.",
+    "h": "Emotion vs. evidence.",
+    "q": "In the bull-bear-humanoid debate, when does the humanoid say to pause?"
+   },
+   {
+    "a": [
+     "So no single gatekeeper becomes the sole custodian of your future",
+     "So you can avoid committing to any one goal",
+     "Because spreading effort guarantees acceptance",
+     "Because rejection only happens with single opportunities"
+    ],
+    "d": 2,
+    "e": "Multiple pathways, relationships and skills build strategic resilience without weakening commitment to the mission.",
+    "h": "Don't put every hope behind one door.",
+    "q": "Why does Donald recommend treating opportunity as a portfolio?"
+   }
+  ],
+  "series": "Motivation Monday",
+  "title": "The No Advantage: How Rejection Reveals Your Next Move",
+  "yt": "QOD0m0uoK8M"
+ },
+ {
   "cat": "R",
   "ep": "Oct 16",
   "id": "ep-fff-oct16",

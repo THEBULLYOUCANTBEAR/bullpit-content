@@ -1,16 +1,16 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "q": {
   "a": [
-   "Walt Disney",
-   "Comcast",
-   "Netflix",
-   "Sony Group"
+   "Run for U.S. president",
+   "Serve in Congress",
+   "Sit on the Supreme Court",
+   "Serve as a state governor"
   ],
-  "c": "O",
+  "c": "W",
   "d": 1,
-  "e": "The Mouse House bought Pixar in 2006 for about $7.4 billion, making Steve Jobs its largest individual shareholder at the time.",
-  "h": "Pixar's films have long been released under a famous castle logo.",
-  "q": "Pixar Animation Studios is owned by which company?"
+  "e": "Woodhull ran on the Equal Rights Party ticket against Ulysses S. Grant, decades before women could vote nationally.",
+  "h": "Think about the highest office in the land.",
+  "q": "Victoria Woodhull opened a Wall Street brokerage in 1870. In 1872, she became the first woman to do what?"
  }
 }

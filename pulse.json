@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-16",
- "id": "2026-10-16",
- "label": "Fri, Oct 16",
+ "asOf": "2026-10-19",
+ "id": "2026-10-19",
+ "label": "Mon, Oct 19",
  "questions": [
   {
    "a": [
-    "Dow Jones Industrial Average",
     "Nasdaq Composite",
+    "Dow Jones Industrial Average",
     "S&P 500",
     "Russell 2000"
    ],
    "d": 1,
-   "e": "The Dow rose about 0.7% for the week, its second straight weekly gain, while the S&P 500 lost about 2% and the Nasdaq about 4.5%.",
-   "h": "Think blue chips, not tech.",
-   "q": "For the week ending Friday, Oct 16, which major U.S. index finished with a weekly GAIN while the others fell?"
+   "e": "The Nasdaq rose about 1.1% and the S&P 500 about 0.4%, while the Dow slipped slightly as tech did most of the lifting.",
+   "h": "The tech-heavy one.",
+   "q": "On Monday, Oct 19, which major U.S. index posted the biggest percentage gain as tech and chip stocks rebounded from the prior week's sell-off?"
   },
   {
    "a": [
-    "About 2%",
-    "About 0.2%",
-    "About 6%",
-    "It rose about 1%"
-   ],
-   "d": 1,
-   "e": "The Nasdaq dropped about 2.1% Friday, led by semiconductor and memory stocks, and lost about 4.5% for the week.",
-   "h": "A noticeable drop, but not a crash.",
-   "q": "Roughly how much did the Nasdaq Composite fall on Friday, Oct 16, as chip and AI stocks sold off?"
-  },
-  {
-   "a": [
-    "Around $100 a barrel",
-    "Around $60 a barrel",
-    "Around $40 a barrel",
-    "Around $150 a barrel"
-   ],
-   "d": 1,
-   "e": "WTI jumped about 3.5% to roughly $101 a barrel as Middle East supply worries pushed energy prices higher; Brent finished near $110.",
-   "h": "A big round number.",
-   "q": "Where did U.S. benchmark West Texas Intermediate (WTI) crude oil end on Friday, Oct 16?"
-  },
-  {
-   "a": [
-    "About 5%",
-    "About 2%",
-    "About 3.5%",
-    "About 7%"
+    "2012",
+    "2022",
+    "2019",
+    "2016"
    ],
    "d": 2,
-   "e": "The 10-year yield ended the day around 5.1%, up slightly on the day but lower for the week after spiking above 5.3% following Wednesday's hot CPI report.",
-   "h": "Think in whole numbers.",
-   "q": "The 10-year Treasury yield, a key benchmark for mortgages and borrowing costs, hovered near what level on Friday, Oct 16?"
+   "e": "Builder sentiment dropped 3 points to 29, the lowest since June 2012, as rising mortgage rates kept buyers on the sidelines; 43% of builders cut prices.",
+   "h": "Think back about 14 years.",
+   "q": "The NAHB/Wells Fargo homebuilder confidence index fell to 29 in October, released Monday, Oct 19. That was its lowest reading since what year?"
   },
   {
    "a": [
-    "About $2 trillion",
-    "About $500 billion",
-    "About $5 trillion",
-    "About $10 trillion"
+    "Amazon",
+    "Apple",
+    "Meta Platforms",
+    "JPMorgan Chase"
+   ],
+   "d": 1,
+   "e": "Amazon gained roughly 5% on cloud optimism after Morgan Stanley named it its top pick and raised its price target.",
+   "h": "Think online retail and cloud computing.",
+   "q": "Which megacap stock jumped nearly 5% on Monday, Oct 19, after Morgan Stanley named it a top pick?"
+  },
+  {
+   "a": [
+    "Cleveland-Cliffs",
+    "Nucor",
+    "Steel Dynamics",
+    "Alcoa"
    ],
    "d": 2,
-   "e": "The FY2026 deficit was about $1.99 trillion, up from about $1.78 trillion a year earlier and the largest in five years, as spending and interest costs outpaced record revenue.",
-   "h": "Just shy of a round number of trillions.",
-   "q": "On Friday, Oct 16, the U.S. Treasury reported the federal budget deficit for fiscal year 2026 (ended Sept 30). Roughly how large was it?"
+   "e": "Cleveland-Cliffs jumped by double digits after reporting third-quarter results that topped analysts' profit expectations.",
+   "h": "Named after an Ohio city.",
+   "q": "Which U.S. steelmaker's shares surged on Monday, Oct 19, after it beat third-quarter profit estimates?"
+  },
+  {
+   "a": [
+    "SpaceX",
+    "Tesla",
+    "Meta Platforms",
+    "Apple"
+   ],
+   "d": 1,
+   "e": "SpaceX said it would post Q3 2026 results after the close on Oct 20 with a 4:30 p.m. ET webcast; Tesla and Meta report on Wednesday.",
+   "h": "Rockets and Starlink.",
+   "q": "Which company scheduled its third-quarter 2026 results for after the market close on Tuesday, Oct 20?"
   }
  ]
 }
