@@ -1,16 +1,16 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-21",
  "q": {
   "a": [
-   "Run for U.S. president",
-   "Serve in Congress",
-   "Sit on the Supreme Court",
-   "Serve as a state governor"
+   "Gains come slowly, drops come fast",
+   "Small caps beat large caps",
+   "Prices rise faster than they fall",
+   "Elevators beat stairs long-term"
   ],
-  "c": "W",
+  "c": "L",
   "d": 1,
-  "e": "Woodhull ran on the Equal Rights Party ticket against Ulysses S. Grant, decades before women could vote nationally.",
-  "h": "Think about the highest office in the land.",
-  "q": "Victoria Woodhull opened a Wall Street brokerage in 1870. In 1872, she became the first woman to do what?"
+  "e": "Rallies tend to build gradually while sell-offs can be sudden and sharp, which is why volatility spikes in declines.",
+  "h": "Compare climbing to a quick ride down.",
+  "q": "The saying \"stocks take the stairs up and the elevator down\" means..."
  }
 }

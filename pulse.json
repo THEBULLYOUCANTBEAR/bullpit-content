@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-19",
- "id": "2026-10-19",
- "label": "Mon, Oct 19",
+ "asOf": "2026-10-21",
+ "id": "2026-10-20",
+ "label": "Tue, Oct 20",
  "questions": [
   {
    "a": [
-    "Nasdaq Composite",
-    "Dow Jones Industrial Average",
-    "S&P 500",
-    "Russell 2000"
+    "More than 500 points",
+    "About 50 points",
+    "About 1,500 points",
+    "It fell about 500 points"
    ],
    "d": 1,
-   "e": "The Nasdaq rose about 1.1% and the S&P 500 about 0.4%, while the Dow slipped slightly as tech did most of the lifting.",
-   "h": "The tech-heavy one.",
-   "q": "On Monday, Oct 19, which major U.S. index posted the biggest percentage gain as tech and chip stocks rebounded from the prior week's sell-off?"
+   "e": "The Dow rose more than 500 points, about 1%, to close above 52,000, leading the major indexes as investors rotated into value and health care stocks.",
+   "h": "Think about 1% of a 52,000-point index.",
+   "q": "On Tuesday, Oct 20, 2026, roughly how many points did the Dow Jones Industrial Average gain?"
   },
   {
    "a": [
-    "2012",
-    "2022",
-    "2019",
-    "2016"
+    "Health care",
+    "Energy",
+    "Communication services",
+    "Technology"
+   ],
+   "d": 1,
+   "e": "Health care led all 11 S&P 500 sectors and hit a record, with Eli Lilly, UnitedHealth and Merck among the gainers. Energy lagged as oil eased from a five-month high.",
+   "h": "Drugmakers and insurers led the way.",
+   "q": "Which S&P 500 sector led the market on Oct 20, 2026 and hit a record high?"
+  },
+  {
+   "a": [
+    "They fell about 7%",
+    "They rose about 7%",
+    "They were flat",
+    "They rose about 20%"
    ],
    "d": 2,
-   "e": "Builder sentiment dropped 3 points to 29, the lowest since June 2012, as rising mortgage rates kept buyers on the sidelines; 43% of builders cut prices.",
-   "h": "Think back about 14 years.",
-   "q": "The NAHB/Wells Fargo homebuilder confidence index fell to 29 in October, released Monday, Oct 19. That was its lowest reading since what year?"
+   "e": "GM beat profit estimates with adjusted EPS of $3.70, but shares slid about 7% on signs of higher commodity costs and lower truck sales. GM narrowed its 2026 adjusted EPS guidance to $12.75 to $13.75.",
+   "h": "A beat doesn't always mean a rally.",
+   "q": "How did General Motors shares react to GM's third-quarter report on Oct 20, 2026?"
   },
   {
    "a": [
     "Amazon",
-    "Apple",
-    "Meta Platforms",
-    "JPMorgan Chase"
-   ],
-   "d": 1,
-   "e": "Amazon gained roughly 5% on cloud optimism after Morgan Stanley named it its top pick and raised its price target.",
-   "h": "Think online retail and cloud computing.",
-   "q": "Which megacap stock jumped nearly 5% on Monday, Oct 19, after Morgan Stanley named it a top pick?"
-  },
-  {
-   "a": [
-    "Cleveland-Cliffs",
-    "Nucor",
-    "Steel Dynamics",
-    "Alcoa"
+    "Netflix",
+    "General Motors",
+    "Hasbro"
    ],
    "d": 2,
-   "e": "Cleveland-Cliffs jumped by double digits after reporting third-quarter results that topped analysts' profit expectations.",
-   "h": "Named after an Ohio city.",
-   "q": "Which U.S. steelmaker's shares surged on Monday, Oct 19, after it beat third-quarter profit estimates?"
+   "e": "3M expanded its data-center partnership with Amazon, which included a warrant, and raised its full-year profit forecast after third-quarter adjusted EPS of $2.50 topped estimates.",
+   "h": "Think cloud computing giant.",
+   "q": "3M shares rose about 5% on Oct 20, 2026 after it raised its profit forecast and expanded a data-center partnership with which company?"
   },
   {
    "a": [
-    "SpaceX",
-    "Tesla",
-    "Meta Platforms",
-    "Apple"
+    "About $12.9 billion",
+    "About $5 billion",
+    "About $30 billion",
+    "About $50 billion"
    ],
-   "d": 1,
-   "e": "SpaceX said it would post Q3 2026 results after the close on Oct 20 with a 4:30 p.m. ET webcast; Tesla and Meta report on Wednesday.",
-   "h": "Rockets and Starlink.",
-   "q": "Which company scheduled its third-quarter 2026 results for after the market close on Tuesday, Oct 20?"
+   "d": 2,
+   "e": "Netflix reported Q3 revenue of about $12.87 billion, up roughly 12% from a year earlier, with a 34.6% operating margin. It forecast about $13.4 billion for Q4.",
+   "h": "Roughly a quarter of its full-year revenue of about $51 billion.",
+   "q": "Netflix reported third-quarter 2026 results after the close on Oct 20. About how much revenue did it report for the quarter?"
   }
  ]
 }

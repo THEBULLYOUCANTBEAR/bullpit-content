@@ -1,5 +1,111 @@
 [
  {
+  "cat": "M",
+  "ep": "Oct 20",
+  "id": "ep-tt-oct20",
+  "order": 393,
+  "questions": [
+   {
+    "a": [
+     "30 cents on the dollar",
+     "A 30% coupon",
+     "30 times earnings",
+     "A 30-day maturity"
+    ],
+    "d": 1,
+    "e": "The 'shell' ingredient: a $100 obligation selling for $30 trades at 30 cents on the dollar — but face value is not recovery value.",
+    "h": "Price vs. face value.",
+    "q": "In the episode, a bond with $100 face value trading at $30 is described as trading at what?"
+   },
+   {
+    "a": [
+     "Creates room for a potential recovery, but not the recovery itself",
+     "Guarantees the bond can't fall further",
+     "Locks in a return of face value",
+     "Converts the bond into secured debt"
+    ],
+    "d": 1,
+    "e": "Donald warns never to confuse 'it fell a long way' with 'it can't fall farther' — a security at 30 can still lose another 30.",
+    "h": "Room, not a promise.",
+    "q": "According to the episode, what does a low purchase price do for a distressed investor?"
+   },
+   {
+    "a": [
+     "Enterprise value",
+     "Collateral",
+     "Cash flow",
+     "Legal complexity"
+    ],
+    "d": 2,
+    "e": "The protein is enterprise value; cheese is collateral, salsa is cash flow, and hot sauce is legal complexity.",
+    "h": "The main filling.",
+    "q": "In the Vulture Taco, which ingredient is the 'protein' — the value of the operating business?"
+   },
+   {
+    "a": [
+     "Collateral is only worth what can realistically be recovered from it",
+     "Secured debt is always paid last",
+     "Secured bonds have no legal claim on assets",
+     "Courts cancel all liens in bankruptcy"
+    ],
+    "d": 2,
+    "e": "Assets may fetch far less in a quick or distressed sale, so collateral is what can actually be recovered, not just what exists.",
+    "h": "Fire-sale prices.",
+    "q": "According to the episode, why doesn't the label 'secured' guarantee full repayment?"
+   },
+   {
+    "a": [
+     "The fulcrum security",
+     "The coupon tranche",
+     "The waterfall cap",
+     "The vulture bond"
+    ],
+    "d": 2,
+    "e": "Its holders may be partially covered, sit at the center of negotiations, and may receive much of the new equity.",
+    "h": "The pivot point on the tray.",
+    "q": "What does the episode call the claim positioned near the point where the reorganized company's value runs out?"
+   },
+   {
+    "a": [
+     "It reorganizes and can keep operating under a court-confirmed plan",
+     "It automatically shuts down and disappears",
+     "Shareholders are always paid first",
+     "All debts are repaid at full face value"
+    ],
+    "d": 1,
+    "e": "Chapter 11 commonly lets a business reorganize and continue operating, though liquidation plans are also possible.",
+    "h": "Reorganize, not vanish.",
+    "q": "Under Chapter 11, what commonly happens to the business?"
+   },
+   {
+    "a": [
+     "Cheap describes the price; undervalued requires analysis",
+     "They mean exactly the same thing",
+     "Cheap means safe; undervalued means risky",
+     "Undervalued only applies to stocks, not bonds"
+    ],
+    "d": 1,
+    "e": "A big discount alone says nothing about value — it may be the market's warning, not its mistake.",
+    "h": "Price vs. analysis.",
+    "q": "In the 'hot sauce or hazard' round, what's the difference between 'cheap' and 'undervalued'?"
+   },
+   {
+    "a": [
+     "The recovery to justify the price and the risk",
+     "The company to return to its old glory",
+     "The highest available coupon",
+     "The bond to have fallen at least 70%"
+    ],
+    "d": 2,
+    "e": "The bull studies the turnaround, the bear the failure — the vulture studies the recovery versus the price.",
+    "h": "He doesn't need to love the company.",
+    "q": "According to the taco vulture, what does he need in order to invest?"
+   }
+  ],
+  "series": "Taco Tuesday",
+  "title": "Distressed Debt on the Menu: The Vulture Taco"
+ },
+ {
   "cat": "L",
   "ep": "Oct 19",
   "id": "ep-mm-oct19",
