@@ -1,5 +1,111 @@
 [
  {
+  "cat": "E",
+  "ep": "Oct 21",
+  "id": "ep-wsw-oct21",
+  "order": 394,
+  "questions": [
+   {
+    "a": [
+     "The mortgage lock-in effect",
+     "The wealth effect",
+     "The crowding-out effect",
+     "The January effect"
+    ],
+    "d": 1,
+    "e": "Owners aren't physically trapped but economically anchored: leaving the home also means surrendering a valuable low-rate loan.",
+    "h": "They feel locked in.",
+    "q": "What does the episode call it when low-rate homeowners stay put because selling means giving up their cheap loan?"
+   },
+   {
+    "a": [
+     "A rate valuable enough to keep but restrictive enough to limit your next move",
+     "A loan backed by gold reserves",
+     "A mortgage that must be repaid within five years",
+     "A jumbo loan reserved for luxury homes"
+    ],
+    "d": 1,
+    "e": "Donald's term for a low fixed rate that's too good to give up, which keeps owners from moving.",
+    "h": "Valuable, but it holds you in place.",
+    "q": "According to the episode, what is the \"golden handcuff mortgage\"?"
+   },
+   {
+    "a": [
+     "Demand can stay emotionally strong while financially qualified demand collapses",
+     "Nobody wants to own a home anymore",
+     "Higher rates always increase buyer demand",
+     "Demand depends only on the number of bedrooms"
+    ],
+    "d": 2,
+    "e": "People still want homes; higher financing costs remove qualified buyers without changing their desire to own.",
+    "h": "Wanting vs. being able to afford.",
+    "q": "What was the episode's \"first major insight\" about housing demand?"
+   },
+   {
+    "a": [
+     "The bond market, including long-term Treasury yields",
+     "The Federal Reserve setting them directly",
+     "Real estate agent commissions",
+     "Local property tax rates"
+    ],
+    "d": 1,
+    "e": "Mortgage rates reflect long-term Treasury yields, inflation expectations and what investors demand to hold mortgage-backed securities.",
+    "h": "Rates begin in the bond market.",
+    "q": "According to the episode, mortgage rates are most directly influenced by what?"
+   },
+   {
+    "a": [
+     "Low-rate owners can wait or delist, so supply shrinks too",
+     "The government fixes home prices nationally",
+     "Builders stopped building all new homes",
+     "Buyers are paying in cash only"
+    ],
+    "d": 2,
+    "e": "Like a restaurant with half the diners but half the meals cooked, tighter supply keeps prices stubborn even as activity freezes.",
+    "h": "Think of the restaurant analogy.",
+    "q": "Why does the episode say weak demand hasn't automatically crashed home prices?"
+   },
+   {
+    "a": [
+     "Asset rich does not always mean cash-flow comfortable",
+     "Renters always build more wealth than owners",
+     "Home equity can never be lost",
+     "A bigger house always lowers monthly costs"
+    ],
+    "d": 2,
+    "e": "An owner can feel wealthy from home value yet financially immobile because replacing that home has become expensive.",
+    "h": "Wealthy on paper, stuck in practice.",
+    "q": "The episode's \"housing paradox\" says what about homeowners?"
+   },
+   {
+    "a": [
+     "Fell more than 7%",
+     "Rose more than 7%",
+     "Were roughly unchanged",
+     "Fell more than 25%"
+    ],
+    "d": 1,
+    "e": "NAR reported pending home sales fell 7.3% month over month and 11.3% year over year in September 2026.",
+    "h": "A sharp drop, in single digits.",
+    "q": "Per NAR, how did pending home sales change in September 2026 versus August?"
+   },
+   {
+    "a": [
+     "Falling on easing inflation differs from falling on a weakening job market",
+     "Rates only fall when home prices rise",
+     "Any rate drop guarantees a housing boom",
+     "The reason never affects buyers"
+    ],
+    "d": 2,
+    "e": "Same direction, different message: a healthy thaw needs affordability plus economic stability and job confidence.",
+    "h": "Same direction, different message.",
+    "q": "Why does the episode say the reason mortgage rates fall matters?"
+   }
+  ],
+  "series": "Wall Street Wednesday",
+  "title": "The Housing Market Freeze: When Buyers Can't Afford to Enter and Sellers Can't Afford to Leave"
+ },
+ {
   "cat": "M",
   "ep": "Oct 20",
   "id": "ep-tt-oct20",
@@ -103,7 +209,8 @@
    }
   ],
   "series": "Taco Tuesday",
-  "title": "Distressed Debt on the Menu: The Vulture Taco"
+  "title": "Distressed Debt on the Menu: The Vulture Taco",
+  "yt": "AbKuBQHQjzM"
  },
  {
   "cat": "L",

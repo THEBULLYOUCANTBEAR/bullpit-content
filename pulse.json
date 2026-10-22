@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-21",
- "id": "2026-10-20",
- "label": "Tue, Oct 20",
+ "asOf": "2026-10-22",
+ "id": "2026-10-21",
+ "label": "Wed, Oct 21",
  "questions": [
   {
    "a": [
-    "More than 500 points",
-    "About 50 points",
-    "About 1,500 points",
-    "It fell about 500 points"
+    "Nasdaq Composite",
+    "S&P 500",
+    "Dow Jones Industrial Average",
+    "None of them; all three fell"
    ],
    "d": 1,
-   "e": "The Dow rose more than 500 points, about 1%, to close above 52,000, leading the major indexes as investors rotated into value and health care stocks.",
-   "h": "Think about 1% of a 52,000-point index.",
-   "q": "On Tuesday, Oct 20, 2026, roughly how many points did the Dow Jones Industrial Average gain?"
+   "e": "The tech-heavy Nasdaq rose about 1.1% to 26,702.86 as chipmakers rallied, beating the Dow's 0.7% gain and the S&P 500's 0.6% gain.",
+   "h": "Chip and tech stocks led the day.",
+   "q": "Which major U.S. index posted the biggest percentage gain on Wednesday, Oct 21, 2026?"
   },
   {
    "a": [
-    "Health care",
-    "Energy",
-    "Communication services",
-    "Technology"
+    "It raised its quarterly revenue forecast on AI demand",
+    "It announced a stock split",
+    "It agreed to be acquired",
+    "It was added to the Dow"
    ],
    "d": 1,
-   "e": "Health care led all 11 S&P 500 sectors and hit a record, with Eli Lilly, UnitedHealth and Merck among the gainers. Energy lagged as oil eased from a five-month high.",
-   "h": "Drugmakers and insurers led the way.",
-   "q": "Which S&P 500 sector led the market on Oct 20, 2026 and hit a record high?"
+   "e": "Super Micro raised its fiscal first-quarter revenue outlook to $18.5 billion to $19.5 billion, citing strong demand for AI platforms, ahead of its full report due Nov. 3.",
+   "h": "Think guidance, not a deal.",
+   "q": "Super Micro Computer shares jumped about 9.5% on Oct 21, 2026. What news drove the move?"
   },
   {
    "a": [
-    "They fell about 7%",
-    "They rose about 7%",
-    "They were flat",
-    "They rose about 20%"
+    "A fourth-quarter revenue forecast below expectations",
+    "A data breach",
+    "The CEO resigning",
+    "A price cut for all plans"
    ],
    "d": 2,
-   "e": "GM beat profit estimates with adjusted EPS of $3.70, but shares slid about 7% on signs of higher commodity costs and lower truck sales. GM narrowed its 2026 adjusted EPS guidance to $12.75 to $13.75.",
-   "h": "A beat doesn't always mean a rally.",
-   "q": "How did General Motors shares react to GM's third-quarter report on Oct 20, 2026?"
+   "e": "Netflix forecast about $13.44 billion in fourth-quarter revenue, short of the roughly $13.51 billion analysts expected, raising worries that growth momentum is slowing.",
+   "h": "It's about the outlook for the next quarter.",
+   "q": "Netflix shares fell about 5% on Oct 21, 2026 even though its profit beat estimates. What disappointed investors?"
   },
   {
    "a": [
-    "Amazon",
-    "Netflix",
-    "General Motors",
-    "Hasbro"
+    "SpaceX and Tesla are studying a possible merger",
+    "SpaceX will pay a special dividend",
+    "SpaceX is moving its listing to London",
+    "SpaceX will stop selling Starlink service"
    ],
    "d": 2,
-   "e": "3M expanded its data-center partnership with Amazon, which included a warrant, and raised its full-year profit forecast after third-quarter adjusted EPS of $2.50 topped estimates.",
-   "h": "Think cloud computing giant.",
-   "q": "3M shares rose about 5% on Oct 20, 2026 after it raised its profit forecast and expanded a data-center partnership with which company?"
+   "e": "SpaceX's profit beat analysts' estimates, and Musk said SpaceX and Tesla have taken steps, including forming special committees, to study a possible combination.",
+   "h": "It involves another Musk company.",
+   "q": "SpaceX shares rose about 7.8% on Oct 21, 2026 after its quarterly report. Besides better-than-expected profit, what did Elon Musk say?"
   },
   {
    "a": [
-    "About $12.9 billion",
-    "About $5 billion",
-    "About $30 billion",
-    "About $50 billion"
+    "About $109",
+    "About $65",
+    "About $80",
+    "About $140"
    ],
-   "d": 2,
-   "e": "Netflix reported Q3 revenue of about $12.87 billion, up roughly 12% from a year earlier, with a 34.6% operating margin. It forecast about $13.4 billion for Q4.",
-   "h": "Roughly a quarter of its full-year revenue of about $51 billion.",
-   "q": "Netflix reported third-quarter 2026 results after the close on Oct 20. About how much revenue did it report for the quarter?"
+   "d": 3,
+   "e": "Brent settled at $108.82 after trading roughly between $108 and $111 during the day. It has swung between about $97 and $112 in October amid Middle East supply worries.",
+   "h": "Well above $100 a barrel.",
+   "q": "Brent crude oil, the international benchmark, settled near what price per barrel on Oct 21, 2026?"
   }
  ]
 }

@@ -1,16 +1,16 @@
 {
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "q": {
   "a": [
-   "Gains come slowly, drops come fast",
-   "Small caps beat large caps",
-   "Prices rise faster than they fall",
-   "Elevators beat stairs long-term"
+   "Michael Douglas",
+   "Charlie Sheen",
+   "Richard Gere",
+   "Jack Nicholson"
   ],
-  "c": "L",
+  "c": "V",
   "d": 1,
-  "e": "Rallies tend to build gradually while sell-offs can be sudden and sharp, which is why volatility spikes in declines.",
-  "h": "Compare climbing to a quick ride down.",
-  "q": "The saying \"stocks take the stairs up and the elevator down\" means..."
+  "e": "Douglas won the Best Actor Oscar for the role. Charlie Sheen co-starred as Bud Fox, the young broker Gekko takes under his wing.",
+  "h": "He won an Academy Award for the role, and his father was also a famous actor.",
+  "q": "Who played corporate raider Gordon Gekko in the 1987 film \"Wall Street\"?"
  }
 }
