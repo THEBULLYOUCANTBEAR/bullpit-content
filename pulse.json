@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-22",
- "id": "2026-10-21",
- "label": "Wed, Oct 21",
+ "asOf": "2026-10-23",
+ "id": "2026-10-22",
+ "label": "Thu, Oct 22",
  "questions": [
   {
    "a": [
-    "Nasdaq Composite",
-    "S&P 500",
-    "Dow Jones Industrial Average",
-    "None of them; all three fell"
+    "Roughly flat, up less than 0.1%",
+    "Down about 5%",
+    "Up about 3%",
+    "Down about 10%"
    ],
    "d": 1,
-   "e": "The tech-heavy Nasdaq rose about 1.1% to 26,702.86 as chipmakers rallied, beating the Dow's 0.7% gain and the S&P 500's 0.6% gain.",
-   "h": "Chip and tech stocks led the day.",
-   "q": "Which major U.S. index posted the biggest percentage gain on Wednesday, Oct 21, 2026?"
+   "e": "The Dow edged up 11.89 points to 52,867.98 while a tech and chip selloff dragged the S&P 500 to 7,663.43 and the Nasdaq to 26,008.86.",
+   "h": "The blue-chip index barely budged.",
+   "q": "On Thursday, Oct 22, 2026, the S&P 500 fell about 1.2% and the Nasdaq Composite about 2.6%. How did the Dow Jones Industrial Average finish?"
   },
   {
    "a": [
-    "It raised its quarterly revenue forecast on AI demand",
-    "It announced a stock split",
-    "It agreed to be acquired",
-    "It was added to the Dow"
+    "194,000",
+    "450,000",
+    "1.2 million",
+    "75,000"
    ],
    "d": 1,
-   "e": "Super Micro raised its fiscal first-quarter revenue outlook to $18.5 billion to $19.5 billion, citing strong demand for AI platforms, ahead of its full report due Nov. 3.",
-   "h": "Think guidance, not a deal.",
-   "q": "Super Micro Computer shares jumped about 9.5% on Oct 21, 2026. What news drove the move?"
+   "e": "Claims dropped 6,000 to 194,000, the fewest in about three months, a sign that layoffs remain low.",
+   "h": "Just under 200,000.",
+   "q": "The Labor Department reported on Oct 22, 2026 that initial weekly jobless claims fell to about how many?"
   },
   {
    "a": [
-    "A fourth-quarter revenue forecast below expectations",
-    "A data breach",
-    "The CEO resigning",
-    "A price cut for all plans"
+    "A dividend of one new nonvoting Class C share per existing share, effectively a 2-for-1 split",
+    "A 1-for-10 reverse stock split",
+    "A plan to go private",
+    "A move of its listing from Nasdaq to the NYSE"
    ],
    "d": 2,
-   "e": "Netflix forecast about $13.44 billion in fourth-quarter revenue, short of the roughly $13.51 billion analysts expected, raising worries that growth momentum is slowing.",
-   "h": "It's about the outlook for the next quarter.",
-   "q": "Netflix shares fell about 5% on Oct 21, 2026 even though its profit beat estimates. What disappointed investors?"
+   "e": "Meta will issue one nonvoting Class C share for each Class A and Class B share, which works like a two-for-one split. Shares still fell on Thursday as investors focused on heavy AI spending and negative free cash flow.",
+   "h": "New shares with no voting rights.",
+   "q": "Along with its third-quarter results, Meta announced a change to its stock. Its shares then fell sharply on Oct 22, 2026. What did Meta announce?"
   },
   {
    "a": [
-    "SpaceX and Tesla are studying a possible merger",
-    "SpaceX will pay a special dividend",
-    "SpaceX is moving its listing to London",
-    "SpaceX will stop selling Starlink service"
+    "It fell sharply, dropping back to around 5%",
+    "It jumped above 6%",
+    "It was unchanged near 4%",
+    "It rose above 5.5%"
    ],
    "d": 2,
-   "e": "SpaceX's profit beat analysts' estimates, and Musk said SpaceX and Tesla have taken steps, including forming special committees, to study a possible combination.",
-   "h": "It involves another Musk company.",
-   "q": "SpaceX shares rose about 7.8% on Oct 21, 2026 after its quarterly report. Besides better-than-expected profit, what did Elon Musk say?"
+   "e": "The 10-year yield posted one of its biggest one-day drops in years, slipping back toward or below 5% as investors bought bonds during the tech selloff. Yields fall when bond prices rise.",
+   "h": "Bond prices rose.",
+   "q": "As stocks slid on Oct 22, 2026, what happened to the 10-year U.S. Treasury yield?"
   },
   {
    "a": [
-    "About $109",
-    "About $65",
-    "About $80",
-    "About $140"
+    "$110 a barrel",
+    "$50 a barrel",
+    "$70 a barrel",
+    "$200 a barrel"
    ],
-   "d": 3,
-   "e": "Brent settled at $108.82 after trading roughly between $108 and $111 during the day. It has swung between about $97 and $112 in October amid Middle East supply worries.",
-   "h": "Well above $100 a barrel.",
-   "q": "Brent crude oil, the international benchmark, settled near what price per barrel on Oct 21, 2026?"
+   "d": 1,
+   "e": "Brent topped $111 and traded above $113 at times, near its highest level since May, on Middle East supply worries.",
+   "h": "Well above $100.",
+   "q": "Brent crude, the global oil benchmark, traded above what level on Oct 22, 2026 after reports that the U.S. and Israel were planning possible renewed strikes on Iran?"
   }
  ]
 }
