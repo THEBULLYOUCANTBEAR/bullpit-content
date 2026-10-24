@@ -1,16 +1,16 @@
 {
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "q": {
   "a": [
-   "Bear Stearns",
-   "Lehman Brothers",
-   "Merrill Lynch",
-   "Goldman Sachs"
+   "Toyota",
+   "Honda",
+   "Nissan",
+   "Hyundai"
   ],
-  "c": "H",
+  "c": "O",
   "d": 1,
-  "e": "Bear Stearns ran out of funding as confidence evaporated. JPMorgan bought it at a fire-sale price, six months before Lehman failed.",
-  "h": "Its name includes an animal fitting for a falling market.",
-  "q": "In March 2008, which investment bank was sold to JPMorgan Chase in a Fed-backed rescue?"
+  "e": "Lexus launched in 1989 as the Japanese automaker's upscale brand, aimed squarely at Mercedes-Benz and BMW buyers.",
+  "h": "Its parent is Japan's largest automaker.",
+  "q": "The luxury car brand Lexus belongs to which automaker?"
  }
 }
