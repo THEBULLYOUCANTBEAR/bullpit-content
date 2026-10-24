@@ -1,127 +1,127 @@
 {
- "asOf": "2026-10-16",
- "id": "2026-W42",
- "label": "Week of Oct 12, 2026",
+ "asOf": "2026-10-23",
+ "id": "2026-W43",
+ "label": "Week of Oct 19, 2026",
  "questions": [
   {
    "a": [
-    "3.7%",
-    "1.9%",
-    "5.8%",
-    "0.7%"
+    "October 27-28, 2026",
+    "October 20-21, 2026",
+    "November 17-18, 2026",
+    "December 1-2, 2026"
    ],
    "d": 1,
-   "e": "Headline inflation of 3.7% is well above the Fed's 2% goal, which raises pressure on the central bank to keep rates high or even raise them.",
-   "h": "Between 3% and 4%",
-   "q": "The September CPI report, released Oct. 14, showed consumer prices rose by how much over the prior 12 months?"
-  },
-  {
-   "a": [
-    "Gasoline",
-    "Used cars",
-    "Airline fares",
-    "Medical care"
-   ],
-   "d": 2,
-   "e": "Gasoline prices jumped 9.1% in the month (seasonally adjusted), showing how energy shocks can quickly push up headline inflation.",
-   "h": "You buy it at the pump",
-   "q": "According to the BLS, which single item accounted for over half of the 0.6% monthly rise in September CPI?"
-  },
-  {
-   "a": [
-    "2.6%",
-    "4.4%",
-    "1.1%",
-    "6.0%"
-   ],
-   "d": 3,
-   "e": "Core inflation was much lower than the 3.7% headline rate, a sign that energy was the main driver of September's jump.",
-   "h": "Lower than headline",
-   "q": "Core CPI, which strips out food and energy, rose how much in the 12 months through September?"
-  },
-  {
-   "a": [
-    "1.3%",
-    "0.1%",
-    "-0.8%",
-    "3.5%"
-   ],
-   "d": 2,
-   "e": "The monthly gain was more than double the roughly 0.6% economists expected, adding to worries about price pressures moving through the supply chain.",
-   "h": "More than 1% in one month",
-   "q": "The Producer Price Index for final demand jumped how much in September alone, per the Oct. 15 BLS report?"
-  },
-  {
-   "a": [
-    "Fell about 4.5%",
-    "Rose about 4.5%",
-    "Fell about 0.5%",
-    "Fell about 12%"
-   ],
-   "d": 1,
-   "e": "A selloff in AI-linked and chip stocks drove the tech-heavy index to its steepest weekly drop in months, ending a four-week winning streak.",
-   "h": "Tech had a rough week",
-   "q": "How did the Nasdaq Composite fare for the week ended Oct. 16?"
+   "e": "The rate decision comes Wednesday, Oct. 28, followed by the Fed chair's press conference. Fed meetings are among the biggest scheduled market events.",
+   "h": "It is the very next week.",
+   "q": "The Federal Reserve's next two-day policy meeting (FOMC) is scheduled for which dates?"
   },
   {
    "a": [
     "Dow Jones Industrial Average",
     "Nasdaq Composite",
     "S&P 500",
-    "Russell 2000"
+    "None of the major indexes rose"
    ],
    "d": 1,
-   "e": "The Dow rose about 0.7% for the week while the S&P 500, Nasdaq and Russell 2000 fell, showing how less tech-heavy indexes can hold up when tech sells off.",
-   "h": "30 blue chips",
-   "q": "Which major U.S. stock index managed a gain for the week ended Oct. 16?"
+   "e": "Defensive and industrial names supported the 30-stock Dow, while big tech weighed on the S&P 500 and Nasdaq. Different index makeups can produce different weekly results.",
+   "h": "It has 30 stocks and is the oldest of the three.",
+   "q": "For the week ending Oct. 23, which major U.S. index finished higher while the S&P 500 and Nasdaq Composite posted small weekly losses?"
   },
   {
    "a": [
-    "72%",
-    "7%",
-    "25% decline",
-    "150%"
+    "About $2.7 billion",
+    "About $1.5 billion",
+    "About $4.5 billion",
+    "About $6 billion"
+   ],
+   "d": 2,
+   "e": "Netflix cut the ad target from about $3 billion, citing a slower rollout of some ad tools. Shares fell about 6% after hours even though profit beat estimates.",
+   "h": "A cut of about 10% from roughly $3 billion.",
+   "q": "In its Q3 report on Oct. 20, Netflix lowered its 2026 advertising revenue target to roughly what amount?"
+  },
+  {
+   "a": [
+    "Roughly flat, at about $28 billion",
+    "Up about 40%",
+    "Down about 50%",
+    "More than doubled"
+   ],
+   "d": 2,
+   "e": "Revenue was about $28.05 billion, close to Q3 2025. Adjusted EPS of $0.48 topped the $0.45 estimate, while GAAP net income fell about 43%.",
+   "h": "Not much changed on the top line.",
+   "q": "How did Tesla's third-quarter 2026 revenue, reported Oct. 21, compare with a year earlier?"
+  },
+  {
+   "a": [
+    "A settlement with state attorneys general over teen mental health and social media litigation",
+    "A European Union antitrust fine",
+    "A write-down of its data center buildings",
+    "A canceled acquisition of a chip maker"
+   ],
+   "d": 2,
+   "e": "Excluding the charge, Meta's EPS would have been far higher. Revenue still grew 26% to $64.6 billion, showing how one-time items can distort reported earnings.",
+   "h": "It involves dozens of U.S. states.",
+   "q": "Meta's Q3 profit was weighed down by a roughly $9.9 billion charge tied to what?"
+  },
+  {
+   "a": [
+    "Houthi-claimed attacks on Saudi energy sites and ships",
+    "A hurricane shutting Gulf of Mexico production",
+    "A U.S. ban on crude oil exports",
+    "OPEC+ doubling its production"
+   ],
+   "d": 2,
+   "e": "Traders added a geopolitical risk premium after Yemen's Houthis claimed attacks on Saudi targets. Energy stocks rose to a record high as higher oil prices fed inflation worries.",
+   "h": "Think Middle East supply risk.",
+   "q": "What pushed Brent crude oil above $110 a barrel this week, its highest level since spring?"
+  },
+  {
+   "a": [
+    "Fell about 3.5%",
+    "Rose about 10%",
+    "Was essentially unchanged",
+    "Fell about 15%"
    ],
    "d": 3,
-   "e": "Strong trading activity drove Goldman's results; its equities business brought in $6.44 billion in the quarter, per its SEC filing.",
-   "h": "Up sharply, but under double",
-   "q": "Goldman Sachs beat Q3 estimates with EPS of $17.01. By about how much did its equities net revenues rise from a year earlier?"
+   "e": "Gold had a notable weekly decline, with silver falling even more. Precious metals often swing with interest-rate and dollar expectations.",
+   "h": "A down week, but not a crash.",
+   "q": "How did gold perform over the trading week of Oct. 19-23, 2026?"
   },
   {
    "a": [
-    "About 51%",
-    "About 5%",
-    "About 120%",
-    "It fell about 10%"
+    "Wireless carriers such as AT&T and T-Mobile",
+    "Oil refiners",
+    "Regional banks",
+    "Airlines"
    ],
    "d": 2,
-   "e": "TSMC makes chips for many AI and smartphone companies, so its growth is a widely watched gauge of AI-related demand.",
-   "h": "About half again as much",
-   "q": "Chipmaker TSMC reported Q3 revenue of about $46.7 billion on Oct. 15. Roughly how much did revenue grow year over year?"
+   "e": "Investors worried about a new fourth wireless competitor. Cell tower owners like Crown Castle and American Tower rose instead, since SpaceX would need to rent their sites.",
+   "h": "Think phone companies.",
+   "q": "A Friday report that SpaceX was seeking tens of thousands of cell sites for its own wireless service hit which group of stocks?"
   },
   {
    "a": [
-    "Bangkok",
-    "Washington, D.C.",
-    "Jackson Hole",
-    "Frankfurt"
+    "$340 billion",
+    "$34 billion",
+    "$1 trillion",
+    "$120 billion"
    ],
-   "d": 2,
-   "e": "The IMF and World Bank meetings were held in Bangkok, where investors listened closely for hints on the Fed's next rate move.",
-   "h": "Capital of Thailand",
-   "q": "Fed Chair Kevin Warsh spoke at a fireside chat with IMF Managing Director Kristalina Georgieva this week in which city?"
+   "d": 3,
+   "e": "The backlog splits into about $176 billion commercial and $164 billion defense. RTX also raised its full-year sales and profit guidance.",
+   "h": "More than three times its annual sales.",
+   "q": "RTX reported a record backlog on Oct. 20. About how large was it?"
   },
   {
    "a": [
-    "Oct. 27-28",
-    "Oct. 20-21",
-    "Nov. 3-4",
-    "Nov. 17-18"
+    "Alphabet, Microsoft and Amazon",
+    "Tesla, Netflix and IBM",
+    "Walmart, Target and Home Depot",
+    "Nvidia, Salesforce and Broadcom"
    ],
    "d": 1,
-   "e": "The FOMC sets the federal funds rate; its decision is due at 2 p.m. ET on Oct. 28, followed by the Chair's press conference.",
-   "h": "End of this month",
-   "q": "When is the Federal Reserve's next scheduled FOMC policy meeting?"
+   "e": "About one-third of S&P 500 companies report next week. These three are among the largest companies in the index, so their results can move the whole market.",
+   "h": "Search, Windows and online shopping.",
+   "q": "Which trio of tech giants is set to report quarterly earnings in the week of Oct. 26?"
   }
  ]
 }
