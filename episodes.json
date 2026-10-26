@@ -1,5 +1,111 @@
 [
  {
+  "cat": "L",
+  "ep": "EP11",
+  "id": "ep-sr11",
+  "order": 398,
+  "questions": [
+   {
+    "a": [
+     "Nothing has gone wrong yet",
+     "It has too few meetings",
+     "It ignores long-term goals",
+     "It was planned too early"
+    ],
+    "d": 1,
+    "e": "Donald opens by noting the plan looks perfect only because it hasn't met any disruption yet. Most weekly plans are built for ideal conditions.",
+    "h": "It hasn't been tested.",
+    "q": "According to the episode, what is the one problem with a week that looks perfectly planned?"
+   },
+   {
+    "a": [
+     "It holds up under weight, wind and pressure",
+     "It stands up on a calm day",
+     "It looks well designed",
+     "It was built quickly"
+    ],
+    "d": 1,
+    "e": "A bridge isn't proven strong on a calm day; it's tested under load. A schedule can be organized and still be structurally weak.",
+    "h": "Think stress, not calm.",
+    "q": "Donald compares a calendar to a bridge. What makes a bridge truly strong?"
+   },
+   {
+    "a": [
+     "What if this finishes early?",
+     "What if this takes twice as long?",
+     "What if I have only half the energy?",
+     "What if something more important appears?"
+    ],
+    "d": 2,
+    "e": "The three questions test double the time, half the energy, and a more important interruption. Finishing early isn't a stress scenario.",
+    "h": "Stress tests imagine things going worse.",
+    "q": "Which is NOT one of the three uncomfortable questions in the first stress test?"
+   },
+   {
+    "a": [
+     "The calendar crash",
+     "The domino effect",
+     "The Monday spiral",
+     "The capacity overflow"
+    ],
+    "d": 2,
+    "e": "A 45-minute problem can create three days of consequences — the calendar crash. The danger is how many commitments depend on everything going perfectly.",
+    "h": "Calendar + a car-accident word.",
+    "q": "What does Donald call it when one delay chains into rushed prep, lost recovery and a tired tomorrow?"
+   },
+   {
+    "a": [
+     "Committed, recovery, opportunity, emergency",
+     "Time, money, energy, focus",
+     "Work, family, health, rest",
+     "Planned, flexible, reserved, free"
+    ],
+    "d": 2,
+    "e": "Committed capacity is what's already promised; recovery, opportunity and emergency capacity are the margins that let a week adapt.",
+    "h": "One of them handles life refusing to ask permission.",
+    "q": "Which set lists the four kinds of capacity from the episode?"
+   },
+   {
+    "a": [
+     "The tallest one, with the most dependencies",
+     "The shortest, easiest task",
+     "The most enjoyable activity",
+     "The latest task in the week"
+    ],
+    "d": 1,
+    "e": "Find the commitment that, if it moves, makes other things fail. Then strengthen that point before the week begins.",
+    "h": "Ask: if this moves, what else fails?",
+    "q": "In the domino test, which commitment should you identify first?"
+   },
+   {
+    "a": [
+     "A resilient week with structure and margin",
+     "A completely empty week",
+     "Filling every open hour",
+     "Cancelling all optional meetings"
+    ],
+    "d": 2,
+    "e": "A calendar at maximum capacity has minimum adaptability. The humanoid wants enough structure for momentum and enough margin to survive change.",
+    "h": "Neither full nor empty.",
+    "q": "In the bull-bear-humanoid debate, what does the humanoid recommend?"
+   },
+   {
+    "a": [
+     "Recoverable",
+     "Fully booked",
+     "Perfectly predictable",
+     "Shorter"
+    ],
+    "d": 1,
+    "e": "Donald says your week doesn't need to be invincible; it needs to be recoverable — able to absorb the unexpected without abandoning what matters.",
+    "h": "It can bounce back.",
+    "q": "According to the episode, what does a strong week need to be, rather than invincible?"
+   }
+  ],
+  "series": "Sunday Reset",
+  "title": "The Sunday Stress Test: Can Your Week Survive Reality?"
+ },
+ {
   "cat": "E",
   "ep": "Oct 21",
   "id": "ep-wsw-oct21",
