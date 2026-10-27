@@ -1,6 +1,112 @@
 [
  {
   "cat": "L",
+  "ep": "EP17",
+  "id": "ep-mm17",
+  "order": 399,
+  "questions": [
+   {
+    "a": [
+     "Wearing applause",
+     "Wearing handcuffs",
+     "As obvious mistakes",
+     "As sudden emergencies"
+    ],
+    "d": 1,
+    "e": "Donald says borrowed dreams rarely arrive wearing handcuffs; they arrive wearing applause, with people congratulating and admiring you.",
+    "h": "Think congratulations, not chains.",
+    "q": "According to the episode, how do borrowed dreams usually arrive?"
+   },
+   {
+    "a": [
+     "To see whether your name belongs on the deed",
+     "To blame the people who influenced you",
+     "To prove the dream was a mistake",
+     "To rank your goals by income"
+    ],
+    "d": 1,
+    "e": "The hearing isn't meant to accuse the dream or blame anyone, only to determine whether the dream is truly yours.",
+    "h": "It's about ownership paperwork.",
+    "q": "What is the purpose of the episode's \"dream ownership hearing\"?"
+   },
+   {
+    "a": [
+     "Would I still want this if nobody could see it?",
+     "How fast can I achieve this?",
+     "Who else has already done this?",
+     "How much will this pay?"
+    ],
+    "d": 2,
+    "e": "The four questions: would I want it unseen, does it improve my life or my image, do I want the daily process, and would releasing it bring grief or relief.",
+    "h": "Remove the audience.",
+    "q": "Which is one of the four questions the episode asks your biggest ambition?"
+   },
+   {
+    "a": [
+     "It burns quickly and needs a constant audience",
+     "It costs money to maintain",
+     "It only works for celebrities",
+     "It slows down your progress"
+    ],
+    "d": 2,
+    "e": "Pride in achievement is fine, but image alone burns quickly and requires a constant audience to keep you going.",
+    "h": "It needs spectators.",
+    "q": "Why does Donald call image \"expensive fuel\"?"
+   },
+   {
+    "a": [
+     "The dream became an obligation long ago",
+     "You are simply lazy",
+     "The dream is definitely yours",
+     "You should quit immediately"
+    ],
+    "d": 1,
+    "e": "Grief may reveal genuine attachment, while relief may reveal the dream became an obligation. Neither is an automatic verdict, but both are evidence.",
+    "h": "Grief vs. relief.",
+    "q": "According to the episode, if you imagine releasing a goal and feel relief, what might that reveal?"
+   },
+   {
+    "a": [
+     "Bad luck",
+     "Exhaustion",
+     "Fear",
+     "Misalignment"
+    ],
+    "d": 2,
+    "e": "The four causes were exhaustion, fear, misalignment and borrowed ambition. Low motivation is evidence, not the verdict.",
+    "h": "The fourth was borrowed ambition.",
+    "q": "Which is NOT one of the four causes of low motivation named in the episode?"
+   },
+   {
+    "a": [
+     "Sunk costs don't prove more years must follow",
+     "They guarantee eventual success",
+     "They must never be wasted",
+     "They prove the dream is authentic"
+    ],
+    "d": 2,
+    "e": "The bear says sunk costs don't create future meaning, and staying on the wrong road to avoid embarrassment only compounds the loss.",
+    "h": "Sunk costs.",
+    "q": "In the bull vs. bear debate, what does the bear argue about years already invested?"
+   },
+   {
+    "a": [
+     "Reclaim, resize, redesign, release",
+     "Rebuild, rebrand, relaunch, retire",
+     "Reset, review, repeat, reward",
+     "Keep, quit, delay, delegate"
+    ],
+    "d": 1,
+    "e": "Donald says you have more than two choices: reclaim the dream, resize its scale, redesign the vehicle, or deliberately release it.",
+    "h": "Four R's.",
+    "q": "What are the four options at the episode's \"dream transfer desk\"?"
+   }
+  ],
+  "series": "Motivation Monday",
+  "title": "The Borrowed Dream: Are You Building the Life You Want or the Life You Were Taught to Want?"
+ },
+ {
+  "cat": "L",
   "ep": "EP11",
   "id": "ep-sr11",
   "order": 398,

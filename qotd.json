@@ -1,16 +1,16 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "q": {
   "a": [
-   "The ticking sound the machine made",
-   "The ticket each trade printed",
-   "Its inventor, Thomas Ticker",
-   "Ticks marked on a chalkboard"
+   "Oakland Athletics",
+   "New York Yankees",
+   "Boston Red Sox",
+   "Tampa Bay Rays"
   ],
-  "c": "H",
+  "c": "V",
   "d": 1,
-  "e": "Early stock tickers printed prices onto paper tape with a distinctive ticking noise. The name stuck around long after the machines disappeared.",
-  "h": "Listen closely.",
-  "q": "The stock \"ticker,\" introduced in 1867, got its name from..."
+  "e": "With one of baseball's smallest payrolls, Beane used statistics to find undervalued players, a story often compared to value investing.",
+  "h": "A small-budget team from the San Francisco Bay Area at the time.",
+  "q": "In \"Moneyball\" (2011), Brad Pitt plays general manager Billy Beane of which baseball team?"
  }
 }

@@ -1,67 +1,67 @@
 {
  "asOf": "2026-10-26",
- "id": "2026-10-23",
- "label": "Fri, Oct 23",
+ "id": "2026-10-26",
+ "label": "Mon, Oct 26",
  "questions": [
   {
    "a": [
-    "About 650 points",
-    "About 65 points",
-    "About 2,500 points",
-    "About 6,500 points"
+    "Above 7,600",
+    "Below 6,800",
+    "Below 7,000",
+    "Above 8,200"
    ],
    "d": 1,
-   "e": "The Dow fell 652.82 points, or 1.2%, to 52,215.16. Even so, it was the only major index to finish the week higher, up about 0.4%, while the S&P 500 and Nasdaq posted weekly losses.",
-   "h": "A bit over 1% of a roughly 52,000-point index.",
-   "q": "On Friday, Oct 23, 2026, the Dow Jones Industrial Average had the biggest drop of the major indexes. Roughly how many points did it lose?"
+   "e": "The S&P 500 rose about 0.7% to close near 7,677, helped by a rally in tech and chip stocks.",
+   "h": "It gained less than 1% on the day.",
+   "q": "Where did the S&P 500 close on Monday, Oct 26, 2026?"
   },
   {
    "a": [
-    "Above $115 a barrel, its highest since April",
-    "Below $70 a barrel, its lowest of the year",
-    "Around $85 a barrel, unchanged on the day",
-    "Below $95 a barrel, a two-month low"
+    "Nasdaq Composite",
+    "Dow Jones Industrial Average",
+    "S&P 500",
+    "They all fell"
    ],
    "d": 1,
-   "e": "Brent settled at $116.72, up more than 3%, its highest level since late April, on fears of further Middle East supply disruptions. U.S. crude (WTI) closed above $103.",
-   "h": "Well into triple digits.",
-   "q": "Brent crude, the global oil benchmark, jumped on Oct 23, 2026 after Houthi attacks in Saudi Arabia. Where did it settle?"
+   "e": "The tech-heavy Nasdaq rose about 0.8%, ahead of the S&P 500 (+0.7%) and the Dow (+0.3%), as AI and semiconductor stocks rebounded.",
+   "h": "Think tech-heavy.",
+   "q": "Which of the three major U.S. indexes posted the biggest percentage gain on Oct 26, 2026?"
   },
   {
    "a": [
-    "5%",
-    "3%",
-    "7%",
-    "1%"
+    "Range Resources",
+    "ExxonMobil",
+    "Chevron",
+    "Occidental Petroleum"
    ],
    "d": 2,
-   "e": "The 10-year yield rose a few basis points to about 4.99%-5.00%, rebounding after its biggest one-day drop in nearly four years on Thursday. Higher oil prices fed worries about sticky inflation.",
-   "h": "A big round number, halfway to 10%.",
-   "q": "The 10-year U.S. Treasury yield ended Friday, Oct 23, 2026 close to which round number?"
+   "e": "EQT agreed to buy Range Resources in a 100% stock deal, with each Range share exchanged for 0.987 EQT shares and a pro forma enterprise value of more than $50 billion.",
+   "h": "Its name sounds like open grazing land.",
+   "q": "On Oct 26, 2026, EQT announced an all-stock deal to acquire which natural gas producer?"
   },
   {
    "a": [
-    "A report that SpaceX was seeking access to thousands of U.S. cell sites for a possible wireless carrier",
-    "Crown Castle agreed to be bought by Verizon",
-    "The Fed announced a surprise rate cut",
-    "Crown Castle was added to the Dow Jones Industrial Average"
+    "Barclays",
+    "Goldman Sachs",
+    "Wells Fargo",
+    "Citigroup"
    ],
    "d": 2,
-   "e": "Reports that SpaceX was in talks to lease access to tens of thousands of U.S. cell sites lifted tower owners like Crown Castle and SBA Communications, while AT&T and T-Mobile each fell more than 6% on worries about a new competitor.",
-   "h": "Think rockets and satellites meeting phones.",
-   "q": "Cell tower owner Crown Castle jumped about 10% or more on Oct 23, 2026. What news drove the move?"
+   "e": "Barclays upgraded Tesla to Overweight with a $450 price target, citing potential ties to SpaceX, robotaxi growth and a recovery in the core auto business.",
+   "h": "A British bank.",
+   "q": "Which bank upgraded Tesla to Overweight on Oct 26, 2026, helping the stock jump more than 5%?"
   },
   {
    "a": [
-    "Cutting about 5% of its global workforce",
-    "Doubling its workforce",
-    "Moving all employees to a four-day week",
-    "Cutting about 50% of its workforce"
+    "Wednesday, Oct 28",
+    "Tuesday, Oct 27",
+    "Friday, Oct 30",
+    "Monday, Nov 2"
    ],
-   "d": 2,
-   "e": "AmEx said it would cut about 5% of its global workforce and take a restructuring charge, even as it raised its profit forecast. Its CEO said the company needs to become more agile and efficient. The stock fell roughly 3% to 4%.",
-   "h": "A single-digit percentage.",
-   "q": "American Express shares fell on Oct 23, 2026 after its quarterly report. What workforce change did the company announce?"
+   "d": 1,
+   "e": "The FOMC meets Oct 27-28, 2026, with the decision and the Chair's press conference on Wednesday, Oct 28. Meetings usually run two days, with the decision on day two.",
+   "h": "FOMC meetings usually last two days.",
+   "q": "The Federal Reserve's FOMC meeting that began the day after Oct 26, 2026 is scheduled to end with a rate decision on which day?"
   }
  ]
 }
