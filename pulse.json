@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-26",
- "id": "2026-10-26",
- "label": "Mon, Oct 26",
+ "asOf": "2026-10-27",
+ "id": "2026-10-27",
+ "label": "Tue, Oct 27",
  "questions": [
   {
    "a": [
-    "Above 7,600",
-    "Below 6,800",
+    "Above 7,700",
     "Below 7,000",
+    "Below 7,400",
     "Above 8,200"
    ],
    "d": 1,
-   "e": "The S&P 500 rose about 0.7% to close near 7,677, helped by a rally in tech and chip stocks.",
-   "h": "It gained less than 1% on the day.",
-   "q": "Where did the S&P 500 close on Monday, Oct 26, 2026?"
+   "e": "The S&P 500 rose about 0.6% to close near 7,723, adding to Monday's gains as chip and tech stocks rallied.",
+   "h": "It edged up from Monday's close near 7,677.",
+   "q": "Where did the S&P 500 close on Tuesday, Oct 27, 2026?"
   },
   {
    "a": [
     "Nasdaq Composite",
     "Dow Jones Industrial Average",
     "S&P 500",
-    "They all fell"
+    "None of them rose"
    ],
    "d": 1,
-   "e": "The tech-heavy Nasdaq rose about 0.8%, ahead of the S&P 500 (+0.7%) and the Dow (+0.3%), as AI and semiconductor stocks rebounded.",
-   "h": "Think tech-heavy.",
-   "q": "Which of the three major U.S. indexes posted the biggest percentage gain on Oct 26, 2026?"
+   "e": "The tech-heavy Nasdaq gained about 1.2% on a semiconductor rally, while the Dow added only about 16 points, held back by a big drop in Boeing.",
+   "h": "Think chips and tech.",
+   "q": "Which major U.S. index led on Oct 27, 2026, rising about 1.2% while the Dow finished roughly flat?"
   },
   {
    "a": [
-    "Range Resources",
-    "ExxonMobil",
-    "Chevron",
-    "Occidental Petroleum"
-   ],
-   "d": 2,
-   "e": "EQT agreed to buy Range Resources in a 100% stock deal, with each Range share exchanged for 0.987 EQT shares and a pro forma enterprise value of more than $50 billion.",
-   "h": "Its name sounds like open grazing land.",
-   "q": "On Oct 26, 2026, EQT announced an all-stock deal to acquire which natural gas producer?"
-  },
-  {
-   "a": [
-    "Barclays",
-    "Goldman Sachs",
-    "Wells Fargo",
-    "Citigroup"
-   ],
-   "d": 2,
-   "e": "Barclays upgraded Tesla to Overweight with a $450 price target, citing potential ties to SpaceX, robotaxi growth and a recovery in the core auto business.",
-   "h": "A British bank.",
-   "q": "Which bank upgraded Tesla to Overweight on Oct 26, 2026, helping the stock jump more than 5%?"
-  },
-  {
-   "a": [
-    "Wednesday, Oct 28",
-    "Tuesday, Oct 27",
-    "Friday, Oct 30",
-    "Monday, Nov 2"
+    "Boeing",
+    "Caterpillar",
+    "Coca-Cola",
+    "UPS"
    ],
    "d": 1,
-   "e": "The FOMC meets Oct 27-28, 2026, with the decision and the Chair's press conference on Wednesday, Oct 28. Meetings usually run two days, with the decision on day two.",
-   "h": "FOMC meetings usually last two days.",
-   "q": "The Federal Reserve's FOMC meeting that began the day after Oct 26, 2026 is scheduled to end with a rate decision on which day?"
+   "e": "Boeing shares fell about 11% after it reported a third-quarter loss and said production rates were not improving as fast as hoped, so it would miss its target of about 500 737 deliveries this year.",
+   "h": "It builds the 737.",
+   "q": "Which Dow stock fell more than 10% on Oct 27, 2026 after its Q3 results and a warning it would miss its 737 MAX delivery target?"
+  },
+  {
+   "a": [
+    "Nasdaq",
+    "Cboe",
+    "NYSE American",
+    "Toronto Stock Exchange"
+   ],
+   "d": 2,
+   "e": "GM said it will transfer its listing to the Nasdaq Global Select Market, keeping the ticker GM, with trading there expected to begin Nov 17, 2026. The move could make GM eligible for the Nasdaq-100.",
+   "h": "The same exchange behind a famous 100-stock index.",
+   "q": "On Oct 27, 2026, General Motors announced it will move its stock listing from the NYSE to which exchange?"
+  },
+  {
+   "a": [
+    "Oil refiners like Valero and Phillips 66",
+    "Solar panel makers",
+    "Natural gas utilities",
+    "Oilfield equipment rental firms"
+   ],
+   "d": 2,
+   "e": "Refiners Valero, Marathon Petroleum and Phillips 66 all dropped roughly 6% to 9% as oil prices pulled back from recent highs.",
+   "h": "They turn crude into gasoline.",
+   "q": "As crude oil prices eased on Oct 27, 2026, which group of energy stocks was among the day's biggest decliners?"
   }
  ]
 }

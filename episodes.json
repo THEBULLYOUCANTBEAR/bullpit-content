@@ -1,5 +1,111 @@
 [
  {
+  "cat": "M",
+  "ep": "EP17",
+  "id": "ep-tt17",
+  "order": 400,
+  "questions": [
+   {
+    "a": [
+     "A pool of loans, leases, or other receivables",
+     "Shares of a single company's stock",
+     "Government-issued gold certificates",
+     "A basket of commodity futures"
+    ],
+    "d": 1,
+    "e": "Donald explains that an ABS is built from a pool of loans, leases, or receivables, with securities created against the expected cash flows.",
+    "h": "Think monthly payments, pooled together.",
+    "q": "According to the episode, an asset-backed security is generally created from what?"
+   },
+   {
+    "a": [
+     "Mortgages got their own episode, so this one covers other loans and receivables",
+     "Houses are illegal to securitize",
+     "The taco excludes all secured loans",
+     "Only commercial buildings can be included"
+    ],
+    "d": 1,
+    "e": "Mortgage-backed securities were covered in an earlier episode, so this one focuses on auto loans, credit cards, equipment leases, solar loans and more.",
+    "h": "Which asset already had its own episode?",
+    "q": "Why does Donald call it the \"everything but the house\" taco?"
+   },
+   {
+    "a": [
+     "The residual or subordinate layer",
+     "The senior layer",
+     "The mezzanine layer",
+     "All layers share losses equally"
+    ],
+    "d": 2,
+    "e": "The residual 'whatever is left' window gets paid last, which gives it upside if the pool performs but puts it first in line to absorb losses.",
+    "h": "The 'whatever is left' counter.",
+    "q": "In the tranche counter, which layer sits closest to the front of the loss line?"
+   },
+   {
+    "a": [
+     "It can redistribute risk, but it cannot erase it",
+     "It guarantees every investor is paid",
+     "It eliminates the need to inspect the loans",
+     "It only matters for residual investors"
+    ],
+    "d": 1,
+    "e": "The bear shakes every bottle and says credit enhancement redistributes risk; extra hot sauce does not repair spoiled ingredients.",
+    "h": "Hot sauce can't fix spoiled ingredients.",
+    "q": "What is Donald's main lesson about credit enhancement?"
+   },
+   {
+    "a": [
+     "Collateral balance exceeds the amount of securities issued",
+     "Interest collected exceeds transaction expenses",
+     "Cash set aside to cover payment shortfalls",
+     "Junior layers absorbing losses before senior layers"
+    ],
+    "d": 2,
+    "e": "Over-collateralization means the collateral's value or balance is larger than the securities issued; the other choices describe excess spread, reserve accounts, and subordination.",
+    "h": "More collateral than securities.",
+    "q": "Which of these is over-collateralization, as described in the episode?"
+   },
+   {
+    "a": [
+     "The waterfall decides who gets paid first and who absorbs the shortfall",
+     "Every investor receives exactly 70% of what they're owed",
+     "The servicer covers the missing $30",
+     "Payments stop until the full $100 arrives"
+    ],
+    "d": 2,
+    "e": "Donald says the headline yield describes what might reach the table, while the waterfall explains who gets served first and who may leave hungry.",
+    "h": "Who gets served, who waits?",
+    "q": "In the payment waterfall example, what happens when only $70 of an expected $100 reaches the structure?"
+   },
+   {
+    "a": [
+     "Extension risk",
+     "Prepayment risk",
+     "Liquidity risk",
+     "Credit risk"
+    ],
+    "d": 2,
+    "e": "Extension risk stretches the life of the investment and delays the return of principal; prepayment risk is the opposite, with money coming back early.",
+    "h": "The investment's life gets longer.",
+    "q": "Which risk on the five-alarm board means payments arrive more slowly than expected?"
+   },
+   {
+    "a": [
+     "Architecture",
+     "Assets",
+     "Appraisal",
+     "Allocation"
+    ],
+    "d": 1,
+    "e": "SCAN stands for Source, Collateral, Architecture, and Negative scenario; architecture covers where the security sits in the waterfall and what enhancements and triggers exist.",
+    "h": "Where the security sits in the structure.",
+    "q": "In the SCAN test, what does the \"A\" stand for?"
+   }
+  ],
+  "series": "Taco Tuesday",
+  "title": "Asset-Backed Securities on the Menu: The Everything-But-the-House Taco"
+ },
+ {
   "cat": "L",
   "ep": "EP17",
   "id": "ep-mm17",
