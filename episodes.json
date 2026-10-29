@@ -2,6 +2,112 @@
  {
   "cat": "M",
   "ep": "EP17",
+  "id": "ep-wsw17",
+  "order": 401,
+  "questions": [
+   {
+    "a": [
+     "Inflation hedge, crisis hedge, and short-term trade",
+     "Dividend payer, growth stock, and bond substitute",
+     "Currency, commodity, and collectible",
+     "Savings account, insurance policy, and retirement plan"
+    ],
+    "d": 1,
+    "e": "Donald separates gold's roles into an inflation hedge, a crisis hedge, and a short-term trade, each with its own clock and no guarantee.",
+    "h": "Think hedges plus one trade.",
+    "q": "According to the episode, which three different 'jobs' get squeezed into the one word gold?"
+   },
+   {
+    "a": [
+     "Gold pays no income, so higher inflation-adjusted yields elsewhere make holding it relatively costlier",
+     "Real yields set the official price of gold each day",
+     "Gold pays interest that rises with real yields",
+     "Real yields only affect mining stocks, not gold itself"
+    ],
+    "d": 1,
+    "e": "Gold has no coupon or dividend, so the inflation-adjusted return available elsewhere is part of the comparison.",
+    "h": "What does a gold bar pay you?",
+    "q": "Why do real yields matter for gold, per the episode?"
+   },
+   {
+    "a": [
+     "About 2%",
+     "About 8%",
+     "About 5%",
+     "About 15%"
+    ],
+    "d": 1,
+    "e": "Real yield is roughly the nominal yield minus expected inflation: 5% − 3% ≈ 2%, before taxes and other considerations.",
+    "h": "Subtract inflation.",
+    "q": "In Donald's illustration, a 5% yield with 3% expected inflation gives roughly what real return?"
+   },
+   {
+    "a": [
+     "It can raise demand for protection while also raising expectations of higher interest rates",
+     "It makes gold mines cheaper to run while raising jewelry demand",
+     "It weakens the dollar and lowers real yields at the same time",
+     "It forces central banks to buy gold and sell oil"
+    ],
+    "d": 2,
+    "e": "An oil shock can spark inflation fears (gold-supportive) but also expectations of tighter policy and higher real yields or a stronger dollar (gold-negative).",
+    "h": "A tug of war between fear and rates.",
+    "q": "How can an oil price jump pull gold in opposite directions, according to the episode?"
+   },
+   {
+    "a": [
+     "Selling valued equipment because payroll is due",
+     "Closing a store because sales slowed",
+     "Raising prices to cover rent",
+     "Buying more inventory before a holiday"
+    ],
+    "d": 2,
+    "e": "The sale reveals a need for cash, not necessarily that the asset became worthless, which helps explain liquidity-driven gold selling like March 2020.",
+    "h": "Bills come due.",
+    "q": "The episode compares selling gold during a cash scramble to a business owner doing what?"
+   },
+   {
+    "a": [
+     "Identify the observation first, then test the explanation",
+     "Trust the most confident explanation",
+     "Follow whichever way the price moved last week",
+     "Assume every decline means investors lost trust in gold"
+    ],
+    "d": 1,
+    "e": "'Gold fell' is an observation; 'gold fell because everyone stopped trusting it' is a bigger claim that needs evidence.",
+    "h": "Observation before explanation.",
+    "q": "What is Donald's 'detective rule' for gold headlines?"
+   },
+   {
+    "a": [
+     "The operating gap shrinks from $500 to $400",
+     "The operating gap grows from $500 to $700",
+     "The operating gap stays at $500",
+     "The miner turns a loss"
+    ],
+    "d": 2,
+    "e": "Gold went up but the simplified margin fell — showing a mining share and a gold bar are different exposures.",
+    "h": "Price minus cost, before and after.",
+    "q": "In the fictional miner example, gold rises from $2,000 to $2,200 while costs rise from $1,500 to $1,800. What happens?"
+   },
+   {
+    "a": [
+     "A lagged view of reported positions in covered futures markets",
+     "A live map of everyone who owns gold worldwide",
+     "A daily official buy or sell signal for gold",
+     "Central banks' private gold purchase plans"
+    ],
+    "d": 2,
+    "e": "The reports show reported futures positioning but arrive with a lag and don't capture all gold ownership.",
+    "h": "Futures positioning, with a delay.",
+    "q": "According to the episode, what do the CFTC Commitments of Traders reports provide?"
+   }
+  ],
+  "series": "Wall Street Wednesday",
+  "title": "The Gold Paradox: Why Fear Doesn't Always Lift Gold"
+ },
+ {
+  "cat": "M",
+  "ep": "EP17",
   "id": "ep-tt17",
   "order": 400,
   "questions": [

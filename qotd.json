@@ -1,16 +1,16 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "q": {
   "a": [
-   "October 29, 1929",
-   "October 19, 1987",
-   "September 15, 2008",
-   "March 16, 2020"
+   "PepsiCo",
+   "Coca-Cola",
+   "Kraft Foods",
+   "Procter & Gamble"
   ],
-  "c": "H",
+  "c": "W",
   "d": 1,
-  "e": "Black Tuesday, October 29, 1929, marked the start of a collapse that led into the Great Depression.",
-  "h": "It's the 1929 one.",
-  "q": "\"Black Tuesday,\" the worst day of the 1929 crash, fell on which date?"
+  "e": "Nooyi, born in Chennai, India, pushed the snack-and-soda giant toward healthier products and helped steer its Tropicana and Quaker Oats deals.",
+  "h": "Think snacks, soda and Gatorade.",
+  "q": "Indra Nooyi served as CEO of which company from 2006 to 2018?"
  }
 }

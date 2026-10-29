@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-27",
- "id": "2026-10-27",
- "label": "Tue, Oct 27",
+ "asOf": "2026-10-28",
+ "id": "2026-10-28",
+ "label": "Wed, Oct 28",
  "questions": [
   {
    "a": [
-    "Above 7,700",
-    "Below 7,000",
-    "Below 7,400",
-    "Above 8,200"
+    "Held the federal funds rate steady at 3.75% to 4%",
+    "Cut rates by a quarter point",
+    "Raised rates by a quarter point",
+    "Cut rates by half a point"
    ],
    "d": 1,
-   "e": "The S&P 500 rose about 0.6% to close near 7,723, adding to Monday's gains as chip and tech stocks rallied.",
-   "h": "It edged up from Monday's close near 7,677.",
-   "q": "Where did the S&P 500 close on Tuesday, Oct 27, 2026?"
+   "e": "The FOMC kept its target range at 3.75% to 4%, saying inflation remains elevated and more information will guide its next move.",
+   "h": "No change this time.",
+   "q": "What did the Federal Reserve decide about interest rates on Wednesday, Oct 28, 2026?"
   },
   {
    "a": [
-    "Nasdaq Composite",
-    "Dow Jones Industrial Average",
-    "S&P 500",
-    "None of them rose"
-   ],
-   "d": 1,
-   "e": "The tech-heavy Nasdaq gained about 1.2% on a semiconductor rally, while the Dow added only about 16 points, held back by a big drop in Boeing.",
-   "h": "Think chips and tech.",
-   "q": "Which major U.S. index led on Oct 27, 2026, rising about 1.2% while the Dow finished roughly flat?"
-  },
-  {
-   "a": [
-    "Boeing",
-    "Caterpillar",
-    "Coca-Cola",
-    "UPS"
-   ],
-   "d": 1,
-   "e": "Boeing shares fell about 11% after it reported a third-quarter loss and said production rates were not improving as fast as hoped, so it would miss its target of about 500 737 deliveries this year.",
-   "h": "It builds the 737.",
-   "q": "Which Dow stock fell more than 10% on Oct 27, 2026 after its Q3 results and a warning it would miss its 737 MAX delivery target?"
-  },
-  {
-   "a": [
-    "Nasdaq",
-    "Cboe",
-    "NYSE American",
-    "Toronto Stock Exchange"
+    "A quarter-point rate increase",
+    "A quarter-point rate cut",
+    "A half-point rate cut",
+    "An end to all bond reinvestments"
    ],
    "d": 2,
-   "e": "GM said it will transfer its listing to the Nasdaq Global Select Market, keeping the ticker GM, with trading there expected to begin Nov 17, 2026. The move could make GM eligible for the Nasdaq-100.",
-   "h": "The same exchange behind a famous 100-stock index.",
-   "q": "On Oct 27, 2026, General Motors announced it will move its stock listing from the NYSE to which exchange?"
+   "e": "Governor Lisa Cook and Cleveland Fed President Beth Hammack both preferred raising the target range by 0.25 percentage point.",
+   "h": "They were more worried about inflation.",
+   "q": "The Fed's Oct 28, 2026 decision was a 10-2 vote. What did the two dissenters, Lisa Cook and Beth Hammack, want instead?"
   },
   {
    "a": [
-    "Oil refiners like Valero and Phillips 66",
-    "Solar panel makers",
-    "Natural gas utilities",
-    "Oilfield equipment rental firms"
+    "Above 52,000",
+    "Below 45,000",
+    "Below 48,000",
+    "Above 58,000"
+   ],
+   "d": 1,
+   "e": "The Dow rose about 97 points to close near 52,475, while the S&P 500 and Nasdaq each gained about 0.3% after the Fed decision.",
+   "h": "It's well past 50,000.",
+   "q": "Where did the Dow Jones Industrial Average close on Oct 28, 2026, after gaining about 0.2%?"
+  },
+  {
+   "a": [
+    "Oracle",
+    "IBM",
+    "Intel",
+    "Cisco"
+   ],
+   "d": 1,
+   "e": "Oracle surged roughly 11% after its investor day, where it laid out new long-range revenue and cash-flow targets.",
+   "h": "Database and cloud company founded by Larry Ellison.",
+   "q": "Which tech giant's stock jumped about 11% on Oct 28, 2026 after it set new long-term financial targets at an investor event?"
+  },
+  {
+   "a": [
+    "Alphabet",
+    "Microsoft",
+    "Oracle",
+    "Vertiv"
    ],
    "d": 2,
-   "e": "Refiners Valero, Marathon Petroleum and Phillips 66 all dropped roughly 6% to 9% as oil prices pulled back from recent highs.",
-   "h": "They turn crude into gasoline.",
-   "q": "As crude oil prices eased on Oct 27, 2026, which group of energy stocks was among the day's biggest decliners?"
+   "e": "Alphabet slid after hours as its results came in below analyst forecasts, while Microsoft beat expectations on strong Azure cloud results.",
+   "h": "Google's parent company.",
+   "q": "After the closing bell on Oct 28, 2026, which company's shares slid in after-hours trading as its quarterly results fell short of some analyst expectations?"
   }
  ]
 }
