@@ -1,16 +1,16 @@
 {
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "q": {
   "a": [
-   "PepsiCo",
-   "Coca-Cola",
-   "Kraft Foods",
-   "Procter & Gamble"
+   "Volkswagen Group",
+   "Stellantis",
+   "BMW Group",
+   "Mercedes-Benz Group"
   ],
-  "c": "W",
-  "d": 1,
-  "e": "Nooyi, born in Chennai, India, pushed the snack-and-soda giant toward healthier products and helped steer its Tropicana and Quaker Oats deals.",
-  "h": "Think snacks, soda and Gatorade.",
-  "q": "Indra Nooyi served as CEO of which company from 2006 to 2018?"
+  "c": "O",
+  "d": 2,
+  "e": "Audi bought Lamborghini in 1998, which put it under the German group that also owns Porsche and Bentley.",
+  "h": "Its parent is Germany's largest automaker.",
+  "q": "Italian supercar maker Lamborghini is part of which automaker group?"
  }
 }

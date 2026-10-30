@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-28",
- "id": "2026-10-28",
- "label": "Wed, Oct 28",
+ "asOf": "2026-10-29",
+ "id": "2026-10-29",
+ "label": "Thu, Oct 29",
  "questions": [
   {
    "a": [
-    "Held the federal funds rate steady at 3.75% to 4%",
-    "Cut rates by a quarter point",
-    "Raised rates by a quarter point",
-    "Cut rates by half a point"
+    "3.4%",
+    "0.4%",
+    "-1.2%",
+    "6.8%"
    ],
    "d": 1,
-   "e": "The FOMC kept its target range at 3.75% to 4%, saying inflation remains elevated and more information will guide its next move.",
-   "h": "No change this time.",
-   "q": "What did the Federal Reserve decide about interest rates on Wednesday, Oct 28, 2026?"
-  },
-  {
-   "a": [
-    "A quarter-point rate increase",
-    "A quarter-point rate cut",
-    "A half-point rate cut",
-    "An end to all bond reinvestments"
-   ],
-   "d": 2,
-   "e": "Governor Lisa Cook and Cleveland Fed President Beth Hammack both preferred raising the target range by 0.25 percentage point.",
-   "h": "They were more worried about inflation.",
-   "q": "The Fed's Oct 28, 2026 decision was a 10-2 vote. What did the two dissenters, Lisa Cook and Beth Hammack, want instead?"
-  },
-  {
-   "a": [
-    "Above 52,000",
-    "Below 45,000",
-    "Below 48,000",
-    "Above 58,000"
-   ],
-   "d": 1,
-   "e": "The Dow rose about 97 points to close near 52,475, while the S&P 500 and Nasdaq each gained about 0.3% after the Fed decision.",
-   "h": "It's well past 50,000.",
-   "q": "Where did the Dow Jones Industrial Average close on Oct 28, 2026, after gaining about 0.2%?"
-  },
-  {
-   "a": [
-    "Oracle",
-    "IBM",
-    "Intel",
-    "Cisco"
-   ],
-   "d": 1,
-   "e": "Oracle surged roughly 11% after its investor day, where it laid out new long-range revenue and cash-flow targets.",
-   "h": "Database and cloud company founded by Larry Ellison.",
-   "q": "Which tech giant's stock jumped about 11% on Oct 28, 2026 after it set new long-term financial targets at an investor event?"
+   "e": "The Bureau of Economic Analysis said real GDP grew at a 3.4% annual rate in Q3 2026, up from 2.2% in the second quarter and above the roughly 3.1% economists expected.",
+   "h": "Faster than Q2's 2.2%.",
+   "q": "The government's first estimate of third-quarter 2026 GDP, released Oct 29, showed the U.S. economy growing at what annual rate?"
   },
   {
    "a": [
     "Alphabet",
     "Microsoft",
-    "Oracle",
-    "Vertiv"
+    "Apple",
+    "Walmart"
+   ],
+   "d": 1,
+   "e": "Alphabet shares dropped roughly 12% to 13% after results missed expectations, dragging the Nasdaq lower and erasing hundreds of billions of dollars in market value.",
+   "h": "Google's parent company.",
+   "q": "Which megacap stock fell about 12% on Oct 29, 2026, its worst day on record, after its quarterly results disappointed investors?"
+  },
+  {
+   "a": [
+    "Nasdaq Composite",
+    "Dow Jones Industrial Average",
+    "S&P 500",
+    "They all fell exactly the same"
+   ],
+   "d": 1,
+   "e": "The tech-heavy Nasdaq dropped about 1.4%, while the S&P 500 and the Dow each slipped only about 0.3%, as big tech names like Alphabet weighed on growth stocks.",
+   "h": "The tech-heavy one.",
+   "q": "Which major U.S. index fell the most on Oct 29, 2026, losing about 1.4%?"
+  },
+  {
+   "a": [
+    "Instacart",
+    "Uber",
+    "Kroger",
+    "Grubhub"
    ],
    "d": 2,
-   "e": "Alphabet slid after hours as its results came in below analyst forecasts, while Microsoft beat expectations on strong Azure cloud results.",
-   "h": "Google's parent company.",
-   "q": "After the closing bell on Oct 28, 2026, which company's shares slid in after-hours trading as its quarterly results fell short of some analyst expectations?"
+   "e": "DoorDash agreed to buy Maplebear, the parent of Instacart, in a deal valued around $17 billion, and its stock gained about 5.6% on the day.",
+   "h": "Its parent company is called Maplebear.",
+   "q": "DoorDash shares rose more than 5% on Oct 29, 2026 after it agreed to acquire which grocery delivery company?"
+  },
+  {
+   "a": [
+    "Just under 5%",
+    "Just under 3%",
+    "Just under 2%",
+    "Just over 7%"
+   ],
+   "d": 2,
+   "e": "The 10-year yield fell several basis points to roughly 4.95% to 4.98%, slipping back below the closely watched 5% level.",
+   "h": "Close to a big round number.",
+   "q": "Where did the 10-year U.S. Treasury yield end up on Oct 29, 2026, after falling during the session?"
   }
  ]
 }
