@@ -1,5 +1,111 @@
 [
  {
+  "cat": "R",
+  "ep": "Oct 30",
+  "id": "ep-fff-oct30",
+  "order": 403,
+  "questions": [
+   {
+    "a": [
+     "Intention, signal, decoding, translation, execution",
+     "Signal, storage, sale, training, deletion",
+     "Thought, speech, typing, clicking, sending",
+     "Sensor, chip, cloud, app, avatar"
+    ],
+    "d": 1,
+    "e": "Donald walks through intention, signal, decoding, translation and execution as the five chambers.",
+    "h": "It starts with what you're trying to do.",
+    "q": "According to the episode, what are the five chambers of the thought-to-action pipeline, in order?"
+   },
+   {
+    "a": [
+     "Decoding an attempted action is different from reading a whole mind",
+     "Implants are always better than external sensors",
+     "Speech is easier to decode than movement",
+     "Wearables can read private thoughts but implants cannot"
+    ],
+    "d": 2,
+    "e": "Today's systems look for specific neural patterns tied to attempted speech or movement; they don't inspect every private thought.",
+    "h": "Reading a mind vs. decoding a task.",
+    "q": "What distinction does Donald say matters about current brain-computer interfaces?"
+   },
+   {
+    "a": [
+     "Restoration",
+     "Enhancement",
+     "Gaming",
+     "Workplace productivity"
+    ],
+    "d": 1,
+    "e": "He says we must begin with restoration: do not replace the person, restore the person's ability to act.",
+    "h": "Giving back what was lost.",
+    "q": "According to the episode, where must the conversation about neural interfaces begin?"
+   },
+   {
+    "a": [
+     "Enhance",
+     "Automate",
+     "Integrate",
+     "Replace"
+    ],
+    "d": 2,
+    "e": "The floors are restore, assist, enhance, integrate and automate.",
+    "h": "Beyond the ordinary baseline.",
+    "q": "On the episode's enhancement escalator, which floor comes right after 'restore' and 'assist'?"
+   },
+   {
+    "a": [
+     "Automate",
+     "Integrate",
+     "Enhance",
+     "Assist"
+    ],
+    "d": 1,
+    "e": "Floor five, automate, lets software anticipate or potentially execute an action for the user.",
+    "h": "The machine acts on its own.",
+    "q": "What is the top floor of the enhancement escalator, where software may anticipate or execute an action?"
+   },
+   {
+    "a": [
+     "The entire system surrounding the signal",
+     "The implant alone",
+     "The patent on the sensor",
+     "A single breakthrough demo"
+    ],
+    "d": 2,
+    "e": "Donald argues value may lie in the ecosystem: sensors, chips, AI models, medical services, security, support and more.",
+    "h": "Think ecosystem, not one device.",
+    "q": "According to the episode, what might be the most valuable product in the thought economy?"
+   },
+   {
+    "a": [
+     "Disconnect authority",
+     "Data monetization",
+     "Digital identity",
+     "Device speed"
+    ],
+    "d": 2,
+    "e": "MINDS is Meaningful consent, Individual ownership, Network security, Disconnect authority and Scientific verification, plus System accountability.",
+    "h": "Who can safely stop the connection?",
+    "q": "What does the 'D' stand for in Donald's MINDS framework for a mind firewall?"
+   },
+   {
+    "a": [
+     "What if a system stops translating intention and starts influencing it?",
+     "Will the devices ever get cheaper?",
+     "Can the keyboard make a comeback?",
+     "Will regulators ban all implants?"
+    ],
+    "d": 1,
+    "e": "The swan's governance question: the most dangerous interface may quietly change the choices placed in front of the user.",
+    "h": "Translating vs. steering.",
+    "q": "What question does the 'tail-risk swan' raise in the bull-vs-bear debate?"
+   }
+  ],
+  "series": "Future Forward Friday",
+  "title": "The Thought Economy: When the Human Mind Becomes the Interface"
+ },
+ {
   "cat": "M",
   "ep": "EP17",
   "id": "ep-wsw17",
@@ -103,7 +209,8 @@
    }
   ],
   "series": "Wall Street Wednesday",
-  "title": "The Gold Paradox: Why Fear Doesn't Always Lift Gold"
+  "title": "The Gold Paradox: Why Fear Doesn't Always Lift Gold",
+  "yt": "wI3UcRv0K2Y"
  },
  {
   "cat": "M",
@@ -209,7 +316,8 @@
    }
   ],
   "series": "Taco Tuesday",
-  "title": "Asset-Backed Securities on the Menu: The Everything-But-the-House Taco"
+  "title": "Asset-Backed Securities on the Menu: The Everything-But-the-House Taco",
+  "yt": "VzZtKuNeIRc"
  },
  {
   "cat": "L",
@@ -315,7 +423,8 @@
    }
   ],
   "series": "Motivation Monday",
-  "title": "The Borrowed Dream: Are You Building the Life You Want or the Life You Were Taught to Want?"
+  "title": "The Borrowed Dream: Are You Building the Life You Want or the Life You Were Taught to Want?",
+  "yt": "YpITf9NyvMk"
  },
  {
   "cat": "L",
@@ -421,7 +530,8 @@
    }
   ],
   "series": "Sunday Reset",
-  "title": "The Sunday Stress Test: Can Your Week Survive Reality?"
+  "title": "The Sunday Stress Test: Can Your Week Survive Reality?",
+  "yt": "BO1nUkSW6R8"
  },
  {
   "cat": "E",
@@ -527,7 +637,8 @@
    }
   ],
   "series": "Wall Street Wednesday",
-  "title": "The Housing Market Freeze: When Buyers Can't Afford to Enter and Sellers Can't Afford to Leave"
+  "title": "The Housing Market Freeze: When Buyers Can't Afford to Enter and Sellers Can't Afford to Leave",
+  "yt": "0OkfOBOy2Gw"
  },
  {
   "cat": "M",

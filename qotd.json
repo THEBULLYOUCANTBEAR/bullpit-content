@@ -1,16 +1,16 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "q": {
   "a": [
-   "Volkswagen Group",
-   "Stellantis",
-   "BMW Group",
-   "Mercedes-Benz Group"
+   "Eddie Murphy and Dan Aykroyd",
+   "Steve Martin and John Candy",
+   "Bill Murray and Chevy Chase",
+   "Richard Pryor and Gene Wilder"
   ],
-  "c": "O",
-  "d": 2,
-  "e": "Audi bought Lamborghini in 1998, which put it under the German group that also owns Porsche and Bentley.",
-  "h": "Its parent is Germany's largest automaker.",
-  "q": "Italian supercar maker Lamborghini is part of which automaker group?"
+  "c": "V",
+  "d": 1,
+  "e": "Two rich brothers bet a dollar on whether nurture beats nature, swapping a street hustler and a commodities executive.",
+  "h": "Both were SNL stars; one of them later co-wrote 'Ghostbusters.'",
+  "q": "Which two comedians switch lives in the 1983 Wall Street comedy \"Trading Places\"?"
  }
 }

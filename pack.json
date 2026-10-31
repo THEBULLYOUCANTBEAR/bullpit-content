@@ -1,127 +1,127 @@
 {
- "asOf": "2026-10-23",
- "id": "2026-W43",
- "label": "Week of Oct 19, 2026",
+ "asOf": "2026-10-30",
+ "id": "2026-W44",
+ "label": "Week of Oct 26, 2026",
  "questions": [
   {
    "a": [
-    "October 27-28, 2026",
-    "October 20-21, 2026",
-    "November 17-18, 2026",
-    "December 1-2, 2026"
+    "Held it steady at 3.75% to 4%",
+    "Cut it by a quarter point",
+    "Raised it by a quarter point",
+    "Cut it by a half point"
    ],
    "d": 1,
-   "e": "The rate decision comes Wednesday, Oct. 28, followed by the Fed chair's press conference. Fed meetings are among the biggest scheduled market events.",
-   "h": "It is the very next week.",
-   "q": "The Federal Reserve's next two-day policy meeting (FOMC) is scheduled for which dates?"
+   "e": "The Fed paused after a September move, keeping borrowing costs unchanged while saying inflation remains elevated.",
+   "h": "No change this time.",
+   "q": "At its October 28 meeting, what did the Federal Reserve do with its federal funds target range?"
   },
   {
    "a": [
-    "Dow Jones Industrial Average",
-    "Nasdaq Composite",
-    "S&P 500",
-    "None of the major indexes rose"
-   ],
-   "d": 1,
-   "e": "Defensive and industrial names supported the 30-stock Dow, while big tech weighed on the S&P 500 and Nasdaq. Different index makeups can produce different weekly results.",
-   "h": "It has 30 stocks and is the oldest of the three.",
-   "q": "For the week ending Oct. 23, which major U.S. index finished higher while the S&P 500 and Nasdaq Composite posted small weekly losses?"
-  },
-  {
-   "a": [
-    "About $2.7 billion",
-    "About $1.5 billion",
-    "About $4.5 billion",
-    "About $6 billion"
-   ],
-   "d": 2,
-   "e": "Netflix cut the ad target from about $3 billion, citing a slower rollout of some ad tools. Shares fell about 6% after hours even though profit beat estimates.",
-   "h": "A cut of about 10% from roughly $3 billion.",
-   "q": "In its Q3 report on Oct. 20, Netflix lowered its 2026 advertising revenue target to roughly what amount?"
-  },
-  {
-   "a": [
-    "Roughly flat, at about $28 billion",
-    "Up about 40%",
-    "Down about 50%",
-    "More than doubled"
-   ],
-   "d": 2,
-   "e": "Revenue was about $28.05 billion, close to Q3 2025. Adjusted EPS of $0.48 topped the $0.45 estimate, while GAAP net income fell about 43%.",
-   "h": "Not much changed on the top line.",
-   "q": "How did Tesla's third-quarter 2026 revenue, reported Oct. 21, compare with a year earlier?"
-  },
-  {
-   "a": [
-    "A settlement with state attorneys general over teen mental health and social media litigation",
-    "A European Union antitrust fine",
-    "A write-down of its data center buildings",
-    "A canceled acquisition of a chip maker"
-   ],
-   "d": 2,
-   "e": "Excluding the charge, Meta's EPS would have been far higher. Revenue still grew 26% to $64.6 billion, showing how one-time items can distort reported earnings.",
-   "h": "It involves dozens of U.S. states.",
-   "q": "Meta's Q3 profit was weighed down by a roughly $9.9 billion charge tied to what?"
-  },
-  {
-   "a": [
-    "Houthi-claimed attacks on Saudi energy sites and ships",
-    "A hurricane shutting Gulf of Mexico production",
-    "A U.S. ban on crude oil exports",
-    "OPEC+ doubling its production"
-   ],
-   "d": 2,
-   "e": "Traders added a geopolitical risk premium after Yemen's Houthis claimed attacks on Saudi targets. Energy stocks rose to a record high as higher oil prices fed inflation worries.",
-   "h": "Think Middle East supply risk.",
-   "q": "What pushed Brent crude oil above $110 a barrel this week, its highest level since spring?"
-  },
-  {
-   "a": [
-    "Fell about 3.5%",
-    "Rose about 10%",
-    "Was essentially unchanged",
-    "Fell about 15%"
+    "A quarter-point rate hike",
+    "A quarter-point rate cut",
+    "A half-point rate cut",
+    "An end to the Fed's balance sheet program"
    ],
    "d": 3,
-   "e": "Gold had a notable weekly decline, with silver falling even more. Precious metals often swing with interest-rate and dollar expectations.",
-   "h": "A down week, but not a crash.",
-   "q": "How did gold perform over the trading week of Oct. 19-23, 2026?"
+   "e": "Lisa Cook and Beth Hammack voted for a hike, signaling some policymakers worry inflation is not cooling fast enough. The vote was 10 to 2.",
+   "h": "They were more hawkish than the majority.",
+   "q": "Two Fed officials dissented from the October 28 decision. What did they want instead?"
   },
   {
    "a": [
-    "Wireless carriers such as AT&T and T-Mobile",
-    "Oil refiners",
-    "Regional banks",
-    "Airlines"
-   ],
-   "d": 2,
-   "e": "Investors worried about a new fourth wireless competitor. Cell tower owners like Crown Castle and American Tower rose instead, since SpaceX would need to rent their sites.",
-   "h": "Think phone companies.",
-   "q": "A Friday report that SpaceX was seeking tens of thousands of cell sites for its own wireless service hit which group of stocks?"
-  },
-  {
-   "a": [
-    "$340 billion",
-    "$34 billion",
-    "$1 trillion",
-    "$120 billion"
-   ],
-   "d": 3,
-   "e": "The backlog splits into about $176 billion commercial and $164 billion defense. RTX also raised its full-year sales and profit guidance.",
-   "h": "More than three times its annual sales.",
-   "q": "RTX reported a record backlog on Oct. 20. About how large was it?"
-  },
-  {
-   "a": [
-    "Alphabet, Microsoft and Amazon",
-    "Tesla, Netflix and IBM",
-    "Walmart, Target and Home Depot",
-    "Nvidia, Salesforce and Broadcom"
+    "Kevin Warsh",
+    "Jerome Powell",
+    "Janet Yellen",
+    "Christopher Waller"
    ],
    "d": 1,
-   "e": "About one-third of S&P 500 companies report next week. These three are among the largest companies in the index, so their results can move the whole market.",
-   "h": "Search, Windows and online shopping.",
-   "q": "Which trio of tech giants is set to report quarterly earnings in the week of Oct. 26?"
+   "e": "The Fed Chair explains the committee's decision to markets after every meeting, and investors parse every word.",
+   "h": "Not the chair from 2018 to 2026.",
+   "q": "Who led the Federal Reserve's October 28 press conference as Fed Chair?"
+  },
+  {
+   "a": [
+    "3.4%",
+    "0.4%",
+    "1.4%",
+    "5.4%"
+   ],
+   "d": 2,
+   "e": "Growth sped up from 2.2% in the second quarter, driven by business investment in equipment like computers and by consumer spending.",
+   "h": "Faster than Q2's 2.2%.",
+   "q": "According to the BEA's advance estimate released October 29, how fast did U.S. real GDP grow in the third quarter of 2026 (annualized)?"
+  },
+  {
+   "a": [
+    "2.5%",
+    "0.5%",
+    "4.5%",
+    "6.5%"
+   ],
+   "d": 3,
+   "e": "Core PCE is the Fed's preferred inflation gauge; it slowed from 3.3% in Q2 but stayed above the Fed's 2% goal.",
+   "h": "Slowed from 3.3% but still above 2%.",
+   "q": "In the same GDP report, what was the third-quarter annualized rate of core PCE inflation (excluding food and energy)?"
+  },
+  {
+   "a": [
+    "It was the stock's worst day since 1974",
+    "It was the stock's first-ever daily loss",
+    "It was its worst day since 2024",
+    "It wiped out the entire company's value"
+   ],
+   "d": 2,
+   "e": "Intel guided Q4 revenue to $15 to $16 billion, well below expectations, citing a PC slump and an accident at a factory in Israel.",
+   "h": "Think five decades back.",
+   "q": "Intel shares plunged roughly 29% on Friday, October 30. What made it so historic?"
+  },
+  {
+   "a": [
+    "It kept 2026 capex unchanged and expects a significant increase in 2027",
+    "It cut 2026 capex in half",
+    "It said it will stop building data centers",
+    "It announced no capex plans at all"
+   ],
+   "d": 2,
+   "e": "Investors are questioning how fast huge AI infrastructure spending will pay off, and Alphabet signaled even more spending ahead.",
+   "h": "Next year's bill gets bigger.",
+   "q": "Alphabet stock sank about 10% or more after its Q3 report. What did it say about capital spending?"
+  },
+  {
+   "a": [
+    "Its worst month since March 2025",
+    "Its best month since 2020",
+    "Its first down month ever",
+    "Its worst month since 1987"
+   ],
+   "d": 2,
+   "e": "Disappointing tech earnings and worries about heavy AI spending drove investors away from tech stocks during the month.",
+   "h": "About a year and a half back.",
+   "q": "The Nasdaq ended October 2026 with a monthly loss. What milestone did that set?"
+  },
+  {
+   "a": [
+    "About 7,580",
+    "About 5,580",
+    "About 6,580",
+    "About 8,580"
+   ],
+   "d": 1,
+   "e": "The S&P 500 finished the week modestly lower as a sharp Friday tech sell-off erased earlier gains.",
+   "h": "Above 7,000.",
+   "q": "Roughly where did the S&P 500 close on Friday, October 30, 2026, after falling about 1.8% that day?"
+  },
+  {
+   "a": [
+    "Above $100 a barrel",
+    "About $45 a barrel",
+    "About $65 a barrel",
+    "Above $160 a barrel"
+   ],
+   "d": 1,
+   "e": "Higher oil prices feed into gasoline and transportation costs, which the Fed Chair noted were pushing energy prices up again.",
+   "h": "Triple digits.",
+   "q": "WTI crude oil traded around which level on October 30, as tanker attacks and U.S.-Iran tensions rattled markets?"
   }
  ]
 }
