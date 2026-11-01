@@ -1,16 +1,16 @@
 {
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "q": {
   "a": [
-   "Eddie Murphy and Dan Aykroyd",
-   "Steve Martin and John Candy",
-   "Bill Murray and Chevy Chase",
-   "Richard Pryor and Gene Wilder"
+   "The British pound",
+   "The U.S. dollar",
+   "Gold",
+   "The Japanese yen"
   ],
-  "c": "V",
-  "d": 1,
-  "e": "Two rich brothers bet a dollar on whether nurture beats nature, swapping a street hustler and a commodities executive.",
-  "h": "Both were SNL stars; one of them later co-wrote 'Ghostbusters.'",
-  "q": "Which two comedians switch lives in the 1983 Wall Street comedy \"Trading Places\"?"
+  "c": "L",
+  "d": 2,
+  "e": "Soros's fund reportedly made about $1 billion as the pound was forced out of the European Exchange Rate Mechanism.",
+  "h": "The UK's currency.",
+  "q": "George Soros famously \"broke the Bank of England\" in 1992 by betting against..."
  }
 }
