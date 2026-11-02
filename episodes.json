@@ -1,9 +1,12 @@
 [
  {
-  "cat": "R",
-  "ep": "Oct 30",
   "id": "ep-fff-oct30",
+  "series": "Future Forward Friday",
+  "ep": "Oct 30",
+  "title": "The Thought Economy: When the Human Mind Becomes the Interface",
   "order": 403,
+  "cat": "R",
+  "yt": "dogTHvTfHCE",
   "questions": [
    {
     "a": [
@@ -101,15 +104,16 @@
     "h": "Translating vs. steering.",
     "q": "What question does the 'tail-risk swan' raise in the bull-vs-bear debate?"
    }
-  ],
-  "series": "Future Forward Friday",
-  "title": "The Thought Economy: When the Human Mind Becomes the Interface"
+  ]
  },
  {
-  "cat": "M",
-  "ep": "EP17",
   "id": "ep-wsw17",
+  "series": "Wall Street Wednesday",
+  "ep": "EP17",
+  "title": "The Gold Paradox: Why Fear Doesn't Always Lift Gold",
   "order": 401,
+  "cat": "M",
+  "yt": "wI3UcRv0K2Y",
   "questions": [
    {
     "a": [
@@ -207,16 +211,16 @@
     "h": "Futures positioning, with a delay.",
     "q": "According to the episode, what do the CFTC Commitments of Traders reports provide?"
    }
-  ],
-  "series": "Wall Street Wednesday",
-  "title": "The Gold Paradox: Why Fear Doesn't Always Lift Gold",
-  "yt": "wI3UcRv0K2Y"
+  ]
  },
  {
-  "cat": "M",
-  "ep": "EP17",
   "id": "ep-tt17",
+  "series": "Taco Tuesday",
+  "ep": "EP17",
+  "title": "Asset-Backed Securities on the Menu: The Everything-But-the-House Taco",
   "order": 400,
+  "cat": "M",
+  "yt": "VzZtKuNeIRc",
   "questions": [
    {
     "a": [
@@ -314,16 +318,16 @@
     "h": "Where the security sits in the structure.",
     "q": "In the SCAN test, what does the \"A\" stand for?"
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "Asset-Backed Securities on the Menu: The Everything-But-the-House Taco",
-  "yt": "VzZtKuNeIRc"
+  ]
  },
  {
-  "cat": "L",
-  "ep": "EP17",
   "id": "ep-mm17",
+  "series": "Motivation Monday",
+  "ep": "EP17",
+  "title": "The Borrowed Dream: Are You Building the Life You Want or the Life You Were Taught to Want?",
   "order": 399,
+  "cat": "L",
+  "yt": "YpITf9NyvMk",
   "questions": [
    {
     "a": [
@@ -421,16 +425,16 @@
     "h": "Four R's.",
     "q": "What are the four options at the episode's \"dream transfer desk\"?"
    }
-  ],
-  "series": "Motivation Monday",
-  "title": "The Borrowed Dream: Are You Building the Life You Want or the Life You Were Taught to Want?",
-  "yt": "YpITf9NyvMk"
+  ]
  },
  {
-  "cat": "L",
-  "ep": "EP11",
   "id": "ep-sr11",
+  "series": "Sunday Reset",
+  "ep": "EP11",
+  "title": "The Sunday Stress Test: Can Your Week Survive Reality?",
   "order": 398,
+  "cat": "L",
+  "yt": "BO1nUkSW6R8",
   "questions": [
    {
     "a": [
@@ -528,16 +532,16 @@
     "h": "It can bounce back.",
     "q": "According to the episode, what does a strong week need to be, rather than invincible?"
    }
-  ],
-  "series": "Sunday Reset",
-  "title": "The Sunday Stress Test: Can Your Week Survive Reality?",
-  "yt": "BO1nUkSW6R8"
+  ]
  },
  {
-  "cat": "E",
-  "ep": "Oct 21",
   "id": "ep-wsw-oct21",
+  "series": "Wall Street Wednesday",
+  "ep": "Oct 21",
+  "title": "The Housing Market Freeze: When Buyers Can't Afford to Enter and Sellers Can't Afford to Leave",
   "order": 394,
+  "cat": "E",
+  "yt": "0OkfOBOy2Gw",
   "questions": [
    {
     "a": [
@@ -635,16 +639,16 @@
     "h": "Same direction, different message.",
     "q": "Why does the episode say the reason mortgage rates fall matters?"
    }
-  ],
-  "series": "Wall Street Wednesday",
-  "title": "The Housing Market Freeze: When Buyers Can't Afford to Enter and Sellers Can't Afford to Leave",
-  "yt": "0OkfOBOy2Gw"
+  ]
  },
  {
-  "cat": "M",
-  "ep": "Oct 20",
   "id": "ep-tt-oct20",
+  "series": "Taco Tuesday",
+  "ep": "Oct 20",
+  "title": "Distressed Debt on the Menu: The Vulture Taco",
   "order": 393,
+  "cat": "M",
+  "yt": "AbKuBQHQjzM",
   "questions": [
    {
     "a": [
@@ -742,16 +746,16 @@
     "h": "He doesn't need to love the company.",
     "q": "According to the taco vulture, what does he need in order to invest?"
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "Distressed Debt on the Menu: The Vulture Taco",
-  "yt": "AbKuBQHQjzM"
+  ]
  },
  {
-  "cat": "L",
-  "ep": "Oct 19",
   "id": "ep-mm-oct19",
+  "series": "Motivation Monday",
+  "ep": "Oct 19",
+  "title": "The No Advantage: How Rejection Reveals Your Next Move",
   "order": 392,
+  "cat": "L",
+  "yt": "QOD0m0uoK8M",
   "questions": [
    {
     "a": [
@@ -849,16 +853,16 @@
     "h": "Don't put every hope behind one door.",
     "q": "Why does Donald recommend treating opportunity as a portfolio?"
    }
-  ],
-  "series": "Motivation Monday",
-  "title": "The No Advantage: How Rejection Reveals Your Next Move",
-  "yt": "QOD0m0uoK8M"
+  ]
  },
  {
-  "cat": "R",
-  "ep": "Oct 16",
   "id": "ep-fff-oct16",
+  "series": "Future Forward Friday",
+  "ep": "Oct 16",
+  "title": "Put Some Respect On My Name: AI vs. Superintelligence",
   "order": 389,
+  "cat": "R",
+  "yt": "wqTluLWZwpE",
   "questions": [
    {
     "a": [
@@ -956,16 +960,16 @@
     "h": "Not yes, not no.",
     "q": "What was the committee's final ruling on the \"super\" title?"
    }
-  ],
-  "series": "Future Forward Friday",
-  "title": "Put Some Respect On My Name: AI vs. Superintelligence",
-  "yt": "wqTluLWZwpE"
+  ]
  },
  {
-  "cat": "M",
-  "ep": "EP15",
   "id": "ep-wsw15",
+  "series": "Wall Street Wednesday",
+  "ep": "EP15",
+  "title": "When the Tail Wags Wall Street",
   "order": 387,
+  "cat": "M",
+  "yt": "-HVhgHE6B9Q",
   "questions": [
    {
     "a": [
@@ -1063,16 +1067,16 @@
     "h": "Analysis vs. storytelling.",
     "q": "In this week's challenge, what does Donald call the most important question to ask about your explanation?"
    }
-  ],
-  "series": "Wall Street Wednesday",
-  "title": "When the Tail Wags Wall Street",
-  "yt": "-HVhgHE6B9Q"
+  ]
  },
  {
-  "cat": "M",
-  "ep": "EP15",
   "id": "ep-tt15",
+  "series": "Taco Tuesday",
+  "ep": "EP15",
+  "title": "Mortgage-Backed Securities on the Menu",
   "order": 386,
+  "cat": "M",
+  "yt": "9zVAuzE_mVM",
   "questions": [
    {
     "a": [
@@ -1170,16 +1174,16 @@
     "h": "A protected ingredient doesn't make the taco indestructible.",
     "q": "Per the episode's myth-busting, does a guarantee eliminate all MBS investment risk?"
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "Mortgage-Backed Securities on the Menu",
-  "yt": "9zVAuzE_mVM"
+  ]
  },
  {
-  "cat": "L",
-  "ep": "EP15",
   "id": "ep-mm15",
+  "series": "Motivation Monday",
+  "ep": "EP15",
+  "title": "The Motivation Debt",
   "order": 385,
+  "cat": "L",
+  "yt": "czK86uWhQWU",
   "questions": [
    {
     "a": [
@@ -1277,16 +1281,16 @@
     "h": "The goal is fewer withdrawals, not more.",
     "q": "Which is NOT one of the three 'payments' Donald asks listeners to make before the day ends?"
    }
-  ],
-  "series": "Motivation Monday",
-  "title": "The Motivation Debt",
-  "yt": "czK86uWhQWU"
+  ]
  },
  {
-  "cat": "R",
-  "ep": "EP14",
   "id": "ep-fff14",
+  "series": "Future Forward Friday",
+  "ep": "EP14",
+  "title": "The Self-Driving Discovery Machine",
   "order": 13,
+  "cat": "R",
+  "yt": "z__mmAwY5yw",
   "questions": [
    {
     "a": [
@@ -1384,16 +1388,16 @@
     "h": "Who approves objectives and can stop the process?",
     "q": "Which is the sixth layer of the episode's 'discovery stack'?"
    }
-  ],
-  "series": "Future Forward Friday",
-  "title": "The Self-Driving Discovery Machine",
-  "yt": "z__mmAwY5yw"
+  ]
  },
  {
-  "cat": "M",
-  "ep": "EP14",
   "id": "ep-wsw-oct8",
+  "series": "Wall Street Wednesday",
+  "ep": "EP14",
+  "title": "When Records Lie",
   "order": 12,
+  "cat": "M",
+  "yt": "s-gMMpCfcz0",
   "questions": [
    {
     "a": [
@@ -1491,16 +1495,16 @@
     "h": "Think about competition for investor money.",
     "q": "Why can higher Treasury yields pressure stocks, per the episode?"
    }
-  ],
-  "series": "Wall Street Wednesday",
-  "title": "When Records Lie",
-  "yt": "s-gMMpCfcz0"
+  ]
  },
  {
-  "cat": "M",
-  "ep": "EP14",
   "id": "ep-tt-oct7",
+  "series": "Taco Tuesday",
+  "ep": "EP14",
+  "title": "Private Credit on the Menu",
   "order": 11,
+  "cat": "M",
+  "yt": "q-Fhh63tdBs",
   "questions": [
    {
     "a": [
@@ -1598,16 +1602,16 @@
     "h": "Extra yield is 'not free guacamole.'",
     "q": "What key question does the humanoid ask about private credit's extra yield?"
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "Private Credit on the Menu",
-  "yt": "q-Fhh63tdBs"
+  ]
  },
  {
-  "cat": "L",
-  "ep": "EP14",
   "id": "ep-mm-oct6",
+  "series": "Motivation Monday",
+  "ep": "EP14",
+  "title": "The Approval Trap",
   "order": 10,
+  "cat": "L",
+  "yt": "6YY00B9srg8",
   "questions": [
    {
     "a": [
@@ -1705,16 +1709,16 @@
     "h": "It's an emotional bond to the idea, not evidence.",
     "q": "Per the episode, if no evidence could change your mind, what may you have instead of conviction?"
    }
-  ],
-  "series": "Motivation Monday",
-  "title": "The Approval Trap",
-  "yt": "6YY00B9srg8"
+  ]
  },
  {
-  "cat": "M",
-  "ep": "EP04",
   "id": "ep-wsw04",
+  "series": "Wall Street Wednesday",
+  "ep": "EP04",
+  "title": "The Power of Time",
   "order": 7,
+  "cat": "M",
+  "yt": "zCdHx8PGEMc",
   "questions": [
    {
     "a": [
@@ -1812,16 +1816,16 @@
     "h": "Patience pays.",
     "q": "A long time horizon generally lets an investor..."
    }
-  ],
-  "series": "Wall Street Wednesday",
-  "title": "The Power of Time",
-  "yt": "zCdHx8PGEMc"
+  ]
  },
  {
-  "cat": "P",
-  "ep": "EP11",
   "id": "ep-tt11",
+  "series": "Taco Tuesday",
+  "ep": "EP11",
+  "title": "Preferred Stocks on the Menu",
   "order": 6,
+  "cat": "P",
+  "yt": "vghlneKA17E",
   "questions": [
    {
     "a": [
@@ -1919,16 +1923,16 @@
     "h": "Part stock, part bond.",
     "q": "Why do some investors call preferred stock a hybrid?"
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "Preferred Stocks on the Menu",
-  "yt": "vghlneKA17E"
+  ]
  },
  {
-  "cat": "P",
-  "ep": "EP10",
   "id": "ep-tt10",
+  "series": "Taco Tuesday",
+  "ep": "EP10",
+  "title": "REITs on the Menu",
   "order": 5,
+  "cat": "P",
+  "yt": "uNvrwv7Z4m4",
   "questions": [
    {
     "a": [
@@ -2026,16 +2030,16 @@
     "h": "Not the lower rate.",
     "q": "Most REIT dividends are taxed..."
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "REITs on the Menu",
-  "yt": "uNvrwv7Z4m4"
+  ]
  },
  {
-  "cat": "P",
-  "ep": "EP09",
   "id": "ep-tt09",
+  "series": "Taco Tuesday",
+  "ep": "EP09",
+  "title": "Dividends on the Menu",
   "order": 4,
+  "cat": "P",
+  "yt": "tX8GnReZtpU",
   "questions": [
    {
     "a": [
@@ -2133,16 +2137,16 @@
     "h": "Nothing is promised.",
     "q": "Are dividends guaranteed?"
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "Dividends on the Menu",
-  "yt": "tX8GnReZtpU"
+  ]
  },
  {
-  "cat": "P",
-  "ep": "EP04.5",
   "id": "ep-tt045",
+  "series": "Taco Tuesday",
+  "ep": "EP04.5",
+  "title": "Bonds on the Menu",
   "order": 3,
+  "cat": "P",
+  "yt": "x_u-ydCWd3k",
   "questions": [
    {
     "a": [
@@ -2240,16 +2244,16 @@
     "h": "Longest and no coupons.",
     "q": "Which bond is usually most sensitive to interest rate changes?"
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "Bonds on the Menu",
-  "yt": "x_u-ydCWd3k"
+  ]
  },
  {
-  "cat": "P",
-  "ep": "EP04",
   "id": "ep-tt04",
+  "series": "Taco Tuesday",
+  "ep": "EP04",
+  "title": "Mutual Funds, Explained",
   "order": 2,
+  "cat": "P",
+  "yt": "E_vGz-Bxwec",
   "questions": [
    {
     "a": [
@@ -2347,16 +2351,16 @@
     "h": "Someone is actively picking.",
     "q": "An actively managed mutual fund tries to..."
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "Mutual Funds, Explained",
-  "yt": "E_vGz-Bxwec"
+  ]
  },
  {
-  "cat": "P",
-  "ep": "EP03",
   "id": "ep-tt03",
+  "series": "Taco Tuesday",
+  "ep": "EP03",
+  "title": "ETFs, Explained",
   "order": 1,
+  "cat": "P",
+  "yt": "LryjVn7aKzk",
   "questions": [
    {
     "a": [
@@ -2478,16 +2482,16 @@
     "h": "Fixed income.",
     "q": "A bond ETF holds..."
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "ETFs, Explained",
-  "yt": "LryjVn7aKzk"
+  ]
  },
  {
-  "cat": "P",
-  "ep": "EP02",
   "id": "ep-tt02",
+  "series": "Taco Tuesday",
+  "ep": "EP02",
+  "title": "Options, Made Simple",
   "order": 0,
+  "cat": "P",
+  "yt": "RMLgzuyNjHo",
   "questions": [
    {
     "a": [
@@ -2585,9 +2589,6 @@
     "h": "The clock is ticking.",
     "q": "All else equal, options lose value as expiration approaches. This is called..."
    }
-  ],
-  "series": "Taco Tuesday",
-  "title": "Options, Made Simple",
-  "yt": "RMLgzuyNjHo"
+  ]
  }
 ]

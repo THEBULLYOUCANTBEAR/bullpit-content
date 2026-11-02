@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-29",
- "id": "2026-10-29",
- "label": "Thu, Oct 29",
+ "asOf": "2026-10-30",
+ "id": "2026-10-30",
+ "label": "Fri, Oct 30",
  "questions": [
-  {
-   "a": [
-    "3.4%",
-    "0.4%",
-    "-1.2%",
-    "6.8%"
-   ],
-   "d": 1,
-   "e": "The Bureau of Economic Analysis said real GDP grew at a 3.4% annual rate in Q3 2026, up from 2.2% in the second quarter and above the roughly 3.1% economists expected.",
-   "h": "Faster than Q2's 2.2%.",
-   "q": "The government's first estimate of third-quarter 2026 GDP, released Oct 29, showed the U.S. economy growing at what annual rate?"
-  },
-  {
-   "a": [
-    "Alphabet",
-    "Microsoft",
-    "Apple",
-    "Walmart"
-   ],
-   "d": 1,
-   "e": "Alphabet shares dropped roughly 12% to 13% after results missed expectations, dragging the Nasdaq lower and erasing hundreds of billions of dollars in market value.",
-   "h": "Google's parent company.",
-   "q": "Which megacap stock fell about 12% on Oct 29, 2026, its worst day on record, after its quarterly results disappointed investors?"
-  },
   {
    "a": [
     "Nasdaq Composite",
     "Dow Jones Industrial Average",
     "S&P 500",
-    "They all fell exactly the same"
+    "They all fell the same amount"
    ],
    "d": 1,
-   "e": "The tech-heavy Nasdaq dropped about 1.4%, while the S&P 500 and the Dow each slipped only about 0.3%, as big tech names like Alphabet weighed on growth stocks.",
+   "e": "The tech-heavy Nasdaq fell roughly 2.8% to 2.9%, while the S&P 500 lost about 1.8% and the Dow about 1.1%, as worries about AI spending hit tech stocks.",
    "h": "The tech-heavy one.",
-   "q": "Which major U.S. index fell the most on Oct 29, 2026, losing about 1.4%?"
+   "q": "Which major U.S. index fell the most on Friday, Oct 30, 2026, dropping close to 3% in a tech-led sell-off?"
   },
   {
    "a": [
-    "Instacart",
-    "Uber",
-    "Kroger",
-    "Grubhub"
+    "Intel",
+    "Nvidia",
+    "Apple",
+    "Qualcomm"
    ],
-   "d": 2,
-   "e": "DoorDash agreed to buy Maplebear, the parent of Instacart, in a deal valued around $17 billion, and its stock gained about 5.6% on the day.",
-   "h": "Its parent company is called Maplebear.",
-   "q": "DoorDash shares rose more than 5% on Oct 29, 2026 after it agreed to acquire which grocery delivery company?"
+   "d": 1,
+   "e": "Intel's forecast for the fourth quarter fell well short of expectations, citing a sluggish PC market, and the shares lost close to 29% in one session.",
+   "h": "Its processors are 'inside' many PCs.",
+   "q": "Which chipmaker's stock plunged roughly 29% on Oct 30, 2026, its worst day since 1974, after a weak fourth-quarter outlook?"
   },
   {
    "a": [
-    "Just under 5%",
-    "Just under 3%",
-    "Just under 2%",
-    "Just over 7%"
+    "Reddit",
+    "Meta Platforms",
+    "Snap",
+    "Pinterest"
    ],
    "d": 2,
-   "e": "The 10-year yield fell several basis points to roughly 4.95% to 4.98%, slipping back below the closely watched 5% level.",
-   "h": "Close to a big round number.",
-   "q": "Where did the 10-year U.S. Treasury yield end up on Oct 29, 2026, after falling during the session?"
+   "e": "Reddit's CEO warned that daily active unique visitors could fall by a low double-digit percentage in Q4, and the stock dropped roughly 29%.",
+   "h": "Known for its 'subreddits'.",
+   "q": "Which social media company's shares fell about 29% on Oct 30, 2026 after warning that its daily visitor count could shrink in the fourth quarter?"
+  },
+  {
+   "a": [
+    "0.8%",
+    "0.1%",
+    "2.5%",
+    "5.0%"
+   ],
+   "d": 2,
+   "e": "The Bureau of Labor Statistics said compensation costs for civilian workers rose 0.8% in the quarter, and 3.4% over the past 12 months.",
+   "h": "Less than 1% for the quarter.",
+   "q": "The Employment Cost Index released Oct 30, 2026 showed civilian worker compensation rising how much in the three months ending September?"
+  },
+  {
+   "a": [
+    "March 2025",
+    "March 2020",
+    "October 2008",
+    "December 2018"
+   ],
+   "d": 3,
+   "e": "The Nasdaq lost roughly 5% in October 2026, its worst month since March 2025, as tech and communication services were the weakest sectors.",
+   "h": "Only about a year and a half earlier.",
+   "q": "With the Oct 30, 2026 sell-off, the Nasdaq Composite finished October with its worst monthly performance since when?"
   }
  ]
 }
