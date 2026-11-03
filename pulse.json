@@ -1,67 +1,67 @@
 {
- "asOf": "2026-10-30",
- "id": "2026-10-30",
- "label": "Fri, Oct 30",
+ "asOf": "2026-11-02",
+ "id": "2026-11-02",
+ "label": "Mon, Nov 2",
  "questions": [
   {
    "a": [
-    "Nasdaq Composite",
     "Dow Jones Industrial Average",
-    "S&P 500",
-    "They all fell the same amount"
+    "Nasdaq Composite",
+    "Nasdaq-100",
+    "None of them, all fell"
    ],
    "d": 1,
-   "e": "The tech-heavy Nasdaq fell roughly 2.8% to 2.9%, while the S&P 500 lost about 1.8% and the Dow about 1.1%, as worries about AI spending hit tech stocks.",
-   "h": "The tech-heavy one.",
-   "q": "Which major U.S. index fell the most on Friday, Oct 30, 2026, dropping close to 3% in a tech-led sell-off?"
+   "e": "The Dow gained about 0.4% to close near 51,984, while the S&P 500 slipped 0.5% and the Nasdaq fell about 1.1% as money rotated out of tech.",
+   "h": "It's the oldest of the big three, with 30 stocks.",
+   "q": "On Monday, Nov 2, 2026, the S&P 500 and Nasdaq both fell. Which major U.S. index finished the day higher?"
   },
   {
    "a": [
-    "Intel",
-    "Nvidia",
-    "Apple",
-    "Qualcomm"
+    "About 7%",
+    "About 1%",
+    "It rose about 3%",
+    "About 20%"
    ],
    "d": 1,
-   "e": "Intel's forecast for the fourth quarter fell well short of expectations, citing a sluggish PC market, and the shares lost close to 29% in one session.",
-   "h": "Its processors are 'inside' many PCs.",
-   "q": "Which chipmaker's stock plunged roughly 29% on Oct 30, 2026, its worst day since 1974, after a weak fourth-quarter outlook?"
+   "e": "Brent dropped roughly 7% as Iran signaled openness to peace talks, easing fears of Middle East supply disruptions. The S&P 500 energy sector fell about 4%.",
+   "h": "Think of a big single-digit drop.",
+   "q": "Oil prices tumbled on Nov 2, 2026. Roughly how much did Brent crude fall that day?"
   },
   {
    "a": [
-    "Reddit",
-    "Meta Platforms",
-    "Snap",
-    "Pinterest"
+    "55.5",
+    "44.0",
+    "49.5",
+    "65.0"
    ],
    "d": 2,
-   "e": "Reddit's CEO warned that daily active unique visitors could fall by a low double-digit percentage in Q4, and the stock dropped roughly 29%.",
-   "h": "Known for its 'subreddits'.",
-   "q": "Which social media company's shares fell about 29% on Oct 30, 2026 after warning that its daily visitor count could shrink in the fourth quarter?"
+   "e": "The ISM index rose a point to 55.5, its 10th straight month above 50, the line that separates expansion from contraction.",
+   "h": "Comfortably above 50, but not extreme.",
+   "q": "The ISM Manufacturing PMI released Nov 2, 2026 showed factories expanding in October. About where did the index land?"
   },
   {
    "a": [
-    "0.8%",
-    "0.1%",
-    "2.5%",
-    "5.0%"
+    "Lumentum",
+    "Coherent",
+    "Corning",
+    "Ciena"
    ],
    "d": 2,
-   "e": "The Bureau of Labor Statistics said compensation costs for civilian workers rose 0.8% in the quarter, and 3.4% over the past 12 months.",
-   "h": "Less than 1% for the quarter.",
-   "q": "The Employment Cost Index released Oct 30, 2026 showed civilian worker compensation rising how much in the three months ending September?"
+   "e": "Marvell agreed to acquire Lumentum in an all-stock deal valued at about $115 billion including debt. Both stocks fell, with Lumentum down about 18.6%.",
+   "h": "Its name sounds like a Latin word for light.",
+   "q": "Marvell Technology shares fell about 13% on Nov 2, 2026 after it agreed to buy which optical components maker in an all-stock deal valued around $115 billion?"
   },
   {
    "a": [
-    "March 2025",
-    "March 2020",
-    "October 2008",
-    "December 2018"
+    "$20 billion",
+    "$2 billion",
+    "$200 billion",
+    "$500 million"
    ],
    "d": 3,
-   "e": "The Nasdaq lost roughly 5% in October 2026, its worst month since March 2025, as tech and communication services were the weakest sectors.",
-   "h": "Only about a year and a half earlier.",
-   "q": "With the Oct 30, 2026 sell-off, the Nasdaq Composite finished October with its worst monthly performance since when?"
+   "e": "Oracle filed to sell about $10 billion of common stock and $10 billion of senior notes, roughly $20 billion in total, to help fund its AI buildout.",
+   "h": "Two equal halves of $10 billion each.",
+   "q": "Oracle stock fell almost 9% on Nov 2, 2026 after filings showed plans to raise money through share and debt sales. About how much in total?"
   }
  ]
 }

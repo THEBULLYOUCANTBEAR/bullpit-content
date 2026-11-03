@@ -1,5 +1,111 @@
 [
  {
+  "id": "ep-mm18",
+  "series": "Motivation Monday",
+  "ep": "EP18",
+  "title": "The Red Screen Reset: When Volatility, Leverage, and Fear Test Your Financial Discipline",
+  "order": 406,
+  "cat": "M",
+  "questions": [
+   {
+    "a": [
+     "About 50%",
+     "About 25%",
+     "About 12.5%",
+     "About 75%"
+    ],
+    "d": 2,
+    "e": "Securities drop to $15,000 but the $10,000 loan stays, leaving about $5,000 of equity, half the original $10,000.",
+    "h": "The loan doesn't shrink with the stock.",
+    "q": "In the episode's hypothetical, $20,000 of securities bought with $10,000 borrowed falls 25%. How much does the investor's equity fall?"
+   },
+   {
+    "a": [
+     "25%",
+     "10%",
+     "50%",
+     "75%"
+    ],
+    "d": 1,
+    "e": "FINRA generally requires at least 25% maintenance equity, and brokerage firms can set higher house requirements, such as 30% to 40%.",
+    "h": "A quarter of the account.",
+    "q": "Under FINRA rules, what minimum equity do margin accounts generally have to maintain?"
+   },
+   {
+    "a": [
+     "Analyst price targets",
+     "The price",
+     "Your personal financial circumstances",
+     "Your emotional reaction"
+    ],
+    "d": 2,
+    "e": "Donald lists the price, the underlying business or asset, your personal financial circumstances and your emotional reaction.",
+    "h": "Three of these are about you, the asset and its price.",
+    "q": "According to the episode, which is NOT one of the four things to separate when the market turns red?"
+   },
+   {
+    "a": [
+     "Liquidity",
+     "Patience",
+     "Research",
+     "Optimism"
+    ],
+    "d": 1,
+    "e": "A margin call wants collateral right now, not your five-year thesis, so only liquidity can meet it.",
+    "h": "Cash or eligible collateral, right now.",
+    "q": "Complete the Margin Monolith's line: \"Conviction cannot satisfy a margin call. ____ can.\""
+   },
+   {
+    "a": [
+     "Staying power",
+     "Market timing",
+     "Diversification",
+     "Momentum"
+    ],
+    "d": 1,
+    "e": "Donald says excessive leverage can force a sale before the thesis has time to work, so the Monolith stands for staying power.",
+    "h": "Can you stay in long enough for your thesis to work?",
+    "q": "In the episode's courtroom, the bull represents opportunity and the bear represents risk. What does the Margin Monolith represent?"
+   },
+   {
+    "a": [
+     "Observe your exposure",
+     "Override your emotions",
+     "Open a new position",
+     "Outline your exit"
+    ],
+    "d": 2,
+    "e": "S slows the emotional clock, T traces the pressure, O observes your exposure (concentration, borrowed money, cash needs) and P protects the process.",
+    "h": "Check what you own and what you owe.",
+    "q": "In the STOP circuit breaker, what does the \"O\" stand for?"
+   },
+   {
+    "a": [
+     "The student",
+     "The spectator",
+     "The gambler",
+     "The contrarian"
+    ],
+    "d": 1,
+    "e": "The spectator absorbs every emotion and the gambler treats every move as a bet, but the student leaves with an education.",
+    "h": "Think classroom.",
+    "q": "Of the three people a volatile market can create, who investigates causes, studies consequences and improves the process?"
+   },
+   {
+    "a": [
+     "Rented confidence",
+     "Borrowed brilliance",
+     "Bull-market courage",
+     "Green-screen genius"
+    ],
+    "d": 2,
+    "e": "He says confidence built only while prices rise is rented, because the real test begins when prices fall.",
+    "h": "You don't own it, you're only leasing it.",
+    "q": "What does Donald call confidence that is built only during rising markets?"
+   }
+  ]
+ },
+ {
   "id": "ep-fff-oct30",
   "series": "Future Forward Friday",
   "ep": "Oct 30",
