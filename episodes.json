@@ -1,5 +1,111 @@
 [
  {
+  "id": "ep-tt18",
+  "series": "Taco Tuesday",
+  "ep": "EP18",
+  "title": "Commodity Futures on the Menu: The Time-Traveling Taco",
+  "order": 407,
+  "cat": "M",
+  "questions": [
+   {
+    "a": [
+     "A standardized agreement to buy or sell a set quantity at an agreed price for a future period",
+     "A guaranteed forecast of where a commodity's price will be",
+     "A share of ownership in a commodity-producing company",
+     "An informal promise between two traders with no fixed terms"
+    ],
+    "d": 1,
+    "e": "Donald defines a futures contract as a standardized agreement specifying the commodity, quantity, quality, price and future delivery or settlement period. \"The future may be uncertain. The contract is not supposed to be.\"",
+    "h": "Think standardized obligation with a clock attached.",
+    "q": "According to the episode, what is a commodity futures contract?"
+   },
+   {
+    "a": [
+     "The hedger wants less price uncertainty; the speculator accepts it seeking profit",
+     "The hedger seeks maximum profit; the speculator seeks safety",
+     "Both want to take physical delivery of the commodity",
+     "The hedger only trades on weekends; the speculator trades daily"
+    ],
+    "d": 1,
+    "e": "The taco truck and the cattle producer hedge to gain more certainty, while the speculator voluntarily takes on price risk in pursuit of potential profit. Same contract, different purpose.",
+    "h": "Same contract, different purpose.",
+    "q": "In the episode, how does a hedger's goal differ from a speculator's?"
+   },
+   {
+    "a": [
+     "Basis risk",
+     "Contango",
+     "Roll yield",
+     "Mark-to-market"
+    ],
+    "d": 2,
+    "e": "When the physical price and futures price don't move in perfect opposition, the gap is basis risk. Risk can be transferred, but it is rarely erased.",
+    "h": "It's the gap between physical and futures prices.",
+    "q": "What does the episode call the mismatch between a hedge and the real-world exposure due to location, grade or timing?"
+   },
+   {
+    "a": [
+     "Today's negotiated price for tomorrow's uncertainty",
+     "A guaranteed prediction of tomorrow's spot price",
+     "The price for immediate delivery",
+     "A price set by the government each month"
+    ],
+    "d": 1,
+    "e": "The Futures Falcon has no crystal ball. The futures price reflects current conditions and expectations like supply, demand, storage and weather; it is not a confirmed answer about tomorrow.",
+    "h": "The Futures Falcon has no crystal ball.",
+    "q": "According to the episode, how should you think of a futures price?"
+   },
+   {
+    "a": [
+     "A hedge isn't judged like a standalone trade; cheaper beef can offset it",
+     "The hedge failed and should never have been used",
+     "The truck pays more for beef and loses on futures",
+     "Losses on a hedge are always refunded by the exchange"
+    ],
+    "d": 2,
+    "e": "The truck still benefits from cheaper physical beef. A hedge aims for a more predictable total business result, not a winning trade in every scenario.",
+    "h": "Look at the whole business, not just the futures position.",
+    "q": "In the episode's hypothetical, beef prices fall and the taco truck's futures hedge loses value. What's the key lesson?"
+   },
+   {
+    "a": [
+     "A performance bond supporting the contract's obligations",
+     "A down payment like buying a house",
+     "A fee paid to the exchange that is never returned",
+     "The maximum amount you can lose"
+    ],
+    "d": 2,
+    "e": "Donald says futures margin isn't a down payment; it's collateral backing your obligations. Positions are marked to market, typically daily, and a smaller deposit never means smaller risk.",
+    "h": "The Margin Monolith asks about collateral.",
+    "q": "According to the episode, futures margin functions most like what?"
+   },
+   {
+    "a": [
+     "Later-dated futures contracts trade above nearer-dated ones",
+     "Later-dated futures contracts trade below nearer-dated ones",
+     "The spot price is guaranteed to fall",
+     "A margin call triggered by volatility"
+    ],
+    "d": 2,
+    "e": "Contango is the upward-sloping belt: tomorrow's taco costs more than today's. Backwardation is the reverse, and neither guarantees where spot prices go.",
+    "h": "Tomorrow's taco costs more than today's.",
+    "q": "How does the episode describe contango?"
+   },
+   {
+    "a": [
+     "Rolling contracts, the curve, collateral and fees affect results",
+     "Funds always own the physical commodity in a vault",
+     "Spot prices are only reported once a year",
+     "Futures funds are legally required to track spot exactly"
+    ],
+    "d": 3,
+    "e": "Replacing expiring contracts (rolling) in contango can create a headwind, and fees and collateral matter too. A futures-based fund is not the spot market. Read the recipe.",
+    "h": "Think about what happens before expiration.",
+    "q": "Why does the episode say a futures-based commodity fund may perform differently from the spot price in the news?"
+   }
+  ]
+ },
+ {
   "id": "ep-mm18",
   "series": "Motivation Monday",
   "ep": "EP18",

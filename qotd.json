@@ -1,16 +1,16 @@
 {
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "q": {
   "a": [
-   "The Washington Post Co.",
-   "The New York Times Co.",
-   "Time Inc.",
-   "Dow Jones & Co."
+   "Stratton Oakmont",
+   "Pierce & Pierce",
+   "Pierpoint & Co",
+   "Axe Capital"
   ],
-  "c": "W",
+  "c": "V",
   "d": 2,
-  "e": "Graham led the company through the Pentagon Papers and Watergate, and her memoir 'Personal History' won a Pulitzer Prize.",
-  "h": "Think Watergate reporting.",
-  "q": "In 1972, Katharine Graham became the first woman CEO of a Fortune 500 company. Which one?"
+  "e": "Regulators expelled the firm from the securities industry in 1996. The wrong choices are fictional firms from other screen stories.",
+  "h": "Its name sounds like an old-money firm, by design.",
+  "q": "What was the name of Jordan Belfort's brokerage firm, depicted in \"The Wolf of Wall Street\"?"
  }
 }

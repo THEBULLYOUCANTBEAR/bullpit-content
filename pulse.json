@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-02",
- "id": "2026-11-02",
- "label": "Mon, Nov 2",
+ "asOf": "2026-11-03",
+ "id": "2026-11-03",
+ "label": "Tue, Nov 3",
  "questions": [
   {
    "a": [
     "Dow Jones Industrial Average",
     "Nasdaq Composite",
-    "Nasdaq-100",
-    "None of them, all fell"
+    "S&P 500",
+    "None of them, all rose"
    ],
    "d": 1,
-   "e": "The Dow gained about 0.4% to close near 51,984, while the S&P 500 slipped 0.5% and the Nasdaq fell about 1.1% as money rotated out of tech.",
-   "h": "It's the oldest of the big three, with 30 stocks.",
-   "q": "On Monday, Nov 2, 2026, the S&P 500 and Nasdaq both fell. Which major U.S. index finished the day higher?"
+   "e": "The Dow slipped about 197 points (0.4%) to near 51,787, weighed down by Apple, while the Nasdaq gained about 0.8% and the S&P 500 about 0.4% as chip stocks rebounded.",
+   "h": "Apple is one of its 30 members.",
+   "q": "On Tuesday, Nov 3, 2026, the S&P 500 and Nasdaq both rose. Which major U.S. index finished the day lower?"
   },
   {
    "a": [
-    "About 7%",
-    "About 1%",
-    "It rose about 3%",
-    "About 20%"
+    "A weaker profit-margin outlook tied to rising memory chip costs",
+    "A recall of its newest iPhone",
+    "The resignation of its CEO",
+    "A big drop in quarterly revenue"
+   ],
+   "d": 2,
+   "e": "Apple posted record September-quarter revenue, but said rising memory chip costs, driven by AI data center demand, would squeeze its holiday-quarter gross margin.",
+   "h": "AI data centers are bidding up the price of a key component.",
+   "q": "Apple shares fell about 1.9% on Nov 3, 2026 even after beating quarterly estimates. What worried investors most?"
+  },
+  {
+   "a": [
+    "They beat expectations",
+    "They missed badly",
+    "They were delayed",
+    "The company reported a loss"
+   ],
+   "d": 2,
+   "e": "Palantir beat profit expectations and its U.S. commercial revenue more than doubled, but investors focused on slower growth in new U.S. contract bookings and its high valuation.",
+   "h": "Sometimes good news is already priced in.",
+   "q": "Palantir stock fell about 1.6% on Nov 3, 2026. How did its latest quarterly results compare with expectations?"
+  },
+  {
+   "a": [
+    "About $104",
+    "About $64",
+    "About $84",
+    "About $134"
    ],
    "d": 1,
-   "e": "Brent dropped roughly 7% as Iran signaled openness to peace talks, easing fears of Middle East supply disruptions. The S&P 500 energy sector fell about 4%.",
-   "h": "Think of a big single-digit drop.",
-   "q": "Oil prices tumbled on Nov 2, 2026. Roughly how much did Brent crude fall that day?"
+   "e": "Brent settled near $103.60 a barrel, down about 1.1%, as traders weighed reports of possible progress toward a U.S.-Iran deal.",
+   "h": "Above $100.",
+   "q": "Brent crude, the global oil benchmark, settled about 1% lower on Nov 3, 2026. Roughly where did it finish per barrel?"
   },
   {
    "a": [
-    "55.5",
-    "44.0",
-    "49.5",
-    "65.0"
+    "AMD",
+    "Intel",
+    "Texas Instruments",
+    "Micron"
    ],
-   "d": 2,
-   "e": "The ISM index rose a point to 55.5, its 10th straight month above 50, the line that separates expansion from contraction.",
-   "h": "Comfortably above 50, but not extreme.",
-   "q": "The ISM Manufacturing PMI released Nov 2, 2026 showed factories expanding in October. About where did the index land?"
-  },
-  {
-   "a": [
-    "Lumentum",
-    "Coherent",
-    "Corning",
-    "Ciena"
-   ],
-   "d": 2,
-   "e": "Marvell agreed to acquire Lumentum in an all-stock deal valued at about $115 billion including debt. Both stocks fell, with Lumentum down about 18.6%.",
-   "h": "Its name sounds like a Latin word for light.",
-   "q": "Marvell Technology shares fell about 13% on Nov 2, 2026 after it agreed to buy which optical components maker in an all-stock deal valued around $115 billion?"
-  },
-  {
-   "a": [
-    "$20 billion",
-    "$2 billion",
-    "$200 billion",
-    "$500 million"
-   ],
-   "d": 3,
-   "e": "Oracle filed to sell about $10 billion of common stock and $10 billion of senior notes, roughly $20 billion in total, to help fund its AI buildout.",
-   "h": "Two equal halves of $10 billion each.",
-   "q": "Oracle stock fell almost 9% on Nov 2, 2026 after filings showed plans to raise money through share and debt sales. About how much in total?"
+   "d": 1,
+   "e": "Advanced Micro Devices reported record third-quarter revenue after the close, powered by data center demand, and its shares rose sharply in extended trading.",
+   "h": "Its ticker has three letters and its longtime CEO is Lisa Su.",
+   "q": "Which chipmaker's stock jumped in after-hours trading on Nov 3, 2026 after it reported record third-quarter revenue on strong data center demand?"
   }
  ]
 }
