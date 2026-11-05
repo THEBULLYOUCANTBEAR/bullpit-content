@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-03",
- "id": "2026-11-03",
- "label": "Tue, Nov 3",
+ "asOf": "2026-11-04",
+ "id": "2026-11-04",
+ "label": "Wed, Nov 4",
  "questions": [
   {
    "a": [
-    "Dow Jones Industrial Average",
-    "Nasdaq Composite",
-    "S&P 500",
-    "None of them, all rose"
+    "About 1,570 points",
+    "About 150 points",
+    "About 600 points",
+    "About 3,500 points"
    ],
    "d": 1,
-   "e": "The Dow slipped about 197 points (0.4%) to near 51,787, weighed down by Apple, while the Nasdaq gained about 0.8% and the S&P 500 about 0.4% as chip stocks rebounded.",
-   "h": "Apple is one of its 30 members.",
-   "q": "On Tuesday, Nov 3, 2026, the S&P 500 and Nasdaq both rose. Which major U.S. index finished the day lower?"
+   "e": "The Dow rose about 1,569 points, or 3.03%, to close near 53,356. It was the index's best one-day gain since April 9, 2025.",
+   "h": "Think four digits.",
+   "q": "The Dow Jones Industrial Average jumped about 3% on Wednesday, Nov 4, 2026. Roughly how many points did it gain?"
   },
   {
    "a": [
-    "A weaker profit-margin outlook tied to rising memory chip costs",
-    "A recall of its newest iPhone",
-    "The resignation of its CEO",
-    "A big drop in quarterly revenue"
+    "Democrats winning control of both the House and the Senate",
+    "Republicans keeping control of both chambers",
+    "A split Congress with no change in either chamber",
+    "A delay in counting that left every race undecided"
+   ],
+   "d": 1,
+   "e": "Based on Associated Press projections, Democrats won control of both the House and the Senate. Stocks rose broadly, while energy shares lagged as oil prices fell.",
+   "h": "Both chambers changed hands.",
+   "q": "Wall Street's big rally on Nov 4, 2026 came the day after the U.S. midterm elections. What outcome were investors reacting to?"
+  },
+  {
+   "a": [
+    "More than 7%, to below $90 a barrel",
+    "About 1%, to above $100 a barrel",
+    "About 20%, to below $70 a barrel",
+    "It rose about 3%, to above $95 a barrel"
    ],
    "d": 2,
-   "e": "Apple posted record September-quarter revenue, but said rising memory chip costs, driven by AI data center demand, would squeeze its holiday-quarter gross margin.",
-   "h": "AI data centers are bidding up the price of a key component.",
-   "q": "Apple shares fell about 1.9% on Nov 3, 2026 even after beating quarterly estimates. What worried investors most?"
+   "e": "WTI crude fell more than 7% to settle around $88 a barrel. Energy was the weakest stock market sector that day.",
+   "h": "A big drop, but it stayed in the $80s.",
+   "q": "U.S. crude oil (WTI) plunged on Nov 4, 2026. About how much did it fall, and where did it end up?"
   },
   {
    "a": [
-    "They beat expectations",
-    "They missed badly",
-    "They were delayed",
-    "The company reported a loss"
+    "About 86,000",
+    "About 8,000",
+    "About 286,000",
+    "They cut about 50,000 jobs"
    ],
    "d": 2,
-   "e": "Palantir beat profit expectations and its U.S. commercial revenue more than doubled, but investors focused on slower growth in new U.S. contract bookings and its high valuation.",
-   "h": "Sometimes good news is already priced in.",
-   "q": "Palantir stock fell about 1.6% on Nov 3, 2026. How did its latest quarterly results compare with expectations?"
+   "e": "ADP said private employers added 86,000 jobs in October, matching September's revised figure and beating economists' estimate of about 75,000.",
+   "h": "A bit better than the roughly 75,000 economists expected.",
+   "q": "ADP's private payroll report, released Nov 4, 2026, showed how many jobs private employers added in October?"
   },
   {
    "a": [
-    "About $104",
-    "About $64",
-    "About $84",
-    "About $134"
+    "Nvidia",
+    "Amazon",
+    "Microsoft",
+    "Apple"
    ],
-   "d": 1,
-   "e": "Brent settled near $103.60 a barrel, down about 1.1%, as traders weighed reports of possible progress toward a U.S.-Iran deal.",
-   "h": "Above $100.",
-   "q": "Brent crude, the global oil benchmark, settled about 1% lower on Nov 3, 2026. Roughly where did it finish per barrel?"
-  },
-  {
-   "a": [
-    "AMD",
-    "Intel",
-    "Texas Instruments",
-    "Micron"
-   ],
-   "d": 1,
-   "e": "Advanced Micro Devices reported record third-quarter revenue after the close, powered by data center demand, and its shares rose sharply in extended trading.",
-   "h": "Its ticker has three letters and its longtime CEO is Lisa Su.",
-   "q": "Which chipmaker's stock jumped in after-hours trading on Nov 3, 2026 after it reported record third-quarter revenue on strong data center demand?"
+   "d": 2,
+   "e": "Nvidia fell about 3% even as most megacaps rallied, as some analysts warned the new Congress could slow the pace of AI infrastructure spending.",
+   "h": "The leading AI chipmaker.",
+   "q": "Microsoft, Amazon and Apple all jumped more than 5% on Nov 4, 2026. Which big tech stock closed down about 3% that day?"
   }
  ]
 }

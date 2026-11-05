@@ -1,16 +1,16 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "q": {
   "a": [
-   "Stratton Oakmont",
-   "Pierce & Pierce",
-   "Pierpoint & Co",
-   "Axe Capital"
+   "Publicly traded company",
+   "Central bank",
+   "Hedge fund",
+   "Credit card company"
   ],
-  "c": "V",
+  "c": "H",
   "d": 2,
-  "e": "Regulators expelled the firm from the securities industry in 1996. The wrong choices are fictional firms from other screen stories.",
-  "h": "Its name sounds like an old-money firm, by design.",
-  "q": "What was the name of Jordan Belfort's brokerage firm, depicted in \"The Wolf of Wall Street\"?"
+  "e": "Its shares traded in Amsterdam, where an early stock exchange grew up around them.",
+  "h": "Shares anyone could buy.",
+  "q": "The Dutch East India Company, which issued shares in 1602, is often called the first..."
  }
 }
