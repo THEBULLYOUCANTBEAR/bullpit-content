@@ -1,16 +1,16 @@
 {
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "q": {
   "a": [
-   "Publicly traded company",
-   "Central bank",
-   "Hedge fund",
-   "Credit card company"
+   "Apple",
+   "Samsung",
+   "Sony Group",
+   "Bose"
   ],
-  "c": "H",
+  "c": "O",
   "d": 2,
-  "e": "Its shares traded in Amsterdam, where an early stock exchange grew up around them.",
-  "h": "Shares anyone could buy.",
-  "q": "The Dutch East India Company, which issued shares in 1602, is often called the first..."
+  "e": "In 2014, Apple paid about $3 billion for Beats, the biggest acquisition in Apple's history at the time.",
+  "h": "The deal was the biggest in its parent's history at the time.",
+  "q": "Beats headphones are owned by which company?"
  }
 }

@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-04",
- "id": "2026-11-04",
- "label": "Wed, Nov 4",
+ "asOf": "2026-11-05",
+ "id": "2026-11-05",
+ "label": "Thu, Nov 5",
  "questions": [
   {
    "a": [
-    "About 1,570 points",
-    "About 150 points",
-    "About 600 points",
-    "About 3,500 points"
+    "About 4.4%",
+    "About 0.4%",
+    "About 1.5%",
+    "About 12%"
    ],
    "d": 1,
-   "e": "The Dow rose about 1,569 points, or 3.03%, to close near 53,356. It was the index's best one-day gain since April 9, 2025.",
-   "h": "Think four digits.",
-   "q": "The Dow Jones Industrial Average jumped about 3% on Wednesday, Nov 4, 2026. Roughly how many points did it gain?"
+   "e": "The S&P 500 dropped 334.89 points, or 4.4%, to close at 7,353.73 as a sell-off in AI-related stocks spread across the market.",
+   "h": "Worse than a typical bad day, but in the single digits.",
+   "q": "The S&P 500 had its worst day since April 2025 on Thursday, Nov 5, 2026. Roughly how much did it fall?"
   },
   {
    "a": [
-    "Democrats winning control of both the House and the Senate",
-    "Republicans keeping control of both chambers",
-    "A split Congress with no change in either chamber",
-    "A delay in counting that left every race undecided"
+    "It closed at least 10% below its recent record high",
+    "It fell more than 5% in a single day",
+    "It closed below its level at the start of the year",
+    "Trading was halted to correct pricing errors"
+   ],
+   "d": 2,
+   "e": "A correction is a drop of at least 10% from a recent peak. The Nasdaq's 1,421-point slide left it more than 10% below its October 6 record close.",
+   "h": "It's measured from the peak, not from the day before.",
+   "q": "After falling about 5.5% on Nov 5, 2026, the Nasdaq Composite entered a 'correction.' What does that term mean?"
+  },
+  {
+   "a": [
+    "Worry that Democrats' midterm wins could lead to pauses or limits on new data center construction",
+    "A surprise Fed rate hike announced that afternoon",
+    "A government ban on exporting all computer chips",
+    "A nationwide power blackout that shut down data centers"
    ],
    "d": 1,
-   "e": "Based on Associated Press projections, Democrats won control of both the House and the Senate. Stocks rose broadly, while energy shares lagged as oil prices fell.",
-   "h": "Both chambers changed hands.",
-   "q": "Wall Street's big rally on Nov 4, 2026 came the day after the U.S. midterm elections. What outcome were investors reacting to?"
+   "e": "Following Democrats' midterm wins, investors worried governments could pause or restrict data center construction, which would cut demand for AI chips and related services.",
+   "h": "Think about the election two days earlier.",
+   "q": "Why did investors sell AI data center stocks so hard on Nov 5, 2026?"
   },
   {
    "a": [
-    "More than 7%, to below $90 a barrel",
-    "About 1%, to above $100 a barrel",
-    "About 20%, to below $70 a barrel",
-    "It rose about 3%, to above $95 a barrel"
+    "About 17%",
+    "About 2%",
+    "About 45%",
+    "It rose about 5%"
    ],
    "d": 2,
-   "e": "WTI crude fell more than 7% to settle around $88 a barrel. Energy was the weakest stock market sector that day.",
-   "h": "A big drop, but it stayed in the $80s.",
-   "q": "U.S. crude oil (WTI) plunged on Nov 4, 2026. About how much did it fall, and where did it end up?"
+   "e": "AMD dropped about 17.3%, while Nvidia fell about 9.3%. Chip stocks were hit especially hard as the AI trade unwound.",
+   "h": "Nearly double Nvidia's roughly 9% drop.",
+   "q": "Chipmaker AMD was one of the biggest losers in the Nov 5, 2026 AI sell-off. About how much did its stock fall?"
   },
   {
    "a": [
-    "About 86,000",
-    "About 8,000",
-    "About 286,000",
-    "They cut about 50,000 jobs"
-   ],
-   "d": 2,
-   "e": "ADP said private employers added 86,000 jobs in October, matching September's revised figure and beating economists' estimate of about 75,000.",
-   "h": "A bit better than the roughly 75,000 economists expected.",
-   "q": "ADP's private payroll report, released Nov 4, 2026, showed how many jobs private employers added in October?"
-  },
-  {
-   "a": [
+    "AppLovin",
     "Nvidia",
-    "Amazon",
-    "Microsoft",
-    "Apple"
+    "CoreWeave",
+    "GE Vernova"
    ],
-   "d": 2,
-   "e": "Nvidia fell about 3% even as most megacaps rallied, as some analysts warned the new Congress could slow the pace of AI infrastructure spending.",
-   "h": "The leading AI chipmaker.",
-   "q": "Microsoft, Amazon and Apple all jumped more than 5% on Nov 4, 2026. Which big tech stock closed down about 3% that day?"
+   "d": 1,
+   "e": "AppLovin soared about 31% after reporting third-quarter revenue and profit that beat expectations. Nvidia, CoreWeave and GE Vernova all fell that day.",
+   "h": "An app advertising-technology company.",
+   "q": "Which stock jumped about 31% on Nov 5, 2026, bucking the sell-off after its quarterly results?"
   }
  ]
 }

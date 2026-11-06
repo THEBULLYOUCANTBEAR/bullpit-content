@@ -1,11 +1,118 @@
 [
  {
+  "id": "ep-nt11",
+  "series": "Networking Thursday",
+  "ep": "EP11",
+  "title": "The Harvest Table",
+  "order": 409,
+  "cat": "L",
+  "questions": [
+   {
+    "a": [
+     "The relationship you have not built yet",
+     "Your boss",
+     "Your biggest client",
+     "The person with the most impressive title"
+    ],
+    "d": 1,
+    "e": "Donald says the open chair belongs to the relationship, conversation or introduction you haven't made yet — or someone you know but haven't appreciated enough.",
+    "h": "Think possibility, not status.",
+    "q": "According to the episode, who does the one unassigned chair at the harvest table belong to?"
+   },
+   {
+    "a": [
+     "Invite one person to a conversation with no immediate transaction attached",
+     "Pitch three new prospects before Friday",
+     "Collect 20 new business cards at an event",
+     "Send a group message to your whole contact list"
+    ],
+    "d": 1,
+    "e": "He asks listeners to invite one person to a real conversation — not a pitch or a favor disguised as coffee. Curiosity first, agenda second.",
+    "h": "Curiosity first, agenda second.",
+    "q": "What is Donald's first challenge for the week?"
+   },
+   {
+    "a": [
+     "Profitable",
+     "Growing",
+     "Neglected",
+     "Ready to share"
+    ],
+    "d": 2,
+    "e": "The four baskets are growing, neglected, one-sided, and ready to share.",
+    "h": "One basket is about who's always giving or asking.",
+    "q": "Which is NOT one of the four harvest baskets for sorting relationships?"
+   },
+   {
+    "a": [
+     "Because the connection makes sense, not because a reward is guaranteed",
+     "To earn a referral fee from both sides",
+     "To make yourself the gatekeeper between them",
+     "To repay a favor you owe one of them"
+    ],
+    "d": 2,
+    "e": "Donald describes these as relationships where you create value by connecting people who should know each other — because it makes sense, not for a guaranteed reward.",
+    "h": "Value that shouldn't stay locked in your contacts.",
+    "q": "In the 'ready to share' basket, why do you connect two people?"
+   },
+   {
+    "a": [
+     "It compounds through consistency — and inconsistency compounds too",
+     "One large gesture can repair years of small withdrawals",
+     "It resets to zero with every new job",
+     "It's built mainly through expensive gifts"
+    ],
+    "d": 2,
+    "e": "Donald warns that a single big gesture rarely repairs years of small withdrawals; trust compounds through consistent deposits.",
+    "h": "Small deposits, over time.",
+    "q": "According to 'The Harvest Ledger,' how does trust usually work?"
+   },
+   {
+    "a": [
+     "Both are right — use responsible strategy without reducing people to what they can do for you",
+     "The bull is right: every contact is a pipeline",
+     "The bear is right: never be intentional about networking",
+     "Neither — networking doesn't matter in a strong market"
+    ],
+    "d": 1,
+    "e": "He says networking without intention becomes random, but without humanity becomes extraction. Be intentional about the room, authentic inside it.",
+    "h": "Intentional about the room, authentic inside it.",
+    "q": "In the bull vs. bear debate on strategic networking, what's Donald's answer?"
+   },
+   {
+    "a": [
+     "Attention, appreciation, contribution",
+     "Access, influence, introductions",
+     "Gifts, favors, referrals",
+     "Frequency, volume, follow-up"
+    ],
+    "d": 2,
+    "e": "Attention says I notice you, appreciation says I value you, contribution says I'm willing to add something, not just request.",
+    "h": "Notice, value, add.",
+    "q": "What are the three recurring deposits healthy relationships require?"
+   },
+   {
+    "a": [
+     "Ask both people for permission first and give context for why they should meet",
+     "Drop both into a group message and disappear",
+     "Promise each person a specific outcome",
+     "Stay involved in every conversation after they meet"
+    ],
+    "d": 2,
+    "e": "A permission-based introduction respects time, provides context and gives both people a choice. Open the door; let them decide whether to walk through.",
+    "h": "Would you both be open to it?",
+    "q": "What's Donald's recommended way to make an introduction?"
+   }
+  ]
+ },
+ {
   "id": "ep-tt18",
   "series": "Taco Tuesday",
   "ep": "EP18",
   "title": "Commodity Futures on the Menu: The Time-Traveling Taco",
   "order": 407,
   "cat": "M",
+  "yt": "0GJjKiRh90E",
   "questions": [
    {
     "a": [
@@ -112,6 +219,7 @@
   "title": "The Red Screen Reset: When Volatility, Leverage, and Fear Test Your Financial Discipline",
   "order": 406,
   "cat": "M",
+  "yt": "QND-QIhP0iM",
   "questions": [
    {
     "a": [
