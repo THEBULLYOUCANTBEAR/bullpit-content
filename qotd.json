@@ -1,16 +1,16 @@
 {
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "q": {
   "a": [
-   "Apple",
-   "Samsung",
-   "Sony Group",
-   "Bose"
+   "The Witch of Wall Street",
+   "The Oracle of Omaha",
+   "The Bond King",
+   "The Queen of Mean"
   ],
-  "c": "O",
-  "d": 2,
-  "e": "In 2014, Apple paid about $3 billion for Beats, the biggest acquisition in Apple's history at the time.",
-  "h": "The deal was the biggest in its parent's history at the time.",
-  "q": "Beats headphones are owned by which company?"
+  "c": "W",
+  "d": 1,
+  "e": "Green was a contrarian value investor who bought when assets were cheap and unpopular. She left $100M to $200M when she died in 1916.",
+  "h": "She famously dressed in black.",
+  "q": "Hetty Green, one of the richest women of the Gilded Age, was known by what nickname?"
  }
 }

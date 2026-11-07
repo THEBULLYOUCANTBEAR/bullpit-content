@@ -1,127 +1,127 @@
 {
- "asOf": "2026-10-30",
- "id": "2026-W44",
- "label": "Week of Oct 26, 2026",
+ "asOf": "2026-11-06",
+ "id": "2026-W45",
+ "label": "Week of Nov 2, 2026",
  "questions": [
   {
    "a": [
-    "Held it steady at 3.75% to 4%",
-    "Cut it by a quarter point",
-    "Raised it by a quarter point",
-    "Cut it by a half point"
+    "About 165,000",
+    "About 25,000",
+    "About 310,000",
+    "About 500,000"
    ],
    "d": 1,
-   "e": "The Fed paused after a September move, keeping borrowing costs unchanged while saying inflation remains elevated.",
-   "h": "No change this time.",
-   "q": "At its October 28 meeting, what did the Federal Reserve do with its federal funds target range?"
+   "e": "Payrolls came in far above the roughly 59,000 economists expected, a sign the labor market is sturdier than feared. Strong hiring can push Treasury yields higher because it reduces pressure on the Fed to ease.",
+   "h": "Well above the 59,000 forecast",
+   "q": "How many jobs did the U.S. economy add in October 2026, according to the jobs report released Friday, Nov. 6?"
   },
   {
    "a": [
-    "A quarter-point rate hike",
-    "A quarter-point rate cut",
-    "A half-point rate cut",
-    "An end to the Fed's balance sheet program"
-   ],
-   "d": 3,
-   "e": "Lisa Cook and Beth Hammack voted for a hike, signaling some policymakers worry inflation is not cooling fast enough. The vote was 10 to 2.",
-   "h": "They were more hawkish than the majority.",
-   "q": "Two Fed officials dissented from the October 28 decision. What did they want instead?"
-  },
-  {
-   "a": [
-    "Kevin Warsh",
-    "Jerome Powell",
-    "Janet Yellen",
-    "Christopher Waller"
-   ],
-   "d": 1,
-   "e": "The Fed Chair explains the committee's decision to markets after every meeting, and investors parse every word.",
-   "h": "Not the chair from 2018 to 2026.",
-   "q": "Who led the Federal Reserve's October 28 press conference as Fed Chair?"
-  },
-  {
-   "a": [
-    "3.4%",
-    "0.4%",
-    "1.4%",
+    "4.1%",
+    "3.5%",
+    "4.8%",
     "5.4%"
    ],
-   "d": 2,
-   "e": "Growth sped up from 2.2% in the second quarter, driven by business investment in equipment like computers and by consumer spending.",
-   "h": "Faster than Q2's 2.2%.",
-   "q": "According to the BEA's advance estimate released October 29, how fast did U.S. real GDP grow in the third quarter of 2026 (annualized)?"
+   "d": 1,
+   "e": "The rate edged down from 4.2% and came in below forecasts. About 7.1 million people were counted as unemployed.",
+   "h": "Just above 4%",
+   "q": "What was the U.S. unemployment rate in the October 2026 jobs report?"
   },
   {
    "a": [
-    "2.5%",
-    "0.5%",
-    "4.5%",
-    "6.5%"
+    "Professional and business services",
+    "Health care",
+    "Retail trade",
+    "Leisure and hospitality"
+   ],
+   "d": 2,
+   "e": "Professional and business services added about 70,000 jobs, ahead of health care at about 42,000. Sector detail shows where hiring demand is concentrated.",
+   "h": "Think consultants, accountants and office services",
+   "q": "Which sector added the most jobs in October 2026, according to the Bureau of Labor Statistics?"
+  },
+  {
+   "a": [
+    "About 5.5%",
+    "About 1%",
+    "About 12%",
+    "About 20%"
+   ],
+   "d": 2,
+   "e": "A broad selloff in AI and chip stocks drove the drop, and every S&P 500 sector closed lower. Big one-day moves like this show how concentrated index gains in a few tech names can cut both ways.",
+   "h": "More than a 5% drop",
+   "q": "On Thursday, Nov. 5, the Nasdaq Composite had its worst day since April 2025. Roughly how much did it fall?"
+  },
+  {
+   "a": [
+    "A drop of at least 10% from a recent high",
+    "A drop of at least 50% from a recent high",
+    "Any single day with a loss of 1% or more",
+    "A drop of at least 20% from a recent high"
+   ],
+   "d": 2,
+   "e": "The Nasdaq closed more than 10% below its Oct. 6 record. A 10% decline is a correction; a 20% decline is usually called a bear market.",
+   "h": "Smaller than a bear market",
+   "q": "After Thursday's drop, the Nasdaq Composite was in a 'correction.' What does that term mean?"
+  },
+  {
+   "a": [
+    "Down about 2.7%",
+    "Up about 2.7%",
+    "Down about 9%",
+    "Roughly unchanged"
+   ],
+   "d": 2,
+   "e": "A Friday bounce was not enough to undo Thursday's 4.4% plunge, leaving the index with its worst week since April 2025.",
+   "h": "Worst week since spring 2025",
+   "q": "Roughly how did the S&P 500 finish the week of Nov. 2 to Nov. 6, 2026?"
+  },
+  {
+   "a": [
+    "The Cboe Volatility Index (VIX)",
+    "The Russell 2000",
+    "The U.S. Dollar Index",
+    "The Dow Jones Transportation Average"
+   ],
+   "d": 1,
+   "e": "The VIX tracks expected S&P 500 volatility from options prices. It spikes when investors rush to buy protection and eased back on Friday as stocks recovered.",
+   "h": "Its ticker has three letters",
+   "q": "Which measure, often called Wall Street's 'fear gauge,' jumped about 70% on Thursday, Nov. 5, to above 28?"
+  },
+  {
+   "a": [
+    "Airbnb",
+    "DraftKings",
+    "Atlassian",
+    "Axon Enterprise"
+   ],
+   "d": 1,
+   "e": "Earnings season moves single stocks hard in both directions. The other three fell between about 16% and 21% Friday after their own reports or outlooks disappointed investors.",
+   "h": "Home-sharing travel platform",
+   "q": "Which of these stocks rose sharply (about 12%) on Friday, Nov. 6, after its quarterly report?"
+  },
+  {
+   "a": [
+    "The Consumer Price Index (CPI) for October",
+    "The monthly jobs report for November",
+    "A Federal Reserve interest rate decision",
+    "The first estimate of fourth-quarter GDP"
+   ],
+   "d": 2,
+   "e": "The Bureau of Labor Statistics releases October CPI at 8:30 a.m. ET on Nov. 10. Inflation data shapes expectations for the Fed's December meeting.",
+   "h": "Measures prices consumers pay",
+   "q": "Which major U.S. inflation report is scheduled for Tuesday, Nov. 10, 2026?"
+  },
+  {
+   "a": [
+    "About $4,080",
+    "About $2,000",
+    "About $1,300",
+    "About $6,500"
    ],
    "d": 3,
-   "e": "Core PCE is the Fed's preferred inflation gauge; it slowed from 3.3% in Q2 but stayed above the Fed's 2% goal.",
-   "h": "Slowed from 3.3% but still above 2%.",
-   "q": "In the same GDP report, what was the third-quarter annualized rate of core PCE inflation (excluding food and energy)?"
-  },
-  {
-   "a": [
-    "It was the stock's worst day since 1974",
-    "It was the stock's first-ever daily loss",
-    "It was its worst day since 2024",
-    "It wiped out the entire company's value"
-   ],
-   "d": 2,
-   "e": "Intel guided Q4 revenue to $15 to $16 billion, well below expectations, citing a PC slump and an accident at a factory in Israel.",
-   "h": "Think five decades back.",
-   "q": "Intel shares plunged roughly 29% on Friday, October 30. What made it so historic?"
-  },
-  {
-   "a": [
-    "It kept 2026 capex unchanged and expects a significant increase in 2027",
-    "It cut 2026 capex in half",
-    "It said it will stop building data centers",
-    "It announced no capex plans at all"
-   ],
-   "d": 2,
-   "e": "Investors are questioning how fast huge AI infrastructure spending will pay off, and Alphabet signaled even more spending ahead.",
-   "h": "Next year's bill gets bigger.",
-   "q": "Alphabet stock sank about 10% or more after its Q3 report. What did it say about capital spending?"
-  },
-  {
-   "a": [
-    "Its worst month since March 2025",
-    "Its best month since 2020",
-    "Its first down month ever",
-    "Its worst month since 1987"
-   ],
-   "d": 2,
-   "e": "Disappointing tech earnings and worries about heavy AI spending drove investors away from tech stocks during the month.",
-   "h": "About a year and a half back.",
-   "q": "The Nasdaq ended October 2026 with a monthly loss. What milestone did that set?"
-  },
-  {
-   "a": [
-    "About 7,580",
-    "About 5,580",
-    "About 6,580",
-    "About 8,580"
-   ],
-   "d": 1,
-   "e": "The S&P 500 finished the week modestly lower as a sharp Friday tech sell-off erased earlier gains.",
-   "h": "Above 7,000.",
-   "q": "Roughly where did the S&P 500 close on Friday, October 30, 2026, after falling about 1.8% that day?"
-  },
-  {
-   "a": [
-    "Above $100 a barrel",
-    "About $45 a barrel",
-    "About $65 a barrel",
-    "Above $160 a barrel"
-   ],
-   "d": 1,
-   "e": "Higher oil prices feed into gasoline and transportation costs, which the Fed Chair noted were pushing energy prices up again.",
-   "h": "Triple digits.",
-   "q": "WTI crude oil traded around which level on October 30, as tanker attacks and U.S.-Iran tensions rattled markets?"
+   "e": "Gold slipped a bit under 1% Friday but stayed above $4,000 an ounce. Investors often watch gold as a hedge during periods of market stress.",
+   "h": "Just above $4,000",
+   "q": "Around what price was gold trading per ounce at the end of the week on Friday, Nov. 6, 2026?"
   }
  ]
 }
