@@ -1,5 +1,111 @@
 [
  {
+  "id": "ep-fff-nov7",
+  "series": "Future Forward Friday",
+  "ep": "Nov 7",
+  "title": "The AI Blackout Test: What Happens When the Intelligence Layer Goes Dark?",
+  "order": 411,
+  "cat": "R",
+  "questions": [
+   {
+    "a": [
+     "The machines may keep running, but the intelligence layer people relied on disappears",
+     "Every computer and network shuts down at once",
+     "Only the internet goes down while AI keeps working",
+     "Data is permanently deleted from every device"
+    ],
+    "d": 1,
+    "e": "Donald explains that power, internet and apps may still work, but the models, agents and predictions above them become unavailable or unreliable.",
+    "h": "The lights can stay on.",
+    "q": "According to the episode, how does an AI blackout differ from a power outage?"
+   },
+   {
+    "a": [
+     "The model",
+     "Electricity",
+     "Connectivity",
+     "Data"
+    ],
+    "d": 1,
+    "e": "The five floors run electricity, connectivity, cloud and compute, data, then the model on top, which depends on every floor beneath it.",
+    "h": "It's the assistant or agent you actually talk to.",
+    "q": "In the episode's 'Dependency Tower,' which floor sits at the top, the 'penthouse' most people see?"
+   },
+   {
+    "a": [
+     "Regulation",
+     "Cloud and compute",
+     "Data",
+     "Connectivity"
+    ],
+    "d": 2,
+    "e": "The floors are electricity, connectivity, cloud and compute, data, and the model; regulation isn't one of them.",
+    "h": "Think infrastructure, not rules.",
+    "q": "Which of these is NOT one of the five floors of the Dependency Tower?"
+   },
+   {
+    "a": [
+     "Users may not notice the decline because the system keeps running",
+     "It always destroys stored data",
+     "It can only be caused by an attacker",
+     "It shuts down electricity as well"
+    ],
+    "d": 2,
+    "e": "An offline system is a visible failure, but a degraded one keeps answering slower, narrower or less reliably, so people may not recognize it.",
+    "h": "Visible failures are easier to catch.",
+    "q": "Of the four forms of 'darkness,' why does Donald call 'degraded' more dangerous than 'unavailable'?"
+   },
+   {
+    "a": [
+     "The system still runs but no longer serves your intended objective",
+     "The system is clearly switched off",
+     "The system answers slowly but correctly",
+     "The system is moved to a new cloud provider"
+    ],
+    "d": 2,
+    "e": "Hijacked means an attacker may have manipulated its instructions, access or data, so it works for someone else's goal.",
+    "h": "Someone else is steering.",
+    "q": "In the episode, what does the 'hijacked' form of AI blackout mean?"
+   },
+   {
+    "a": [
+     "Recovery restores capability, verification restores trust",
+     "Once it's online, it's safe",
+     "Speed matters more than accuracy",
+     "Every outage is permanent"
+    ],
+    "d": 1,
+    "e": "Donald calls it possibly the most important line of the episode: a restored system isn't automatically a trustworthy one.",
+    "h": "Don't confuse online with verified.",
+    "q": "What line does the digital oracle deliver about bringing systems back online?"
+   },
+   {
+    "a": [
+     "Inventory, ownership, fallback, portability, fail-safe control, verification",
+     "Speed, scale, cost, profit, growth, exit",
+     "Backup, delete, restart, upgrade, replace, ignore",
+     "Power, internet, cloud, data, model, user"
+    ],
+    "d": 2,
+    "e": "The scoreboard asks you to inventory AI-dependent processes, assign owners, build fallbacks, ensure portability, set fail-safe control and verify restored outputs.",
+    "h": "It starts by identifying what depends on AI.",
+    "q": "Which list matches the episode's six-point AI resilience scoreboard?"
+   },
+   {
+    "a": [
+     "Turn off one AI tool you use regularly for an hour and do the task manually",
+     "Switch every task to a new AI tool for a week",
+     "Delete all of your AI apps permanently",
+     "Use two AI tools at once to double your output"
+    ],
+    "d": 1,
+    "e": "Donald asks listeners to skip the tool for an hour, with no AI replacement, and notice what capability they had quietly surrendered.",
+    "h": "Don't swap in another AI tool.",
+    "q": "What is this week's Future Forward Friday challenge?"
+   }
+  ]
+ },
+ {
   "id": "ep-nt11",
   "series": "Networking Thursday",
   "ep": "EP11",

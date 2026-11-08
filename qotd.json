@@ -1,16 +1,16 @@
 {
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "q": {
   "a": [
-   "The Witch of Wall Street",
-   "The Oracle of Omaha",
-   "The Bond King",
-   "The Queen of Mean"
+   "1989",
+   "1979",
+   "1995",
+   "2000"
   ],
-  "c": "W",
-  "d": 1,
-  "e": "Green was a contrarian value investor who bought when assets were cheap and unpopular. She left $100M to $200M when she died in 1916.",
-  "h": "She famously dressed in black.",
-  "q": "Hetty Green, one of the richest women of the Gilded Age, was known by what nickname?"
+  "c": "G",
+  "d": 2,
+  "e": "The Nikkei peaked on December 29, 1989, after a huge real estate and stock boom. It then fell for years as the bubble burst.",
+  "h": "Same year the Berlin Wall fell.",
+  "q": "Japan's stock bubble peaked at the end of which year, with the Nikkei near 39,000?"
  }
 }
