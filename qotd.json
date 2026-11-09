@@ -1,16 +1,16 @@
 {
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "q": {
   "a": [
-   "1989",
-   "1979",
-   "1995",
-   "2000"
+   "McDonald's",
+   "Burger King",
+   "Wendy's",
+   "Kentucky Fried Chicken"
   ],
-  "c": "G",
-  "d": 2,
-  "e": "The Nikkei peaked on December 29, 1989, after a huge real estate and stock boom. It then fell for years as the bubble burst.",
-  "h": "Same year the Berlin Wall fell.",
-  "q": "Japan's stock bubble peaked at the end of which year, with the Nikkei near 39,000?"
+  "c": "V",
+  "d": 1,
+  "e": "Kroc began as a milkshake-mixer salesman, partnered with brothers Dick and Mac McDonald, and eventually bought them out in 1961.",
+  "h": "Kroc met the founders while selling them milkshake mixers.",
+  "q": "\"The Founder\" (2016) tells how Ray Kroc took control of which fast-food chain?"
  }
 }
