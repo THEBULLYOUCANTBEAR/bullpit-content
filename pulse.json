@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-06",
- "id": "2026-11-06",
- "label": "Fri, Nov 6",
+ "asOf": "2026-11-09",
+ "id": "2026-11-09",
+ "label": "Mon, Nov 9",
  "questions": [
   {
    "a": [
-    "About 165,000",
-    "About 15,000",
-    "About 350,000",
-    "They cut about 60,000"
+    "About 2.3%",
+    "About 0.2%",
+    "About 6%",
+    "It fell about 2%"
    ],
    "d": 1,
-   "e": "The Bureau of Labor Statistics reported nonfarm payrolls rose by 165,000 in October, well above the average gain of 48,000 over the prior 12 months.",
-   "h": "More than 100,000, but less than 200,000.",
-   "q": "The October jobs report came out on Friday, Nov 6, 2026. About how many jobs did U.S. employers add?"
+   "e": "The S&P 500 rose 173 points, or 2.3%, to about 7,550, recovering much of the prior week's loss as chip stocks rebounded and oil prices dropped.",
+   "h": "A big day, but not a record-shattering one.",
+   "q": "On Monday, Nov 9, 2026, U.S. stocks bounced back from a rough week. About how much did the S&P 500 gain?"
   },
   {
    "a": [
-    "Dow Jones Industrial Average",
-    "S&P 500",
-    "Nasdaq Composite",
-    "None of them, all three rose"
+    "The company opened an internal investigation involving its CEO",
+    "A missed quarterly earnings report",
+    "A stock split announcement",
+    "Removal from the S&P 500"
    ],
    "d": 1,
-   "e": "The Dow fell 237.33 points, or 0.5%, to 51,285.73, while the S&P 500 rose 0.3% and the tech-heavy Nasdaq rose 1.1% as chip stocks bounced back.",
-   "h": "Chip stocks rebounded, so think about the index with the least tech weighting.",
-   "q": "On Friday, Nov 6, 2026, the three major U.S. stock indexes split. Which one closed lower?"
+   "e": "Nvidia's board launched an investigation tied to CEO Jensen Huang's personal relationship with a business executive, raising questions for investors. The board said it had no reason to believe company secrets were compromised.",
+   "h": "The news was about leadership, not the latest quarter's numbers.",
+   "q": "Shares of Nvidia fell more than 4% on Nov 9, 2026, even as the broader market rallied. What was behind the drop?"
   },
   {
    "a": [
-    "An interest rate hike",
-    "An interest rate cut",
-    "The end of the Fed's inflation target",
-    "A halt to all Treasury auctions"
+    "Oil",
+    "Gold",
+    "Copper",
+    "Wheat"
    ],
    "d": 1,
-   "e": "A strong job market can keep upward pressure on inflation, so traders raised the odds that the Fed would lift rates in December, according to CME Group data.",
-   "h": "Strong hiring tends to push the Fed in which direction?",
-   "q": "After the strong Nov 6, 2026 jobs report, what did traders raise their odds of happening at the Federal Reserve in December?"
+   "e": "Oil prices slid, with Brent crude dropping sharply, which eased concerns about inflation and helped fuel the stock rally.",
+   "h": "It powers most cars and trucks.",
+   "q": "Falling prices for which commodity helped calm inflation worries and lift stocks on Nov 9, 2026?"
   },
   {
    "a": [
-    "Down about 2.7%",
-    "Down about 0.3%",
-    "Down about 9%",
-    "Up about 2.7%"
+    "Its quarterly results beat analysts' expectations",
+    "It was added to the Dow Jones Industrial Average",
+    "It announced a stock split",
+    "Regulators approved a merger"
    ],
    "d": 2,
-   "e": "Friday's 0.3% gain trimmed the S&P 500's loss for the week to 2.7%, after a 4.4% plunge on Thursday. The index closed at 7,376.86.",
-   "h": "Thursday's plunge did most of the damage, and Friday only clawed back a little.",
-   "q": "Even with a small gain on Friday, Nov 6, 2026, how did the S&P 500 finish the week?"
-  },
-  {
-   "a": [
-    "Weaker-than-expected quarterly results",
-    "A stock split",
-    "Being removed from the Dow Jones Industrial Average",
-    "A court-ordered breakup of the company"
-   ],
-   "d": 2,
-   "e": "Axon shares fell about 18% after the company reported quarterly results that came in weaker than analysts expected.",
+   "e": "Constellation reported quarterly results with profit and revenue that topped analysts' expectations, sending the stock up more than 10%.",
    "h": "It's earnings season.",
-   "q": "Axon Enterprise, maker of Taser devices and body cameras, fell about 18% on Nov 6, 2026. What drove the drop?"
+   "q": "Constellation Energy, the biggest U.S. nuclear power producer, jumped more than 10% on Nov 9, 2026. Why?"
+  },
+  {
+   "a": [
+    "More than 1,000 points",
+    "About 100 points",
+    "About 250 points",
+    "It lost about 500 points"
+   ],
+   "d": 2,
+   "e": "The Dow climbed about 1,104 points, or 2.2%, to close near 52,390. The Nasdaq did even better in percentage terms, rising 2.7%.",
+   "h": "Think four digits.",
+   "q": "How many points did the Dow Jones Industrial Average gain on Nov 9, 2026?"
   }
  ]
 }

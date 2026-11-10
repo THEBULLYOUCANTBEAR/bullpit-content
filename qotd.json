@@ -1,16 +1,16 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "q": {
   "a": [
-   "McDonald's",
-   "Burger King",
-   "Wendy's",
-   "Kentucky Fried Chicken"
+   "A coffee house",
+   "A church courtyard",
+   "A royal palace",
+   "A shipyard"
   ],
-  "c": "V",
-  "d": 1,
-  "e": "Kroc began as a milkshake-mixer salesman, partnered with brothers Dick and Mac McDonald, and eventually bought them out in 1961.",
-  "h": "Kroc met the founders while selling them milkshake mixers.",
-  "q": "\"The Founder\" (2016) tells how Ray Kroc took control of which fast-food chain?"
+  "c": "H",
+  "d": 2,
+  "e": "In the late 1600s, brokers met at Jonathan's Coffee House in Change Alley, where lists of stock prices were posted.",
+  "h": "Lloyd's of London got its start in a similar spot.",
+  "q": "The London Stock Exchange traces its roots to traders gathering in what kind of place?"
  }
 }
