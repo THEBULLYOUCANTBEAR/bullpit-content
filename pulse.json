@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-09",
- "id": "2026-11-09",
- "label": "Mon, Nov 9",
+ "asOf": "2026-11-10",
+ "id": "2026-11-10",
+ "label": "Tue, Nov 10",
  "questions": [
   {
    "a": [
-    "About 2.3%",
-    "About 0.2%",
-    "About 6%",
-    "It fell about 2%"
+    "0.4%",
+    "0.1%",
+    "1.5%",
+    "Prices fell 0.3%"
    ],
    "d": 1,
-   "e": "The S&P 500 rose 173 points, or 2.3%, to about 7,550, recovering much of the prior week's loss as chip stocks rebounded and oil prices dropped.",
-   "h": "A big day, but not a record-shattering one.",
-   "q": "On Monday, Nov 9, 2026, U.S. stocks bounced back from a rough week. About how much did the S&P 500 gain?"
+   "e": "The Bureau of Labor Statistics said the CPI rose 0.4% in October on a seasonally adjusted basis, a bit hotter than the 0.3% economists expected but cooler than September's 0.6%.",
+   "h": "A little hotter than forecasts, under half a percent.",
+   "q": "The October Consumer Price Index came out on Tuesday, Nov 10, 2026. How much did overall consumer prices rise for the month?"
   },
   {
    "a": [
-    "The company opened an internal investigation involving its CEO",
-    "A missed quarterly earnings report",
-    "A stock split announcement",
-    "Removal from the S&P 500"
-   ],
-   "d": 1,
-   "e": "Nvidia's board launched an investigation tied to CEO Jensen Huang's personal relationship with a business executive, raising questions for investors. The board said it had no reason to believe company secrets were compromised.",
-   "h": "The news was about leadership, not the latest quarter's numbers.",
-   "q": "Shares of Nvidia fell more than 4% on Nov 9, 2026, even as the broader market rallied. What was behind the drop?"
-  },
-  {
-   "a": [
-    "Oil",
-    "Gold",
-    "Copper",
-    "Wheat"
-   ],
-   "d": 1,
-   "e": "Oil prices slid, with Brent crude dropping sharply, which eased concerns about inflation and helped fuel the stock rally.",
-   "h": "It powers most cars and trucks.",
-   "q": "Falling prices for which commodity helped calm inflation worries and lift stocks on Nov 9, 2026?"
-  },
-  {
-   "a": [
-    "Its quarterly results beat analysts' expectations",
-    "It was added to the Dow Jones Industrial Average",
-    "It announced a stock split",
-    "Regulators approved a merger"
+    "Price data for October 2025 was never collected because of a government shutdown",
+    "The Federal Reserve asked BLS to stop publishing it",
+    "BLS switched to reporting inflation only once a year",
+    "Prices were unchanged from a year earlier"
    ],
    "d": 2,
-   "e": "Constellation reported quarterly results with profit and revenue that topped analysts' expectations, sending the stock up more than 10%.",
-   "h": "It's earnings season.",
-   "q": "Constellation Energy, the biggest U.S. nuclear power producer, jumped more than 10% on Nov 9, 2026. Why?"
+   "e": "BLS could not collect survey data in October 2025 during a lapse in government funding, so it could not calculate most 12-month changes for October 2026.",
+   "h": "Think back to what happened in Washington in fall 2025.",
+   "q": "Why did the October 2026 CPI report not include the usual year-over-year inflation rate for most items?"
   },
   {
    "a": [
-    "More than 1,000 points",
-    "About 100 points",
-    "About 250 points",
-    "It lost about 500 points"
+    "It matched the 0.3% gains in both August and September",
+    "It was the first increase all year",
+    "It was triple September's pace",
+    "It was the smallest gain in a decade"
    ],
    "d": 2,
-   "e": "The Dow climbed about 1,104 points, or 2.2%, to close near 52,390. The Nasdaq did even better in percentage terms, rising 2.7%.",
-   "h": "Think four digits.",
-   "q": "How many points did the Dow Jones Industrial Average gain on Nov 9, 2026?"
+   "e": "BLS said core CPI rose 0.3% in October, as it did in September and August. Economists had expected a slightly smaller 0.2% gain.",
+   "h": "Consistency was the story.",
+   "q": "In the October 2026 CPI report, \"core\" inflation (excluding food and energy) rose 0.3%. How did that compare with the two prior months?"
+  },
+  {
+   "a": [
+    "Nasdaq Composite (about -0.7%)",
+    "Dow Jones Industrial Average",
+    "S&P 500",
+    "None of them; all three rose"
+   ],
+   "d": 1,
+   "e": "The tech-heavy Nasdaq fell about 0.74%, versus roughly 0.38% for the S&P 500 (to about 7,521) and 0.30% for the Dow, as technology was the weakest sector and Nvidia dropped more than 5%.",
+   "h": "The index packed with tech names.",
+   "q": "U.S. stocks slipped on Nov 10, 2026 after the hot inflation report. Which major index fell the most in percentage terms?"
+  },
+  {
+   "a": [
+    "5%",
+    "2%",
+    "3%",
+    "8%"
+   ],
+   "d": 2,
+   "e": "Bond yields jumped after the hotter-than-expected CPI, and the 10-year Treasury yield briefly moved above 5% before ending the day near that level. Higher yields often weigh on stock valuations.",
+   "h": "A level not seen often in the past two decades.",
+   "q": "After the Nov 10, 2026 inflation report, the 10-year Treasury yield briefly crossed which round-number level?"
   }
  ]
 }

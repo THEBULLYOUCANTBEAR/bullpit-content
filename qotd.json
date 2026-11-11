@@ -1,16 +1,16 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "q": {
   "a": [
-   "A coffee house",
-   "A church courtyard",
-   "A royal palace",
-   "A shipyard"
+   "Mars",
+   "Hershey",
+   "Nestle",
+   "Mondelez"
   ],
-  "c": "H",
-  "d": 2,
-  "e": "In the late 1600s, brokers met at Jonathan's Coffee House in Change Alley, where lists of stock prices were posted.",
-  "h": "Lloyd's of London got its start in a similar spot.",
-  "q": "The London Stock Exchange traces its roots to traders gathering in what kind of place?"
+  "c": "O",
+  "d": 1,
+  "e": "M&M's date to 1941. Their maker is family-owned and private, so you can't buy its stock on an exchange.",
+  "h": "The maker is private and also owns Snickers and Twix.",
+  "q": "Which company makes M&M's candies?"
  }
 }
