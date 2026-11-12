@@ -1,16 +1,16 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "q": {
   "a": [
-   "Mars",
-   "Hershey",
-   "Nestle",
-   "Mondelez"
+   "Billions",
+   "Succession",
+   "Industry",
+   "Suits"
   ],
-  "c": "O",
+  "c": "V",
   "d": 1,
-  "e": "M&M's date to 1941. Their maker is family-owned and private, so you can't buy its stock on an exchange.",
-  "h": "The maker is private and also owns Snickers and Twix.",
-  "q": "Which company makes M&M's candies?"
+  "e": "The Showtime series ran for seven seasons from 2016 to 2023, with Damian Lewis as Axelrod and Paul Giamatti as prosecutor Chuck Rhoades.",
+  "h": "Its hedge fund was called Axe Capital.",
+  "q": "Which TV drama follows hedge fund manager Bobby Axelrod and his clashes with a U.S. Attorney?"
  }
 }
