@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-11",
- "id": "2026-11-11",
- "label": "Wed, Nov 11",
+ "asOf": "2026-11-13",
+ "id": "2026-11-12",
+ "label": "Thu, Nov 12",
  "questions": [
   {
    "a": [
-    "Nasdaq Composite (about +1.6%)",
-    "Dow Jones Industrial Average",
-    "S&P 500",
-    "None of them; all three fell"
+    "Colette Kress, Nvidia's CFO",
+    "Harvey C. Jones",
+    "Lisa Su",
+    "No one; the CEO role was left vacant"
    ],
    "d": 1,
-   "e": "The tech-heavy Nasdaq rose about 1.6%, ahead of the S&P 500 (about +1.3%) and the Dow (about +0.5%), as chip and AI-infrastructure stocks led the way.",
-   "h": "The index packed with tech names.",
-   "q": "U.S. stocks rallied on Wednesday, Nov 11, 2026, led by tech and AI names. Which major index gained the most in percentage terms?"
+   "e": "Nvidia said CFO Colette Kress will serve as interim CEO while the board searches for a permanent replacement. Harvey C. Jones was named the board's first-ever chair.",
+   "h": "She was already running Nvidia's finances.",
+   "q": "After Jensen Huang resigned as Nvidia's CEO on Nov 12, who was named interim CEO?"
   },
   {
    "a": [
-    "Between 7,600 and 7,700",
-    "Between 6,000 and 6,100",
-    "Between 8,600 and 8,700",
-    "Between 5,000 and 5,100"
+    "Down less than 1%",
+    "Up more than 3%",
+    "Down more than 5%",
+    "Up more than 5%"
    ],
    "d": 1,
-   "e": "The S&P 500 gained about 1.3% to close a little above 7,600, bouncing back from the prior day's slip after the hot inflation report.",
-   "h": "It finished just past a round hundred above 7,500.",
-   "q": "Where did the S&P 500 close on Nov 11, 2026?"
+   "e": "The S&P 500 closed at 7,592.40, down about 0.35%, recovering much of an early drop tied to Nvidia's CEO news.",
+   "h": "A modest loss, not a crash.",
+   "q": "How did the S&P 500 finish on Thursday, Nov 12?"
   },
   {
    "a": [
-    "CoreWeave",
-    "GoPro",
-    "Lucid",
-    "Fiverr"
-   ],
-   "d": 1,
-   "e": "CoreWeave reported Q3 revenue of about $3.66 billion, up roughly 168%, and raised its 2026 revenue outlook to $13.0-$13.3 billion. The stock closed up more than 20%.",
-   "h": "It rents out AI computing power in data centers.",
-   "q": "Which AI cloud-computing company's stock jumped more than 20% on Nov 11, 2026 after reporting third-quarter revenue up about 168% from a year earlier?"
-  },
-  {
-   "a": [
-    "It was Veterans Day, and the bond industry group SIFMA recommended a full close",
-    "It was Thanksgiving",
-    "It was Election Day",
-    "The Treasury Department ran out of bonds to sell"
+    "5%",
+    "2%",
+    "7%",
+    "10%"
    ],
    "d": 2,
-   "e": "SIFMA recommended a full close of U.S. dollar fixed-income markets for Veterans Day. The NYSE and Nasdaq stay open on Veterans Day, so stocks traded while bonds took the day off.",
-   "h": "A November federal holiday honoring those who served.",
-   "q": "Stocks traded normally on Nov 11, 2026, but the U.S. bond market was closed. Why?"
+   "e": "With the bond market reopening after the Veterans Day holiday, yields jumped as traders priced in more Fed rate hikes, lifting the 10-year to roughly 5.1%.",
+   "h": "A round number between 4% and 6%.",
+   "q": "On Nov 12 the 10-year Treasury yield climbed back above which level?"
   },
   {
    "a": [
-    "Cisco",
-    "Netflix",
-    "Starbucks",
-    "Coca-Cola"
+    "200,000",
+    "50,000",
+    "600,000",
+    "1.5 million"
    ],
    "d": 2,
-   "e": "Cisco said it would release Q1 fiscal 2027 results after the close on Nov 12, with a conference call at 4:30 p.m. ET. Its fiscal year runs ahead of the calendar, so fiscal 2027 began in mid-2026.",
-   "h": "Think routers and switches.",
-   "q": "Which networking giant was scheduled to report its fiscal first-quarter 2027 results after the market close on Thursday, Nov 12, 2026?"
+   "e": "First-time claims rose by 9,000 to 200,000, a bit above forecasts but still a historically low level of layoffs.",
+   "h": "It rounds to a neat 'two hundred thousand'.",
+   "q": "About how many initial jobless claims did the Labor Department report on Nov 12 for the week ended Nov 7?"
+  },
+  {
+   "a": [
+    "$4,000",
+    "$2,000",
+    "$6,000",
+    "$8,000"
+   ],
+   "d": 3,
+   "e": "Gold slid to roughly $3,875 to $3,880 an ounce as rising Treasury yields and a stronger dollar made the non-yielding metal less attractive.",
+   "h": "It slipped under a big round number in the thousands.",
+   "q": "Gold fell about 3% on Nov 12. Below which price per ounce did it trade?"
   }
  ]
 }
