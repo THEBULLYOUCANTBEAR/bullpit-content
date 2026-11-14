@@ -1,16 +1,16 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "q": {
   "a": [
-   "New York Stock Exchange",
-   "Nasdaq",
-   "London Stock Exchange",
-   "Cboe"
+   "Google",
+   "Facebook",
+   "Amazon",
+   "Apple"
   ],
-  "c": "W",
-  "d": 1,
-  "e": "It took 226 years. Cunningham had started there as a summer intern in 1994 and later worked as a floor clerk.",
-  "h": "It traces its roots to the 1792 Buttonwood Agreement.",
-  "q": "In 2018, Stacey Cunningham became the first woman to serve as president of which exchange?"
+  "c": "H",
+  "d": 2,
+  "e": "Google used a Dutch auction so more individual investors could bid on shares.",
+  "h": "A search engine.",
+  "q": "Which company's 2004 IPO used an unusual online auction to set its price?"
  }
 }

@@ -1,127 +1,127 @@
 {
- "asOf": "2026-11-06",
- "id": "2026-W45",
- "label": "Week of Nov 2, 2026",
+ "asOf": "2026-11-13",
+ "id": "2026-W46",
+ "label": "Week of Nov 9, 2026",
  "questions": [
   {
    "a": [
-    "About 165,000",
-    "About 25,000",
-    "About 310,000",
-    "About 500,000"
+    "Rose about 2.5%",
+    "Fell about 2.5%",
+    "Rose about 8%",
+    "Finished unchanged"
    ],
    "d": 1,
-   "e": "Payrolls came in far above the roughly 59,000 economists expected, a sign the labor market is sturdier than feared. Strong hiring can push Treasury yields higher because it reduces pressure on the Fed to ease.",
-   "h": "Well above the 59,000 forecast",
-   "q": "How many jobs did the U.S. economy add in October 2026, according to the jobs report released Friday, Nov. 6?"
+   "e": "Despite a Friday dip, the S&P 500 closed at 7,561.67 for its first winning week since October and its biggest weekly gain since August.",
+   "h": "Its best week since August.",
+   "q": "How did the S&P 500 do for the week ending Friday, November 13, 2026?"
   },
   {
    "a": [
-    "4.1%",
-    "3.5%",
-    "4.8%",
-    "5.4%"
+    "Colette Kress",
+    "Lisa Su",
+    "Harvey Jones",
+    "Rene Haas"
    ],
    "d": 1,
-   "e": "The rate edged down from 4.2% and came in below forecasts. About 7.1 million people were counted as unemployed.",
-   "h": "Just above 4%",
-   "q": "What was the U.S. unemployment rate in the October 2026 jobs report?"
+   "e": "Kress, Nvidia's longtime CFO, is interim CEO while also staying CFO; the board is searching for a permanent CEO among internal and external candidates.",
+   "h": "She has been Nvidia's chief financial officer since 2013.",
+   "q": "Nvidia named which executive as interim CEO after Jensen Huang resigned on November 12?"
   },
   {
    "a": [
-    "Professional and business services",
-    "Health care",
-    "Retail trade",
-    "Leisure and hospitality"
-   ],
-   "d": 2,
-   "e": "Professional and business services added about 70,000 jobs, ahead of health care at about 42,000. Sector detail shows where hiring demand is concentrated.",
-   "h": "Think consultants, accountants and office services",
-   "q": "Which sector added the most jobs in October 2026, according to the Bureau of Labor Statistics?"
-  },
-  {
-   "a": [
-    "About 5.5%",
-    "About 1%",
-    "About 12%",
-    "About 20%"
-   ],
-   "d": 2,
-   "e": "A broad selloff in AI and chip stocks drove the drop, and every S&P 500 sector closed lower. Big one-day moves like this show how concentrated index gains in a few tech names can cut both ways.",
-   "h": "More than a 5% drop",
-   "q": "On Thursday, Nov. 5, the Nasdaq Composite had its worst day since April 2025. Roughly how much did it fall?"
-  },
-  {
-   "a": [
-    "A drop of at least 10% from a recent high",
-    "A drop of at least 50% from a recent high",
-    "Any single day with a loss of 1% or more",
-    "A drop of at least 20% from a recent high"
-   ],
-   "d": 2,
-   "e": "The Nasdaq closed more than 10% below its Oct. 6 record. A 10% decline is a correction; a 20% decline is usually called a bear market.",
-   "h": "Smaller than a bear market",
-   "q": "After Thursday's drop, the Nasdaq Composite was in a 'correction.' What does that term mean?"
-  },
-  {
-   "a": [
-    "Down about 2.7%",
-    "Up about 2.7%",
-    "Down about 9%",
-    "Roughly unchanged"
-   ],
-   "d": 2,
-   "e": "A Friday bounce was not enough to undo Thursday's 4.4% plunge, leaving the index with its worst week since April 2025.",
-   "h": "Worst week since spring 2025",
-   "q": "Roughly how did the S&P 500 finish the week of Nov. 2 to Nov. 6, 2026?"
-  },
-  {
-   "a": [
-    "The Cboe Volatility Index (VIX)",
-    "The Russell 2000",
-    "The U.S. Dollar Index",
-    "The Dow Jones Transportation Average"
+    "About 5.1%",
+    "About 3.1%",
+    "About 7.1%",
+    "About 1.1%"
    ],
    "d": 1,
-   "e": "The VIX tracks expected S&P 500 volatility from options prices. It spikes when investors rush to buy protection and eased back on Friday as stocks recovered.",
-   "h": "Its ticker has three letters",
-   "q": "Which measure, often called Wall Street's 'fear gauge,' jumped about 70% on Thursday, Nov. 5, to above 28?"
+   "e": "The 10-year yield climbed above 5% over the week. Higher long-term yields raise borrowing costs for mortgages and companies and can weigh on stock valuations.",
+   "h": "It crossed a big round number during the week.",
+   "q": "Roughly where did the 10-year Treasury yield finish the week?"
   },
   {
    "a": [
-    "Airbnb",
-    "DraftKings",
-    "Atlassian",
-    "Axon Enterprise"
-   ],
-   "d": 1,
-   "e": "Earnings season moves single stocks hard in both directions. The other three fell between about 16% and 21% Friday after their own reports or outlooks disappointed investors.",
-   "h": "Home-sharing travel platform",
-   "q": "Which of these stocks rose sharply (about 12%) on Friday, Nov. 6, after its quarterly report?"
-  },
-  {
-   "a": [
-    "The Consumer Price Index (CPI) for October",
-    "The monthly jobs report for November",
-    "A Federal Reserve interest rate decision",
-    "The first estimate of fourth-quarter GDP"
+    "0.4%",
+    "0.0% (unchanged)",
+    "1.5%",
+    "-0.3% (a decline)"
    ],
    "d": 2,
-   "e": "The Bureau of Labor Statistics releases October CPI at 8:30 a.m. ET on Nov. 10. Inflation data shapes expectations for the Fed's December meeting.",
-   "h": "Measures prices consumers pay",
-   "q": "Which major U.S. inflation report is scheduled for Tuesday, Nov. 10, 2026?"
+   "e": "Headline CPI rose 0.4% after a 0.6% jump in September. Inflation well above the Fed's 2% goal is a key reason markets expect more rate hikes.",
+   "h": "A bit slower than September's 0.6%.",
+   "q": "The October CPI report (released Nov. 10) showed consumer prices rising how much from September, seasonally adjusted?"
   },
   {
    "a": [
-    "About $4,080",
-    "About $2,000",
-    "About $1,300",
-    "About $6,500"
+    "October 2025 prices were never collected because of a lapse in government funding",
+    "The BLS switched to a new base year",
+    "The Fed asked the BLS to delay the figure",
+    "A computer outage erased the October 2026 data"
    ],
    "d": 3,
-   "e": "Gold slipped a bit under 1% Friday but stayed above $4,000 an ounce. Investors often watch gold as a hedge during periods of market stress.",
-   "h": "Just above $4,000",
-   "q": "Around what price was gold trading per ounce at the end of the week on Friday, Nov. 6, 2026?"
+   "e": "Without an October 2025 index to compare against, the year-over-year change cannot be calculated, so BLS published only monthly changes for most series.",
+   "h": "Think back to the government shutdown a year earlier.",
+   "q": "Why did the BLS not publish a 12-month (annual) inflation rate for most CPI categories in the October 2026 report?"
+  },
+  {
+   "a": [
+    "6.5%",
+    "1.5%",
+    "12.5%",
+    "3.0%"
+   ],
+   "d": 2,
+   "e": "It was the largest 12-month rise in producer prices since November 2022, even though the monthly gain slowed to 0.3%.",
+   "h": "The biggest annual jump in nearly four years.",
+   "q": "The Producer Price Index released Nov. 13 showed wholesale prices up how much over the 12 months through October?"
+  },
+  {
+   "a": [
+    "3.75% to 4.00%",
+    "5.25% to 5.50%",
+    "0% to 0.25%",
+    "2.00% to 2.25%"
+   ],
+   "d": 2,
+   "e": "The Fed kept rates unchanged in October, and economists widely expect a rate hike at the December meeting as inflation stays elevated.",
+   "h": "Just under 4% at the top end.",
+   "q": "Heading into the Fed's December meeting, what is the federal funds target range it held at its October 28 meeting?"
+  },
+  {
+   "a": [
+    "A quarter-point rate hike",
+    "A quarter-point rate cut",
+    "A half-point rate cut",
+    "An immediate end to bond purchases"
+   ],
+   "d": 3,
+   "e": "Lisa Cook and Beth Hammack voted against the 10-2 decision, preferring to raise rates by 0.25 point, a sign some officials wanted to move faster against inflation.",
+   "h": "They were more worried about inflation than growth.",
+   "q": "Two Fed officials dissented at the October 28 meeting. What did they want instead of holding rates steady?"
+  },
+  {
+   "a": [
+    "24%",
+    "2%",
+    "60%",
+    "It fell 10%"
+   ],
+   "d": 2,
+   "e": "Cisco posted $18.5 billion in revenue and raised its forecast for AI infrastructure revenue from big cloud customers to $9 billion this fiscal year.",
+   "h": "Revenue hit $18.5 billion.",
+   "q": "Cisco reported fiscal first-quarter results on Nov. 12. About how much did its revenue grow from a year earlier?"
+  },
+  {
+   "a": [
+    "Tuesday, November 17",
+    "Monday, November 9",
+    "Friday, November 27",
+    "Wednesday, December 16"
+   ],
+   "d": 1,
+   "e": "Nvidia said the leadership change does not move its third-quarter fiscal 2027 report, which will be closely watched as its first under an interim CEO.",
+   "h": "Early next week, as previously scheduled.",
+   "q": "Coming up next week: on what day is Nvidia scheduled to report its quarterly earnings?"
   }
  ]
 }
