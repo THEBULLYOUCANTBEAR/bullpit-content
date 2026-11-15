@@ -1,16 +1,16 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "q": {
   "a": [
-   "Google",
-   "Facebook",
-   "Amazon",
-   "Apple"
+   "Walmart",
+   "Costco",
+   "Target",
+   "Kroger"
   ],
-  "c": "H",
-  "d": 2,
-  "e": "Google used a Dutch auction so more individual investors could bid on shares.",
-  "h": "A search engine.",
-  "q": "Which company's 2004 IPO used an unusual online auction to set its price?"
+  "c": "O",
+  "d": 1,
+  "e": "Sam's Club opened in 1983 and is named after the parent retailer's founder, Sam Walton.",
+  "h": "Its parent is based in Bentonville, Arkansas.",
+  "q": "Sam's Club warehouse stores are owned by which retailer?"
  }
 }
