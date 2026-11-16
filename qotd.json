@@ -1,16 +1,16 @@
 {
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "q": {
   "a": [
-   "Walmart",
-   "Costco",
-   "Target",
-   "Kroger"
+   "How each animal attacks: horns up vs. paws down",
+   "The 1800s Chicago meat market",
+   "Names of two famous traders",
+   "The NYSE mascots"
   ],
-  "c": "O",
+  "c": "L",
   "d": 1,
-  "e": "Sam's Club opened in 1983 and is named after the parent retailer's founder, Sam Walton.",
-  "h": "Its parent is based in Bentonville, Arkansas.",
-  "q": "Sam's Club warehouse stores are owned by which retailer?"
+  "e": "A bull thrusts its horns upward; a bear swipes its paws downward.",
+  "h": "Picture each animal attacking.",
+  "q": "Where do the terms \"bull\" and \"bear\" markets most likely come from?"
  }
 }
