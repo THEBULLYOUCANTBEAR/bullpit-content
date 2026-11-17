@@ -1,16 +1,16 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "q": {
   "a": [
-   "How each animal attacks: horns up vs. paws down",
-   "The 1800s Chicago meat market",
-   "Names of two famous traders",
-   "The NYSE mascots"
+   "Lehman Brothers",
+   "Bear Stearns",
+   "Goldman Sachs",
+   "Merrill Lynch"
   ],
-  "c": "L",
+  "c": "H",
   "d": 1,
-  "e": "A bull thrusts its horns upward; a bear swipes its paws downward.",
-  "h": "Picture each animal attacking.",
-  "q": "Where do the terms \"bull\" and \"bear\" markets most likely come from?"
+  "e": "Lehman's collapse was the largest bankruptcy in U.S. history and intensified the global financial crisis. Bear Stearns had been sold to JPMorgan in March 2008.",
+  "h": "Its name starts with L.",
+  "q": "Which investment bank filed for bankruptcy on September 15, 2008?"
  }
 }

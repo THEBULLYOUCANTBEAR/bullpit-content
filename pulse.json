@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-13",
- "id": "2026-11-12",
- "label": "Thu, Nov 12",
+ "asOf": "2026-11-17",
+ "id": "2026-11-16",
+ "label": "Mon, Nov 16",
  "questions": [
   {
    "a": [
-    "Colette Kress, Nvidia's CFO",
-    "Harvey C. Jones",
-    "Lisa Su",
-    "No one; the CEO role was left vacant"
+    "Nasdaq Composite",
+    "Dow Jones Industrial Average",
+    "S&P 500",
+    "None; all three indexes rose"
    ],
    "d": 1,
-   "e": "Nvidia said CFO Colette Kress will serve as interim CEO while the board searches for a permanent replacement. Harvey C. Jones was named the board's first-ever chair.",
-   "h": "She was already running Nvidia's finances.",
-   "q": "After Jensen Huang resigned as Nvidia's CEO on Nov 12, who was named interim CEO?"
+   "e": "The tech-heavy Nasdaq fell about 2.5% to 24,509.76, compared with about 1.9% for the S&P 500 and 1.4% for the Dow, as a sell-off in tech and AI stocks deepened.",
+   "h": "Think about which index is packed with tech stocks.",
+   "q": "Which major U.S. index had the biggest percentage drop on Monday, Nov 16?"
   },
   {
    "a": [
-    "Down less than 1%",
-    "Up more than 3%",
-    "Down more than 5%",
-    "Up more than 5%"
+    "Fell about 4%",
+    "Rose about 4%",
+    "Fell about 25%",
+    "Was unchanged"
    ],
    "d": 1,
-   "e": "The S&P 500 closed at 7,592.40, down about 0.35%, recovering much of an early drop tied to Nvidia's CEO news.",
-   "h": "A modest loss, not a crash.",
-   "q": "How did the S&P 500 finish on Thursday, Nov 12?"
+   "e": "Nvidia shares fell about 4.1% and were again the biggest drag on Wall Street, as worries over the company's leadership shake-up continued.",
+   "h": "It was a loss, but a single-digit one.",
+   "q": "How did Nvidia's stock move on Monday, Nov 16, the day before its earnings report?"
+  },
+  {
+   "a": [
+    "About 740 points",
+    "About 75 points",
+    "About 2,500 points",
+    "About 7,400 points"
+   ],
+   "d": 2,
+   "e": "The Dow fell 739.38 points, or 1.4%, to close at 51,608.17. With the Dow above 50,000, a 1.4% drop works out to roughly 740 points.",
+   "h": "Take about 1.4% of roughly 52,000.",
+   "q": "About how many points did the Dow Jones Industrial Average lose on Nov 16?"
   },
   {
    "a": [
     "5%",
     "2%",
-    "7%",
-    "10%"
+    "3%",
+    "8%"
    ],
    "d": 2,
-   "e": "With the bond market reopening after the Veterans Day holiday, yields jumped as traders priced in more Fed rate hikes, lifting the 10-year to roughly 5.1%.",
-   "h": "A round number between 4% and 6%.",
-   "q": "On Nov 12 the 10-year Treasury yield climbed back above which level?"
+   "e": "The 10-year Treasury yield finished the day a little above 5%, near where it ended the prior Friday. Higher yields raise borrowing costs across the economy, from mortgages to corporate debt.",
+   "h": "It is the same level the yield was hovering near the week before.",
+   "q": "On Nov 16 the 10-year Treasury yield held above which round-number level?"
   },
   {
    "a": [
-    "200,000",
-    "50,000",
-    "600,000",
-    "1.5 million"
+    "Nvidia's quarterly earnings report",
+    "Apple's annual iPhone launch event",
+    "The Fed's December rate decision",
+    "The monthly U.S. jobs report"
    ],
-   "d": 2,
-   "e": "First-time claims rose by 9,000 to 200,000, a bit above forecasts but still a historically low level of layoffs.",
-   "h": "It rounds to a neat 'two hundred thousand'.",
-   "q": "About how many initial jobless claims did the Labor Department report on Nov 12 for the week ended Nov 7?"
-  },
-  {
-   "a": [
-    "$4,000",
-    "$2,000",
-    "$6,000",
-    "$8,000"
-   ],
-   "d": 3,
-   "e": "Gold slid to roughly $3,875 to $3,880 an ounce as rising Treasury yields and a stronger dollar made the non-yielding metal less attractive.",
-   "h": "It slipped under a big round number in the thousands.",
-   "q": "Gold fell about 3% on Nov 12. Below which price per ounce did it trade?"
+   "d": 1,
+   "e": "Nvidia was set to report quarterly results after U.S. trading ended Tuesday, its first report since Jensen Huang stepped down, with interim CEO Colette Kress set to speak to Wall Street.",
+   "h": "It is the chipmaker that dominated Monday's headlines.",
+   "q": "Which closely watched event was scheduled for after the closing bell on Tuesday, Nov 17?"
   }
  ]
 }
