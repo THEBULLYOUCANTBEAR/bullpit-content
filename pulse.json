@@ -1,67 +1,67 @@
 {
  "asOf": "2026-11-17",
- "id": "2026-11-16",
- "label": "Mon, Nov 16",
+ "id": "2026-11-17",
+ "label": "Tue, Nov 17",
  "questions": [
   {
    "a": [
-    "Nasdaq Composite",
-    "Dow Jones Industrial Average",
-    "S&P 500",
-    "None; all three indexes rose"
-   ],
-   "d": 1,
-   "e": "The tech-heavy Nasdaq fell about 2.5% to 24,509.76, compared with about 1.9% for the S&P 500 and 1.4% for the Dow, as a sell-off in tech and AI stocks deepened.",
-   "h": "Think about which index is packed with tech stocks.",
-   "q": "Which major U.S. index had the biggest percentage drop on Monday, Nov 16?"
-  },
-  {
-   "a": [
-    "Fell about 4%",
-    "Rose about 4%",
-    "Fell about 25%",
-    "Was unchanged"
-   ],
-   "d": 1,
-   "e": "Nvidia shares fell about 4.1% and were again the biggest drag on Wall Street, as worries over the company's leadership shake-up continued.",
-   "h": "It was a loss, but a single-digit one.",
-   "q": "How did Nvidia's stock move on Monday, Nov 16, the day before its earnings report?"
-  },
-  {
-   "a": [
-    "About 740 points",
-    "About 75 points",
+    "About 850 points",
+    "About 100 points",
     "About 2,500 points",
-    "About 7,400 points"
-   ],
-   "d": 2,
-   "e": "The Dow fell 739.38 points, or 1.4%, to close at 51,608.17. With the Dow above 50,000, a 1.4% drop works out to roughly 740 points.",
-   "h": "Take about 1.4% of roughly 52,000.",
-   "q": "About how many points did the Dow Jones Industrial Average lose on Nov 16?"
-  },
-  {
-   "a": [
-    "5%",
-    "2%",
-    "3%",
-    "8%"
-   ],
-   "d": 2,
-   "e": "The 10-year Treasury yield finished the day a little above 5%, near where it ended the prior Friday. Higher yields raise borrowing costs across the economy, from mortgages to corporate debt.",
-   "h": "It is the same level the yield was hovering near the week before.",
-   "q": "On Nov 16 the 10-year Treasury yield held above which round-number level?"
-  },
-  {
-   "a": [
-    "Nvidia's quarterly earnings report",
-    "Apple's annual iPhone launch event",
-    "The Fed's December rate decision",
-    "The monthly U.S. jobs report"
+    "It gained about 400 points"
    ],
    "d": 1,
-   "e": "Nvidia was set to report quarterly results after U.S. trading ended Tuesday, its first report since Jensen Huang stepped down, with interim CEO Colette Kress set to speak to Wall Street.",
-   "h": "It is the chipmaker that dominated Monday's headlines.",
-   "q": "Which closely watched event was scheduled for after the closing bell on Tuesday, Nov 17?"
+   "e": "The Dow fell 848.75 points, or 1.64%, to close at 50,759.42. It had been down more than 1,000 points at its session low.",
+   "h": "It was a sizable drop, but less than 1,000 points at the close.",
+   "q": "On Tuesday, Nov 17, 2026, roughly how many points did the Dow Jones Industrial Average lose by the close?"
+  },
+  {
+   "a": [
+    "Dow Jones Industrial Average",
+    "Nasdaq Composite",
+    "S&P 500",
+    "None of them fell"
+   ],
+   "d": 2,
+   "e": "The Dow dropped 1.64%, versus 1.03% for the S&P 500 and 0.74% for the Nasdaq Composite, so blue chips took the hardest hit that day.",
+   "h": "The tech-heavy index actually held up best.",
+   "q": "Which major U.S. index posted the biggest percentage decline on Nov 17, 2026?"
+  },
+  {
+   "a": [
+    "Up 0.2%",
+    "Down 3.0%",
+    "Up 4.5%",
+    "Down 1.5%"
+   ],
+   "d": 1,
+   "e": "Retail and food services sales rose 0.2% in October to $748.2 billion, after an unrevised 0.8% gain in September. They were up 6.8% from a year earlier.",
+   "h": "A small gain after a much bigger September jump.",
+   "q": "The Census Bureau's advance report released Nov 17 showed U.S. retail sales for October 2026 changed by how much from September?"
+  },
+  {
+   "a": [
+    "$115.8 billion",
+    "$35.1 billion",
+    "$57.0 billion",
+    "$250.0 billion"
+   ],
+   "d": 2,
+   "e": "Nvidia reported revenue of $115.8 billion, up 103% from a year earlier, with Data Center revenue of $107.6 billion. It guided to about $130 billion for the next quarter.",
+   "h": "Revenue more than doubled from the year-ago $57.0 billion.",
+   "q": "Nvidia reported fiscal third-quarter results after the bell on Nov 17. About how much revenue did it report for the quarter?"
+  },
+  {
+   "a": [
+    "They rose 2.2%",
+    "They fell 5.0%",
+    "They rose 12.0%",
+    "They were exactly flat"
+   ],
+   "d": 2,
+   "e": "Home Depot's comparable sales rose 2.2% on total sales of $43.4 billion, up 4.9% from a year earlier. Adjusted EPS was $3.86.",
+   "h": "A modest low-single-digit gain.",
+   "q": "Home Depot reported third-quarter results on Nov 17. What happened to its comparable sales?"
   }
  ]
 }

@@ -1,16 +1,16 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "q": {
   "a": [
-   "Lehman Brothers",
-   "Bear Stearns",
-   "Goldman Sachs",
-   "Merrill Lynch"
+   "Michael Burry",
+   "John Paulson",
+   "Steve Eisman",
+   "Bill Ackman"
   ],
-  "c": "H",
-  "d": 1,
-  "e": "Lehman's collapse was the largest bankruptcy in U.S. history and intensified the global financial crisis. Bear Stearns had been sold to JPMorgan in March 2008.",
-  "h": "Its name starts with L.",
-  "q": "Which investment bank filed for bankruptcy on September 15, 2008?"
+  "c": "V",
+  "d": 2,
+  "e": "Burry, a former doctor who ran Scion Capital, studied mortgage bonds loan by loan and bought credit default swaps on them in 2005.",
+  "h": "He had a medical degree before running a hedge fund.",
+  "q": "In \"The Big Short,\" Christian Bale plays which real investor who bet early against the housing market?"
  }
 }
