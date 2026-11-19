@@ -1,5 +1,111 @@
 [
  {
+  "id": "ep-wsw-nov18",
+  "series": "Wall Street Wednesday",
+  "ep": "Nov 18",
+  "title": "The $1.4 Trillion Question: When Anthropic's IPO Puts the Entire AI Boom on Trial",
+  "order": 422,
+  "cat": "M",
+  "questions": [
+   {
+    "a": [
+     "Above the top of the $70–$78 range",
+     "Inside the $70–$78 range",
+     "Below the bottom of the $70–$78 range",
+     "Exactly at the midpoint of the range"
+    ],
+    "d": 1,
+    "e": "The episode notes $83 was $5 above the top of the previously disclosed $70–$78 range, a sign of strong investor demand.",
+    "h": "Five dollars more than the top end.",
+    "q": "Anthropic's IPO was reportedly priced at $83 per share. How did that compare with its marketed range?"
+   },
+   {
+    "a": [
+     "ANT on the Nasdaq",
+     "ANTH on the NYSE",
+     "AI on the Nasdaq",
+     "CLDE on the NYSE"
+    ],
+    "d": 1,
+    "e": "Anthropic's Class A shares were approved for listing on the Nasdaq under the ticker ANT.",
+    "h": "Think of a small insect.",
+    "q": "Under what ticker symbol and on which exchange was Anthropic set to begin trading?"
+   },
+   {
+    "a": [
+     "Offering price, offering proceeds, and valuation",
+     "Revenue, profit, and dividends",
+     "Bid, ask, and spread",
+     "Open, high, and low"
+    ],
+    "d": 1,
+    "e": "Donald separates the price investors pay per share, the money raised, and the company's total valuation, then adds a fourth: the market price once trading begins.",
+    "h": "Price, money raised, total worth.",
+    "q": "According to the episode, which three IPO numbers are related but NOT interchangeable?"
+   },
+   {
+    "a": [
+     "Shares sold by existing shareholders",
+     "Shares sold by the company itself",
+     "New shares the company issues in the offering",
+     "Shares the company adds when it upsizes its own sale"
+    ],
+    "d": 2,
+    "e": "The company generally receives proceeds from shares it sells, not from shares sold by existing shareholders.",
+    "h": "Who is selling the shares?",
+    "q": "Per the episode, which IPO shares generally do NOT send proceeds to the company?"
+   },
+   {
+    "a": [
+     "Six questions that separate the business from the excitement",
+     "Six literal accounting line items in the prospectus",
+     "Six AI stocks to watch after the IPO",
+     "Six steps for trading on IPO day"
+    ],
+    "d": 2,
+    "e": "Donald says they are not six literal accounting lines but questions on growth, cost, capital needs, concentration, durability, and operating leverage.",
+    "h": "They're questions, not entries.",
+    "q": "What does the episode's \"six-line AI income statement\" actually represent?"
+   },
+   {
+    "a": [
+     "The circular capital question: how much demand comes from independent customers",
+     "That restaurants are a better investment than AI",
+     "That every strategic partnership is fraudulent",
+     "That supply chains always lower costs"
+    ],
+    "d": 2,
+    "e": "Money circulating among connected partners can be legitimate, but analysts should still ask how much revenue came from independent customers. It's a question, not an accusation.",
+    "h": "Money going around in a circle.",
+    "q": "What point does the restaurant-and-farm example illustrate?"
+   },
+   {
+    "a": [
+     "Daily resets and compounding make the path and volatility matter",
+     "They are only allowed to trade once a week",
+     "They track bonds instead of the stock",
+     "Their fees are always paid in shares"
+    ],
+    "d": 2,
+    "e": "Because these products reset daily, compounding over time can make longer-term results differ significantly from 2x or 3x the stock's cumulative move.",
+    "h": "It resets every day.",
+    "q": "According to the episode, why can a leveraged daily ETF behave differently from a simple multiple of the stock's long-term return?"
+   },
+   {
+    "a": [
+     "What evidence would prove the bullish thesis wrong?",
+     "How fast can I double my money?",
+     "Which influencer recommended it?",
+     "Will it go up on the first day?"
+    ],
+    "d": 2,
+    "e": "Donald says a thesis that cannot be challenged is not analysis — it is loyalty.",
+    "h": "Analysis vs. loyalty.",
+    "q": "In the episode's IPO framework, what is the final question to ask about any thesis?"
+   }
+  ]
+ },
+ {
   "id": "ep-fff-nov7",
   "series": "Future Forward Friday",
   "ep": "Nov 7",

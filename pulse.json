@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-17",
- "id": "2026-11-17",
- "label": "Tue, Nov 17",
+ "asOf": "2026-11-18",
+ "id": "2026-11-18",
+ "label": "Wed, Nov 18",
  "questions": [
   {
    "a": [
-    "About 850 points",
-    "About 100 points",
-    "About 2,500 points",
-    "It gained about 400 points"
+    "About 560 points",
+    "About 60 points",
+    "About 2,000 points",
+    "It gained about 500 points"
    ],
    "d": 1,
-   "e": "The Dow fell 848.75 points, or 1.64%, to close at 50,759.42. It had been down more than 1,000 points at its session low.",
-   "h": "It was a sizable drop, but less than 1,000 points at the close.",
-   "q": "On Tuesday, Nov 17, 2026, roughly how many points did the Dow Jones Industrial Average lose by the close?"
+   "e": "The Dow fell 561.25 points, or 1.11%, to 50,198.17, its third straight loss. Health insurer UnitedHealth was the biggest drag.",
+   "h": "More than 500, but far less than 1,000.",
+   "q": "On Wednesday, Nov 18, 2026, roughly how many points did the Dow Jones Industrial Average lose by the close?"
   },
   {
    "a": [
-    "Dow Jones Industrial Average",
-    "Nasdaq Composite",
-    "S&P 500",
-    "None of them fell"
+    "Five",
+    "Two",
+    "Ten",
+    "Fifteen"
    ],
    "d": 2,
-   "e": "The Dow dropped 1.64%, versus 1.03% for the S&P 500 and 0.74% for the Nasdaq Composite, so blue chips took the hardest hit that day.",
-   "h": "The tech-heavy index actually held up best.",
-   "q": "Which major U.S. index posted the biggest percentage decline on Nov 17, 2026?"
+   "e": "The S&P 500 slipped 0.23% to 7,323.63 for a fifth straight loss, its longest losing streak since June. The Nasdaq Composite rose 0.42% the same day.",
+   "h": "Count one full trading week of declines.",
+   "q": "After closing lower on Nov 18, 2026, the S&P 500 was on its longest losing streak since June. How many sessions in a row had it fallen?"
   },
   {
    "a": [
-    "Up 0.2%",
-    "Down 3.0%",
-    "Up 4.5%",
-    "Down 1.5%"
+    "Further increases to the federal funds rate target range",
+    "Cutting rates at the next meeting",
+    "Leaving rates unchanged for several years",
+    "Ending the 2% inflation goal"
+   ],
+   "d": 2,
+   "e": "The minutes said almost all participants judged further action to raise the target range would likely be appropriate to return inflation to 2%. The Fed held the range at 3.75% to 4% in October, with two members preferring a hike.",
+   "h": "Think about which way policy moves when inflation stays too high.",
+   "q": "The Fed released minutes of its October 27-28, 2026 meeting on Nov 18. What did almost all participants judge would likely be appropriate going forward?"
+  },
+  {
+   "a": [
+    "Fell about 3%",
+    "Rose about 10%",
+    "Rose about 25%",
+    "Was halted all day"
    ],
    "d": 1,
-   "e": "Retail and food services sales rose 0.2% in October to $748.2 billion, after an unrevised 0.8% gain in September. They were up 6.8% from a year earlier.",
-   "h": "A small gain after a much bigger September jump.",
-   "q": "The Census Bureau's advance report released Nov 17 showed U.S. retail sales for October 2026 changed by how much from September?"
+   "e": "Nvidia rose before the open but reversed and closed down 2.89%, its fifth straight loss. A good earnings report does not guarantee a rising stock price the next day.",
+   "h": "An early premarket pop faded.",
+   "q": "Nvidia beat expectations with $115.8 billion in quarterly revenue on Nov 17. What did its stock do during the regular session on Nov 18?"
   },
   {
    "a": [
-    "$115.8 billion",
-    "$35.1 billion",
-    "$57.0 billion",
-    "$250.0 billion"
+    "Fell about 3%",
+    "Rose about 3%",
+    "Rose about 12%",
+    "Was unchanged"
    ],
-   "d": 2,
-   "e": "Nvidia reported revenue of $115.8 billion, up 103% from a year earlier, with Data Center revenue of $107.6 billion. It guided to about $130 billion for the next quarter.",
-   "h": "Revenue more than doubled from the year-ago $57.0 billion.",
-   "q": "Nvidia reported fiscal third-quarter results after the bell on Nov 17. About how much revenue did it report for the quarter?"
-  },
-  {
-   "a": [
-    "They rose 2.2%",
-    "They fell 5.0%",
-    "They rose 12.0%",
-    "They were exactly flat"
-   ],
-   "d": 2,
-   "e": "Home Depot's comparable sales rose 2.2% on total sales of $43.4 billion, up 4.9% from a year earlier. Adjusted EPS was $3.86.",
-   "h": "A modest low-single-digit gain.",
-   "q": "Home Depot reported third-quarter results on Nov 17. What happened to its comparable sales?"
+   "d": 1,
+   "e": "December gold fell about 3.2% to settle near $3,742 an ounce. Gold pays no interest, so expectations of higher rates and a stronger dollar tend to weigh on it.",
+   "h": "Higher rate expectations are usually a headwind for gold.",
+   "q": "Gold futures had a rough day on Nov 18, 2026 as the dollar hit a 19-month high on hawkish Fed signals. About how much did gold move?"
   }
  ]
 }

@@ -1,16 +1,16 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "q": {
   "a": [
-   "Michael Burry",
-   "John Paulson",
-   "Steve Eisman",
-   "Bill Ackman"
+   "Nasdaq",
+   "NYSE",
+   "CME Group",
+   "Cboe Global Markets"
   ],
-  "c": "V",
+  "c": "W",
   "d": 2,
-  "e": "Burry, a former doctor who ran Scion Capital, studied mortgage bonds loan by loan and bought credit default swaps on them in 2005.",
-  "h": "He had a medical degree before running a hedge fund.",
-  "q": "In \"The Big Short,\" Christian Bale plays which real investor who bet early against the housing market?"
+  "e": "Friedman joined as an unpaid intern in 1993 and rose through the ranks to become Nasdaq's first female CEO, succeeding Robert Greifeld.",
+  "h": "It launched in 1971 as the first electronic stock market.",
+  "q": "In 2017, Adena Friedman became CEO of which exchange operator, where she had started as an intern?"
  }
 }
