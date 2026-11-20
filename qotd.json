@@ -1,16 +1,16 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "q": {
   "a": [
-   "Nasdaq",
-   "NYSE",
-   "CME Group",
-   "Cboe Global Markets"
+   "Bought 100 shares of nearly every U.S. stock trading under $1",
+   "Shorted the entire market",
+   "Founded the New York Stock Exchange",
+   "Invented the index fund"
   ],
-  "c": "W",
+  "c": "L",
   "d": 2,
-  "e": "Friedman joined as an unpaid intern in 1993 and rose through the ranks to become Nasdaq's first female CEO, succeeding Robert Greifeld.",
-  "h": "It launched in 1971 as the first electronic stock market.",
-  "q": "In 2017, Adena Friedman became CEO of which exchange operator, where she had started as an intern?"
+  "e": "He bet on a recovery at a point of deep pessimism, and most of those stocks paid off handsomely.",
+  "h": "Buying when others were scared.",
+  "q": "In 1939, John Templeton famously..."
  }
 }

@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-18",
- "id": "2026-11-18",
- "label": "Wed, Nov 18",
+ "asOf": "2026-11-19",
+ "id": "2026-11-19",
+ "label": "Thu, Nov 19",
  "questions": [
   {
    "a": [
-    "About 560 points",
-    "About 60 points",
-    "About 2,000 points",
-    "It gained about 500 points"
-   ],
-   "d": 1,
-   "e": "The Dow fell 561.25 points, or 1.11%, to 50,198.17, its third straight loss. Health insurer UnitedHealth was the biggest drag.",
-   "h": "More than 500, but far less than 1,000.",
-   "q": "On Wednesday, Nov 18, 2026, roughly how many points did the Dow Jones Industrial Average lose by the close?"
-  },
-  {
-   "a": [
-    "Five",
+    "Six",
     "Two",
     "Ten",
     "Fifteen"
    ],
-   "d": 2,
-   "e": "The S&P 500 slipped 0.23% to 7,323.63 for a fifth straight loss, its longest losing streak since June. The Nasdaq Composite rose 0.42% the same day.",
-   "h": "Count one full trading week of declines.",
-   "q": "After closing lower on Nov 18, 2026, the S&P 500 was on its longest losing streak since June. How many sessions in a row had it fallen?"
+   "d": 1,
+   "e": "The S&P 500 fell 147.80 points, or 2.02%, to 7,175.83 for a sixth straight loss, its longest losing streak since 2024. More than 90% of its stocks fell.",
+   "h": "One more than a full trading week.",
+   "q": "On Thursday, Nov 19, 2026, the S&P 500 fell about 2% to close near 7,176. How many sessions in a row had it now declined?"
   },
   {
    "a": [
-    "Further increases to the federal funds rate target range",
-    "Cutting rates at the next meeting",
-    "Leaving rates unchanged for several years",
-    "Ending the 2% inflation goal"
-   ],
-   "d": 2,
-   "e": "The minutes said almost all participants judged further action to raise the target range would likely be appropriate to return inflation to 2%. The Fed held the range at 3.75% to 4% in October, with two members preferring a hike.",
-   "h": "Think about which way policy moves when inflation stays too high.",
-   "q": "The Fed released minutes of its October 27-28, 2026 meeting on Nov 18. What did almost all participants judge would likely be appropriate going forward?"
-  },
-  {
-   "a": [
-    "Fell about 3%",
-    "Rose about 10%",
-    "Rose about 25%",
-    "Was halted all day"
+    "Below 50,000",
+    "Above 55,000",
+    "Exactly at 50,000",
+    "Above 60,000"
    ],
    "d": 1,
-   "e": "Nvidia rose before the open but reversed and closed down 2.89%, its fifth straight loss. A good earnings report does not guarantee a rising stock price the next day.",
-   "h": "An early premarket pop faded.",
-   "q": "Nvidia beat expectations with $115.8 billion in quarterly revenue on Nov 17. What did its stock do during the regular session on Nov 18?"
+   "e": "The Dow lost 1,101.11 points, or 2.19%, to 49,097.06, slipping back under the 50,000 milestone. Only one of its 30 stocks rose.",
+   "h": "A 1,100-point drop from just above 50,200.",
+   "q": "The Dow Jones Industrial Average dropped about 1,100 points on Nov 19, 2026. Where did it close relative to the 50,000 mark?"
   },
   {
    "a": [
-    "Fell about 3%",
-    "Rose about 3%",
-    "Rose about 12%",
-    "Was unchanged"
+    "About 17% above the IPO price",
+    "Exactly at the IPO price",
+    "About 20% below the IPO price",
+    "About 150% above the IPO price"
    ],
    "d": 1,
-   "e": "December gold fell about 3.2% to settle near $3,742 an ounce. Gold pays no interest, so expectations of higher rates and a stronger dollar tend to weigh on it.",
-   "h": "Higher rate expectations are usually a headwind for gold.",
-   "q": "Gold futures had a rough day on Nov 18, 2026 as the dollar hit a 19-month high on hawkish Fed signals. About how much did gold move?"
+   "e": "Shares under the ticker ANT opened at $111.50 but faded through the afternoon to close at $97.17, about 17% above the $83 offer price. An opening pop does not always hold through the close.",
+   "h": "It opened much higher, then gave back about half the gain.",
+   "q": "Anthropic, maker of Claude, began trading on the Nasdaq on Nov 19, 2026 after pricing its IPO at $83 a share. Roughly where did the stock close on its first day?"
+  },
+  {
+   "a": [
+    "About 203,000",
+    "About 50,000",
+    "About 500,000",
+    "About 1.2 million"
+   ],
+   "d": 2,
+   "e": "Initial claims rose by 1,000 to 203,000. Initial claims count people filing for unemployment benefits for the first time and are watched as an early signal of layoffs.",
+   "h": "Just over 200,000.",
+   "q": "The Labor Department reported weekly initial jobless claims on Nov 19, 2026. About how many Americans filed new claims in the week ending Nov 14 (seasonally adjusted)?"
+  },
+  {
+   "a": [
+    "Down about 3%",
+    "Up about 3%",
+    "Up about 15%",
+    "Unchanged"
+   ],
+   "d": 2,
+   "e": "Nvidia opened higher but reversed to close down 3.30% at $145.98 as AI stocks sold off broadly. Strong results do not guarantee a rising share price.",
+   "h": "It joined the afternoon tech selloff.",
+   "q": "Nvidia reported record quarterly revenue earlier in the week. How did its stock finish the regular session on Nov 19, 2026?"
   }
  ]
 }
