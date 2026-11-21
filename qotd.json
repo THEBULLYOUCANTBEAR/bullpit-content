@@ -1,16 +1,16 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-21",
  "q": {
   "a": [
-   "Bought 100 shares of nearly every U.S. stock trading under $1",
-   "Shorted the entire market",
-   "Founded the New York Stock Exchange",
-   "Invented the index fund"
+   "On-base percentage",
+   "Batting average",
+   "Stolen bases",
+   "Runs batted in"
   ],
-  "c": "L",
+  "c": "V",
   "d": 2,
-  "e": "He bet on a recovery at a point of deep pessimism, and most of those stocks paid off handsomely.",
-  "h": "Buying when others were scared.",
-  "q": "In 1939, John Templeton famously..."
+  "e": "Getting on base, including by walks, was underpriced by the market for players, much like a stock trading below its value.",
+  "h": "It counts walks, which old-school scouts tended to ignore.",
+  "q": "In \"Moneyball,\" the Oakland A's hunt for undervalued players by focusing heavily on which stat?"
  }
 }

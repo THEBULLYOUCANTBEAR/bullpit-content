@@ -1,127 +1,127 @@
 {
- "asOf": "2026-11-13",
- "id": "2026-W46",
- "label": "Week of Nov 9, 2026",
+ "asOf": "2026-11-20",
+ "id": "2026-W47",
+ "label": "Week of Nov 16, 2026",
  "questions": [
   {
    "a": [
-    "Rose about 2.5%",
-    "Fell about 2.5%",
-    "Rose about 8%",
-    "Finished unchanged"
+    "Anthropic",
+    "OpenAI",
+    "Stripe",
+    "Databricks"
    ],
    "d": 1,
-   "e": "Despite a Friday dip, the S&P 500 closed at 7,561.67 for its first winning week since October and its biggest weekly gain since August.",
-   "h": "Its best week since August.",
-   "q": "How did the S&P 500 do for the week ending Friday, November 13, 2026?"
+   "e": "Anthropic priced its Nasdaq IPO at $83 a share, above its planned range, and raised about $81 billion, passing SpaceX's roughly $75 billion IPO as the biggest ever.",
+   "h": "An AI lab that began trading on Nasdaq on Thursday.",
+   "q": "Which company completed the largest IPO on record this week, topping SpaceX's June offering?"
+  },
+  {
+   "a": [
+    "A correction",
+    "A bear market",
+    "A circuit breaker",
+    "A crash"
+   ],
+   "d": 1,
+   "e": "A drop of 10% from a recent high is a correction, while 20% is the usual bear-market line. The S&P 500's record high was set on Oct 6.",
+   "h": "Less severe than a bear market.",
+   "q": "On Friday, Nov 20, the S&P 500 closed more than 10% below its record high. What is that called?"
+  },
+  {
+   "a": [
+    "Nasdaq Composite",
+    "Dow Jones Industrial Average",
+    "Russell 2000",
+    "S&P MidCap 400"
+   ],
+   "d": 1,
+   "e": "The tech-heavy Nasdaq is the most exposed to AI and chip stocks, which led the sell-off. It fell more than 10% for the week.",
+   "h": "The most tech-heavy of the big indexes.",
+   "q": "Which major U.S. index erased all of its 2026 gains on Friday after falling more than 5% in one day?"
+  },
+  {
+   "a": [
+    "$116 billion",
+    "$35 billion",
+    "$60 billion",
+    "$210 billion"
+   ],
+   "d": 2,
+   "e": "Revenue more than doubled from a year earlier, led by about $108 billion from data centers. Even so, the stock fell sharply later in the week.",
+   "h": "Revenue more than doubled from a year ago.",
+   "q": "Nvidia reported third-quarter (fiscal 2027) revenue of about how much on Nov 17?"
   },
   {
    "a": [
     "Colette Kress",
     "Lisa Su",
-    "Harvey Jones",
-    "Rene Haas"
-   ],
-   "d": 1,
-   "e": "Kress, Nvidia's longtime CFO, is interim CEO while also staying CFO; the board is searching for a permanent CEO among internal and external candidates.",
-   "h": "She has been Nvidia's chief financial officer since 2013.",
-   "q": "Nvidia named which executive as interim CEO after Jensen Huang resigned on November 12?"
-  },
-  {
-   "a": [
-    "About 5.1%",
-    "About 3.1%",
-    "About 7.1%",
-    "About 1.1%"
-   ],
-   "d": 1,
-   "e": "The 10-year yield climbed above 5% over the week. Higher long-term yields raise borrowing costs for mortgages and companies and can weigh on stock valuations.",
-   "h": "It crossed a big round number during the week.",
-   "q": "Roughly where did the 10-year Treasury yield finish the week?"
-  },
-  {
-   "a": [
-    "0.4%",
-    "0.0% (unchanged)",
-    "1.5%",
-    "-0.3% (a decline)"
+    "Satya Nadella",
+    "Tim Cook"
    ],
    "d": 2,
-   "e": "Headline CPI rose 0.4% after a 0.6% jump in September. Inflation well above the Fed's 2% goal is a key reason markets expect more rate hikes.",
-   "h": "A bit slower than September's 0.6%.",
-   "q": "The October CPI report (released Nov. 10) showed consumer prices rising how much from September, seasonally adjusted?"
-  },
-  {
-   "a": [
-    "October 2025 prices were never collected because of a lapse in government funding",
-    "The BLS switched to a new base year",
-    "The Fed asked the BLS to delay the figure",
-    "A computer outage erased the October 2026 data"
-   ],
-   "d": 3,
-   "e": "Without an October 2025 index to compare against, the year-over-year change cannot be calculated, so BLS published only monthly changes for most series.",
-   "h": "Think back to the government shutdown a year earlier.",
-   "q": "Why did the BLS not publish a 12-month (annual) inflation rate for most CPI categories in the October 2026 report?"
-  },
-  {
-   "a": [
-    "6.5%",
-    "1.5%",
-    "12.5%",
-    "3.0%"
-   ],
-   "d": 2,
-   "e": "It was the largest 12-month rise in producer prices since November 2022, even though the monthly gain slowed to 0.3%.",
-   "h": "The biggest annual jump in nearly four years.",
-   "q": "The Producer Price Index released Nov. 13 showed wholesale prices up how much over the 12 months through October?"
+   "e": "Kress, Nvidia's longtime CFO, became interim CEO while keeping her finance role. The board is searching for a permanent CEO.",
+   "h": "She was already Nvidia's chief financial officer.",
+   "q": "Who is serving as Nvidia's interim CEO after Jensen Huang resigned on Nov 12?"
   },
   {
    "a": [
     "3.75% to 4.00%",
-    "5.25% to 5.50%",
-    "0% to 0.25%",
-    "2.00% to 2.25%"
+    "2.25% to 2.50%",
+    "4.75% to 5.00%",
+    "5.25% to 5.50%"
    ],
    "d": 2,
-   "e": "The Fed kept rates unchanged in October, and economists widely expect a rate hike at the December meeting as inflation stays elevated.",
-   "h": "Just under 4% at the top end.",
-   "q": "Heading into the Fed's December meeting, what is the federal funds target range it held at its October 28 meeting?"
+   "e": "The vote was 10-2. The two dissenters, Lisa Cook and Beth Hammack, wanted a quarter-point increase.",
+   "h": "Just under 4%.",
+   "q": "The Fed held rates at its Oct 27-28 meeting. What target range for the federal funds rate did it keep?"
   },
   {
    "a": [
-    "A quarter-point rate hike",
-    "A quarter-point rate cut",
-    "A half-point rate cut",
-    "An immediate end to bond purchases"
+    "Further interest-rate increases",
+    "Immediate rate cuts",
+    "Restarting bond purchases",
+    "Ending interest on bank reserves"
    ],
    "d": 3,
-   "e": "Lisa Cook and Beth Hammack voted against the 10-2 decision, preferring to raise rates by 0.25 point, a sign some officials wanted to move faster against inflation.",
-   "h": "They were more worried about inflation than growth.",
-   "q": "Two Fed officials dissented at the October 28 meeting. What did they want instead of holding rates steady?"
+   "e": "Officials cited inflation running well above the 2% goal. Higher rates raise borrowing costs across the economy.",
+   "h": "Two officials had already voted for this in October.",
+   "q": "Minutes of the Fed's October meeting, released Nov 18, showed almost all officials saw what as likely appropriate?"
   },
   {
    "a": [
-    "24%",
-    "2%",
-    "60%",
-    "It fell 10%"
+    "203,000",
+    "120,000",
+    "290,000",
+    "375,000"
    ],
-   "d": 2,
-   "e": "Cisco posted $18.5 billion in revenue and raised its forecast for AI infrastructure revenue from big cloud customers to $9 billion this fiscal year.",
-   "h": "Revenue hit $18.5 billion.",
-   "q": "Cisco reported fiscal first-quarter results on Nov. 12. About how much did its revenue grow from a year earlier?"
+   "d": 3,
+   "e": "Claims rose by 1,000 from the prior week and stayed low by historical standards. Low claims suggest few layoffs.",
+   "h": "Just over 200,000.",
+   "q": "Initial jobless claims for the week ending Nov 14 came in at about what level?"
   },
   {
    "a": [
-    "Tuesday, November 17",
-    "Monday, November 9",
-    "Friday, November 27",
-    "Wednesday, December 16"
+    "Raised it",
+    "Cut it",
+    "Withdrew it",
+    "Left it unchanged"
    ],
    "d": 1,
-   "e": "Nvidia said the leadership change does not move its third-quarter fiscal 2027 report, which will be closely watched as its first under an interim CEO.",
-   "h": "Early next week, as previously scheduled.",
-   "q": "Coming up next week: on what day is Nvidia scheduled to report its quarterly earnings?"
+   "e": "Walmart's revenue rose about 5% to $188.8 billion, and global e-commerce sales grew 17%. Raising guidance signals management expects a stronger year.",
+   "h": "It was good news for shareholders.",
+   "q": "What did Walmart do with its full-year outlook when it reported third-quarter results this week?"
+  },
+  {
+   "a": [
+    "Thursday, Nov 26 (Thanksgiving)",
+    "Monday, Nov 23",
+    "Wednesday, Nov 25",
+    "Friday, Nov 27"
+   ],
+   "d": 1,
+   "e": "Markets close for Thanksgiving and reopen Friday for a shortened session ending at 1 p.m. ET. Key inflation (PCE) and GDP data arrive Wednesday.",
+   "h": "Think turkey.",
+   "q": "U.S. stock markets will be closed on which day next week?"
   }
  ]
 }
