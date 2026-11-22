@@ -1,16 +1,16 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "q": {
   "a": [
-   "On-base percentage",
-   "Batting average",
-   "Stolen bases",
-   "Runs batted in"
+   "About 22.6%",
+   "About 5%",
+   "About 12%",
+   "About 40%"
   ],
-  "c": "V",
+  "c": "H",
   "d": 2,
-  "e": "Getting on base, including by walks, was underpriced by the market for players, much like a stock trading below its value.",
-  "h": "It counts walks, which old-school scouts tended to ignore.",
-  "q": "In \"Moneyball,\" the Oakland A's hunt for undervalued players by focusing heavily on which stat?"
+  "e": "The Dow lost about 22.6% in one session, still the largest one-day percentage drop in its history.",
+  "h": "More than a fifth.",
+  "q": "On Black Monday, October 19, 1987, roughly how much did the Dow fall in a single day?"
  }
 }
