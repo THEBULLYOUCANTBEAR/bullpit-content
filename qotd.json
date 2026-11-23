@@ -1,16 +1,16 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "q": {
   "a": [
-   "About 22.6%",
-   "About 5%",
-   "About 12%",
-   "About 40%"
+   "Microsoft",
+   "Sony Group",
+   "Electronic Arts",
+   "Tencent"
   ],
-  "c": "H",
+  "c": "O",
   "d": 2,
-  "e": "The Dow lost about 22.6% in one session, still the largest one-day percentage drop in its history.",
-  "h": "More than a fifth.",
-  "q": "On Black Monday, October 19, 1987, roughly how much did the Dow fall in a single day?"
+  "e": "Microsoft bought Minecraft maker Mojang in 2014 for $2.5 billion. It has since become the best-selling video game of all time.",
+  "h": "Its parent is based in Redmond, Washington.",
+  "q": "The video game Minecraft is owned by which company?"
  }
 }

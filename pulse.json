@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-19",
- "id": "2026-11-19",
- "label": "Thu, Nov 19",
+ "asOf": "2026-11-20",
+ "id": "2026-11-20",
+ "label": "Fri, Nov 20",
  "questions": [
   {
    "a": [
-    "Six",
-    "Two",
-    "Ten",
-    "Fifteen"
+    "A correction (more than 10% below its record high)",
+    "A new all-time high",
+    "A bear market (more than 40% below its high)",
+    "No milestone; it was a small dip"
    ],
    "d": 1,
-   "e": "The S&P 500 fell 147.80 points, or 2.02%, to 7,175.83 for a sixth straight loss, its longest losing streak since 2024. More than 90% of its stocks fell.",
-   "h": "One more than a full trading week.",
-   "q": "On Thursday, Nov 19, 2026, the S&P 500 fell about 2% to close near 7,176. How many sessions in a row had it now declined?"
+   "e": "The S&P 500 closed more than 10% below its Oct 6 record close, the common definition of a correction. It was also the index's seventh straight losing session.",
+   "h": "Think of the 10% rule.",
+   "q": "On Friday, Nov 20, 2026, the S&P 500 fell 3.7% to close near 6,910. What milestone did that drop push the index into?"
   },
   {
    "a": [
-    "Below 50,000",
-    "Above 55,000",
-    "Exactly at 50,000",
-    "Above 60,000"
+    "Down for the year (below its 2025 close)",
+    "Up more than 20% for the year",
+    "Exactly flat for the year",
+    "Up more than 50% for the year"
    ],
    "d": 1,
-   "e": "The Dow lost 1,101.11 points, or 2.19%, to 49,097.06, slipping back under the 50,000 milestone. Only one of its 30 stocks rose.",
-   "h": "A 1,100-point drop from just above 50,200.",
-   "q": "The Dow Jones Industrial Average dropped about 1,100 points on Nov 19, 2026. Where did it close relative to the 50,000 mark?"
+   "e": "The Nasdaq closed at 22,617.73, about 2.7% below where it ended 2025, erasing its 2026 gain. It lost about 10% for the week.",
+   "h": "It erased its gains.",
+   "q": "The Nasdaq Composite plunged about 5.3% on Nov 20, 2026. Where did that leave the index for the year 2026?"
   },
   {
    "a": [
-    "About 17% above the IPO price",
-    "Exactly at the IPO price",
-    "About 20% below the IPO price",
-    "About 150% above the IPO price"
+    "Nvidia",
+    "Walmart",
+    "Coca-Cola",
+    "Johnson & Johnson"
    ],
    "d": 1,
-   "e": "Shares under the ticker ANT opened at $111.50 but faded through the afternoon to close at $97.17, about 17% above the $83 offer price. An opening pop does not always hold through the close.",
-   "h": "It opened much higher, then gave back about half the gain.",
-   "q": "Anthropic, maker of Claude, began trading on the Nasdaq on Nov 19, 2026 after pricing its IPO at $83 a share. Roughly where did the stock close on its first day?"
+   "e": "Nvidia dropped roughly 14% as chip stocks sold off; reports said the SEC was examining possible accounting issues. It was the stock's seventh straight weekly decline.",
+   "h": "Its former CEO was Jensen Huang.",
+   "q": "Which chipmaker, the market's former AI bellwether, fell about 14% on Nov 20, 2026, leading the Dow's decliners?"
   },
   {
    "a": [
-    "About 203,000",
-    "About 50,000",
-    "About 500,000",
-    "About 1.2 million"
+    "Above 30 (near 36)",
+    "Below 10",
+    "Around 15",
+    "Above 80"
    ],
    "d": 2,
-   "e": "Initial claims rose by 1,000 to 203,000. Initial claims count people filing for unemployment benefits for the first time and are watched as an early signal of layoffs.",
-   "h": "Just over 200,000.",
-   "q": "The Labor Department reported weekly initial jobless claims on Nov 19, 2026. About how many Americans filed new claims in the week ending Nov 14 (seasonally adjusted)?"
+   "e": "The VIX closed near 36, well above the 30 level traders often treat as a sign of serious market stress. It measures expected S&P 500 volatility over the next 30 days.",
+   "h": "Above the level many call serious stress.",
+   "q": "The Cboe Volatility Index (VIX), Wall Street's fear gauge, jumped about 26% on Nov 20, 2026. Roughly where did it close?"
   },
   {
    "a": [
-    "Down about 3%",
-    "Up about 3%",
-    "Up about 15%",
-    "Unchanged"
+    "It fell to below 5%",
+    "It rose to above 6%",
+    "It rose to above 5.5%",
+    "It was unchanged at exactly 5%"
    ],
    "d": 2,
-   "e": "Nvidia opened higher but reversed to close down 3.30% at $145.98 as AI stocks sold off broadly. Strong results do not guarantee a rising share price.",
-   "h": "It joined the afternoon tech selloff.",
-   "q": "Nvidia reported record quarterly revenue earlier in the week. How did its stock finish the regular session on Nov 19, 2026?"
+   "e": "The 10-year yield fell about 0.1 percentage point to roughly 4.9%, down from about 5.05% the day before. Bond prices and yields move in opposite directions, so demand for safe-haven bonds pushes yields down.",
+   "h": "Prices up, yields down.",
+   "q": "As stocks sold off on Nov 20, 2026, investors bought Treasury bonds. What happened to the 10-year Treasury yield?"
   }
  ]
 }
