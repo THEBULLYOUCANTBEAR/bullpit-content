@@ -1,5 +1,111 @@
 [
  {
+  "id": "ep-mm19",
+  "series": "Motivation Monday",
+  "ep": "EP19",
+  "title": "When the Chips Are Down",
+  "order": 427,
+  "cat": "L",
+  "questions": [
+   {
+    "a": [
+     "Defend the decision you already made, or make the next one",
+     "Double down or fold completely",
+     "Blame the market or blame yourself",
+     "Wait for confidence or wait for luck"
+    ],
+    "d": 1,
+    "e": "Donald frames the last chip as something you can spend defending the past decision or spending on the next one.",
+    "h": "Past decision vs. next decision.",
+    "q": "According to the episode, what choice do you face when you have one chip left after a mistake?"
+   },
+   {
+    "a": [
+     "Sega",
+     "Nintendo",
+     "Sony",
+     "Atari"
+    ],
+    "d": 1,
+    "e": "After about a year on a Sega project, Nvidia realized its approach was wrong and told Sega to find another partner.",
+    "h": "A video game console maker.",
+    "q": "Which company did Nvidia have to tell 'we got this wrong' in the early-days story Donald shares?"
+   },
+   {
+    "a": [
+     "Pay Nvidia anyway",
+     "Buy Nvidia outright",
+     "Extend the deadline by a year",
+     "Switch to a new console design"
+    ],
+    "d": 2,
+    "e": "Huang asked Sega to pay Nvidia despite the misstep, and Sega agreed, buying Nvidia roughly six more months.",
+    "h": "There's no comfortable way to make that call.",
+    "q": "In the story, what did Jensen Huang ask Sega to do after admitting Nvidia's approach was wrong?"
+   },
+   {
+    "a": [
+     "The Riva 128",
+     "The GeForce 256",
+     "The Tegra",
+     "The Voodoo"
+    ],
+    "d": 2,
+    "e": "The team used the extra runway to build a different chip, the Riva 128.",
+    "h": "Riva...",
+    "q": "What graphics chip did Nvidia's team build with the extra time, per the episode?"
+   },
+   {
+    "a": [
+     "Yes, you can start before the confidence returns",
+     "No, confidence must come first",
+     "Only after someone forgives you",
+     "Only if you have a new plan approved"
+    ],
+    "d": 1,
+    "e": "He says a second chance is another opportunity to do the work, and you can start before you feel confident.",
+    "h": "Action before feeling.",
+    "q": "According to Donald, can you start doing the work of a second chance before you feel confident again?"
+   },
+   {
+    "a": [
+     "That next time you're running late, you actually call them",
+     "How sincere your apology sounded",
+     "How long you explained the reasons",
+     "That you never missed a deadline again"
+    ],
+    "d": 2,
+    "e": "Trust is rebuilt by visible follow-through: the next time you're late, you actually make the call.",
+    "h": "One decision they can see.",
+    "q": "In the missed-deadline example, what does Donald say people will remember most?"
+   },
+   {
+    "a": [
+     "Where did I lose you?",
+     "Did you like it?",
+     "Should I quit?",
+     "Can you share it for me?"
+    ],
+    "d": 1,
+    "e": "Asking 'where did I lose you?' can surface something you could fix that same afternoon.",
+    "h": "Find the point they drifted.",
+    "q": "If you shared work you were proud of and heard nothing, what does the episode suggest asking someone it was meant for?"
+   },
+   {
+    "a": [
+     "What happened, what I can repair, what I'll do before tomorrow",
+     "Who's to blame, what it cost, what I learned",
+     "My goal, my obstacle, my reward",
+     "What I feel, what I fear, what I want"
+    ],
+    "d": 2,
+    "e": "Say what happened plainly, name the repair that's yours, and commit to one action within 24 hours.",
+    "h": "Happened, repair, before tomorrow.",
+    "q": "What are the three lines in this week's Motivation Monday challenge?"
+   }
+  ]
+ },
+ {
   "id": "ep-wsw-nov18",
   "series": "Wall Street Wednesday",
   "ep": "Nov 18",

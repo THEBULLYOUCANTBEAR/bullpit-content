@@ -1,16 +1,16 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "q": {
   "a": [
-   "Microsoft",
-   "Sony Group",
-   "Electronic Arts",
-   "Tencent"
+   "Merrill Lynch",
+   "Morgan Stanley",
+   "Lehman Brothers",
+   "Bear Stearns"
   ],
-  "c": "O",
+  "c": "W",
   "d": 2,
-  "e": "Microsoft bought Minecraft maker Mojang in 2014 for $2.5 billion. It has since become the best-selling video game of all time.",
-  "h": "Its parent is based in Redmond, Washington.",
-  "q": "The video game Minecraft is owned by which company?"
+  "e": "O'Neal served as CEO until 2007. The firm, known for its bull logo, was acquired by Bank of America during the 2008 crisis.",
+  "h": "It was famous for its 'thundering herd' of retail brokers.",
+  "q": "In 2002, Stanley O'Neal became the first African American to lead a major Wall Street firm. Which one?"
  }
 }

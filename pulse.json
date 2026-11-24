@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-20",
- "id": "2026-11-20",
- "label": "Fri, Nov 20",
+ "asOf": "2026-11-24",
+ "id": "2026-11-23",
+ "label": "Mon, Nov 23",
  "questions": [
   {
    "a": [
-    "A correction (more than 10% below its record high)",
-    "A new all-time high",
-    "A bear market (more than 40% below its high)",
-    "No milestone; it was a small dip"
+    "It reinstated Jensen Huang as CEO and president",
+    "It announced a 10-for-1 stock split",
+    "It named Colette Kress permanent CEO",
+    "It agreed to sell the company"
    ],
    "d": 1,
-   "e": "The S&P 500 closed more than 10% below its Oct 6 record close, the common definition of a correction. It was also the index's seventh straight losing session.",
-   "h": "Think of the 10% rule.",
-   "q": "On Friday, Nov 20, 2026, the S&P 500 fell 3.7% to close near 6,910. What milestone did that drop push the index into?"
+   "e": "Nvidia's board voted unanimously to reinstate Jensen Huang as president, CEO and board director, effective immediately, 11 days after he resigned. Interim CEO Colette Kress returned to her CFO role.",
+   "h": "A familiar face came back.",
+   "q": "What news from Nvidia's board sparked Monday's huge rally in chip and AI stocks?"
   },
   {
    "a": [
-    "Down for the year (below its 2025 close)",
-    "Up more than 20% for the year",
-    "Exactly flat for the year",
-    "Up more than 50% for the year"
+    "It rose more than 30%",
+    "It rose about 3%",
+    "It rose about 12%",
+    "It fell about 5%"
    ],
    "d": 1,
-   "e": "The Nasdaq closed at 22,617.73, about 2.7% below where it ended 2025, erasing its 2026 gain. It lost about 10% for the week.",
-   "h": "It erased its gains.",
-   "q": "The Nasdaq Composite plunged about 5.3% on Nov 20, 2026. Where did that leave the index for the year 2026?"
+   "e": "Nvidia shares jumped about 31% to around $165 after Huang's reinstatement. Yahoo Finance called it the stock's best day since May 2003.",
+   "h": "Think bigger than a normal big day.",
+   "q": "Roughly how much did Nvidia's stock move on Monday, Nov 23?"
   },
   {
    "a": [
-    "Nvidia",
-    "Walmart",
-    "Coca-Cola",
-    "Johnson & Johnson"
+    "Nasdaq Composite",
+    "Dow Jones Industrial Average",
+    "S&P 500",
+    "Russell 2000"
    ],
    "d": 1,
-   "e": "Nvidia dropped roughly 14% as chip stocks sold off; reports said the SEC was examining possible accounting issues. It was the stock's seventh straight weekly decline.",
-   "h": "Its former CEO was Jensen Huang.",
-   "q": "Which chipmaker, the market's former AI bellwether, fell about 14% on Nov 20, 2026, leading the Dow's decliners?"
+   "e": "The tech-heavy Nasdaq Composite rose about 6.5%, ahead of the S&P 500 (about 4.7%), the Russell 2000 (about 3.4%) and the Dow (about 3%). It was the Nasdaq's best day since April 2025.",
+   "h": "Tech-heavy index, tech-led rally.",
+   "q": "Which major U.S. index posted the largest percentage gain on Monday?"
   },
   {
    "a": [
-    "Above 30 (near 36)",
-    "Below 10",
-    "Around 15",
-    "Above 80"
+    "About 1,450 points",
+    "About 150 points",
+    "About 450 points",
+    "It fell about 900 points"
    ],
    "d": 2,
-   "e": "The VIX closed near 36, well above the 30 level traders often treat as a sign of serious market stress. It measures expected S&P 500 volatility over the next 30 days.",
-   "h": "Above the level many call serious stress.",
-   "q": "The Cboe Volatility Index (VIX), Wall Street's fear gauge, jumped about 26% on Nov 20, 2026. Roughly where did it close?"
+   "e": "The Dow added 1,447.98 points, or about 3%, to close at 49,595.31, rebounding after a steep losing week that left the major indexes in correction territory.",
+   "h": "More than a thousand.",
+   "q": "About how many points did the Dow Jones Industrial Average gain on Monday?"
   },
   {
    "a": [
-    "It fell to below 5%",
-    "It rose to above 6%",
-    "It rose to above 5.5%",
-    "It was unchanged at exactly 5%"
+    "Zscaler",
+    "Palo Alto Networks",
+    "Fortinet",
+    "Okta"
    ],
    "d": 2,
-   "e": "The 10-year yield fell about 0.1 percentage point to roughly 4.9%, down from about 5.05% the day before. Bond prices and yields move in opposite directions, so demand for safe-haven bonds pushes yields down.",
-   "h": "Prices up, yields down.",
-   "q": "As stocks sold off on Nov 20, 2026, investors bought Treasury bonds. What happened to the 10-year Treasury yield?"
+   "e": "CrowdStrike and Zscaler said Zscaler holders will get 1.135 CrowdStrike shares per share, bringing Zscaler's zero trust network security into CrowdStrike's Falcon platform. The deal still needs shareholder and regulatory approval.",
+   "h": "Its name starts with the last letter of the alphabet.",
+   "q": "CrowdStrike announced on Nov 23 that it agreed to buy which cybersecurity company in an all-stock deal valued at about $43.9 billion?"
   }
  ]
 }
