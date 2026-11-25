@@ -1,67 +1,67 @@
 {
  "asOf": "2026-11-24",
- "id": "2026-11-23",
- "label": "Mon, Nov 23",
+ "id": "2026-11-24",
+ "label": "Tue, Nov 24",
  "questions": [
   {
    "a": [
-    "It reinstated Jensen Huang as CEO and president",
-    "It announced a 10-for-1 stock split",
-    "It named Colette Kress permanent CEO",
-    "It agreed to sell the company"
+    "50,000",
+    "40,000",
+    "45,000",
+    "60,000"
    ],
    "d": 1,
-   "e": "Nvidia's board voted unanimously to reinstate Jensen Huang as president, CEO and board director, effective immediately, 11 days after he resigned. Interim CEO Colette Kress returned to her CFO role.",
-   "h": "A familiar face came back.",
-   "q": "What news from Nvidia's board sparked Monday's huge rally in chip and AI stocks?"
+   "e": "The Dow gained about 423 points to close at roughly 50,019, finishing above 50,000 as investors rotated into health care, consumer and value stocks.",
+   "h": "Think of a big round number that starts with 5.",
+   "q": "On Tuesday, Nov 24, the Dow Jones Industrial Average rose about 0.85%. Which round-number level did it close back above?"
   },
   {
    "a": [
-    "It rose more than 30%",
-    "It rose about 3%",
-    "It rose about 12%",
-    "It fell about 5%"
+    "Down about 1.5%",
+    "Up about 1.5%",
+    "Down about 6%",
+    "Unchanged"
    ],
    "d": 1,
-   "e": "Nvidia shares jumped about 31% to around $165 after Huang's reinstatement. Yahoo Finance called it the stock's best day since May 2003.",
-   "h": "Think bigger than a normal big day.",
-   "q": "Roughly how much did Nvidia's stock move on Monday, Nov 23?"
+   "e": "The Nasdaq fell about 1.48% to roughly 23,734 as chip and AI stocks gave back part of Monday's big rally. The S&P 500 slipped about 0.5%.",
+   "h": "Tech stocks had a rough day after a huge Monday.",
+   "q": "While the Dow rose on Nov 24, how did the tech-heavy Nasdaq Composite finish the day?"
   },
   {
    "a": [
-    "Nasdaq Composite",
-    "Dow Jones Industrial Average",
-    "S&P 500",
-    "Russell 2000"
-   ],
-   "d": 1,
-   "e": "The tech-heavy Nasdaq Composite rose about 6.5%, ahead of the S&P 500 (about 4.7%), the Russell 2000 (about 3.4%) and the Dow (about 3%). It was the Nasdaq's best day since April 2025.",
-   "h": "Tech-heavy index, tech-led rally.",
-   "q": "Which major U.S. index posted the largest percentage gain on Monday?"
-  },
-  {
-   "a": [
-    "About 1,450 points",
-    "About 150 points",
-    "About 450 points",
-    "It fell about 900 points"
+    "It was the highest level since January 2025",
+    "It was the lowest level on record",
+    "It exactly matched forecasts",
+    "It fell for a third straight month"
    ],
    "d": 2,
-   "e": "The Dow added 1,447.98 points, or about 3%, to close at 49,595.31, rebounding after a steep losing week that left the major indexes in correction territory.",
-   "h": "More than a thousand.",
-   "q": "About how many points did the Dow Jones Industrial Average gain on Monday?"
+   "e": "The index rose 11.4 points to 103.3, its highest since January 2025 and far above the roughly 92 economists expected.",
+   "h": "It was a big upside surprise.",
+   "q": "The Conference Board's Consumer Confidence Index, released Nov 24, jumped to 103.3. What made the reading notable?"
   },
   {
    "a": [
-    "Zscaler",
-    "Palo Alto Networks",
-    "Fortinet",
-    "Okta"
+    "Sanofi",
+    "Pfizer",
+    "Merck",
+    "Eli Lilly"
    ],
    "d": 2,
-   "e": "CrowdStrike and Zscaler said Zscaler holders will get 1.135 CrowdStrike shares per share, bringing Zscaler's zero trust network security into CrowdStrike's Falcon platform. The deal still needs shareholder and regulatory approval.",
-   "h": "Its name starts with the last letter of the alphabet.",
-   "q": "CrowdStrike announced on Nov 23 that it agreed to buy which cybersecurity company in an all-stock deal valued at about $43.9 billion?"
+   "e": "Sanofi agreed to buy Insmed for $175 per share in cash, an equity value of about $41 billion, adding respiratory drugs like Brinsupri.",
+   "h": "It's a French pharmaceutical company.",
+   "q": "Which drugmaker announced on Nov 24 that it agreed to acquire U.S. biotech Insmed?"
+  },
+  {
+   "a": [
+    "Markets close Thursday for Thanksgiving, with an early close Friday",
+    "Markets are closed all week",
+    "Markets stay open on Thanksgiving Day",
+    "Markets close Friday but are open Thursday"
+   ],
+   "d": 1,
+   "e": "U.S. stock markets are closed on Thanksgiving Day, Thursday Nov 26, and close early at 1 p.m. ET on Friday, Nov 27.",
+   "h": "Turkey day.",
+   "q": "What is on the U.S. stock market calendar later this week, after the Nov 24 session?"
   }
  ]
 }

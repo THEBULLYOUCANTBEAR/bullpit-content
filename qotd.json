@@ -1,16 +1,16 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "q": {
   "a": [
-   "Merrill Lynch",
-   "Morgan Stanley",
-   "Lehman Brothers",
-   "Bear Stearns"
+   "March 2000",
+   "December 1999",
+   "September 2001",
+   "January 1998"
   ],
-  "c": "W",
+  "c": "H",
   "d": 2,
-  "e": "O'Neal served as CEO until 2007. The firm, known for its bull logo, was acquired by Bank of America during the 2008 crisis.",
-  "h": "It was famous for its 'thundering herd' of retail brokers.",
-  "q": "In 2002, Stanley O'Neal became the first African American to lead a major Wall Street firm. Which one?"
+  "e": "The Nasdaq closed above 5,000 in March 2000, then fell nearly 78% by October 2002.",
+  "h": "The first spring of the new millennium.",
+  "q": "The Nasdaq Composite peaked at the height of the dot-com bubble in which month?"
  }
 }
