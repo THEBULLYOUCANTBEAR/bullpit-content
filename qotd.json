@@ -1,16 +1,16 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "q": {
   "a": [
-   "March 2000",
-   "December 1999",
-   "September 2001",
-   "January 1998"
+   "Michael Jordan",
+   "Magic Johnson",
+   "Larry Bird",
+   "Charles Barkley"
   ],
-  "c": "H",
-  "d": 2,
-  "e": "The Nasdaq closed above 5,000 in March 2000, then fell nearly 78% by October 2002.",
-  "h": "The first spring of the new millennium.",
-  "q": "The Nasdaq Composite peaked at the height of the dot-com bubble in which month?"
+  "c": "V",
+  "d": 1,
+  "e": "The deal created the Air Jordan line, which grew into one of Nike's biggest businesses and a template for athlete-branded products.",
+  "h": "His shoe line still carries his name decades later.",
+  "q": "The 2023 film \"Air\" is about Nike's effort to sign which rookie basketball player in 1984?"
  }
 }

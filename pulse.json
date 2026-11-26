@@ -1,67 +1,67 @@
 {
- "asOf": "2026-11-24",
- "id": "2026-11-24",
- "label": "Tue, Nov 24",
+ "asOf": "2026-11-25",
+ "id": "2026-11-25",
+ "label": "Wed, Nov 25",
  "questions": [
   {
    "a": [
-    "50,000",
-    "40,000",
-    "45,000",
-    "60,000"
+    "Dow Jones Industrial Average",
+    "S&P 500",
+    "Nasdaq Composite",
+    "None, all three closed lower"
    ],
    "d": 1,
-   "e": "The Dow gained about 423 points to close at roughly 50,019, finishing above 50,000 as investors rotated into health care, consumer and value stocks.",
-   "h": "Think of a big round number that starts with 5.",
-   "q": "On Tuesday, Nov 24, the Dow Jones Industrial Average rose about 0.85%. Which round-number level did it close back above?"
+   "e": "The Dow rose about 0.3% to 50,182.95, while the S&P 500 slipped about 0.3% and the Nasdaq Composite fell about 0.6% as AI stocks stayed weak.",
+   "h": "It's the 30-stock, price-weighted index.",
+   "q": "On Wednesday, Nov 25, 2026, which major U.S. index was the only one of the big three to finish the day higher?"
   },
   {
    "a": [
-    "Down about 1.5%",
-    "Up about 1.5%",
-    "Down about 6%",
-    "Unchanged"
-   ],
-   "d": 1,
-   "e": "The Nasdaq fell about 1.48% to roughly 23,734 as chip and AI stocks gave back part of Monday's big rally. The S&P 500 slipped about 0.5%.",
-   "h": "Tech stocks had a rough day after a huge Monday.",
-   "q": "While the Dow rose on Nov 24, how did the tech-heavy Nasdaq Composite finish the day?"
-  },
-  {
-   "a": [
-    "It was the highest level since January 2025",
-    "It was the lowest level on record",
-    "It exactly matched forecasts",
-    "It fell for a third straight month"
+    "More than 1,100 points",
+    "About 100 points",
+    "About 5,000 points",
+    "About 10,000 points"
    ],
    "d": 2,
-   "e": "The index rose 11.4 points to 103.3, its highest since January 2025 and far above the roughly 92 economists expected.",
-   "h": "It was a big upside surprise.",
-   "q": "The Conference Board's Consumer Confidence Index, released Nov 24, jumped to 103.3. What made the reading notable?"
+   "e": "The Dow was down more than 1,100 points at its low before late buying pushed it to a 164-point gain at the close.",
+   "h": "Think four digits, but just barely.",
+   "q": "The Dow staged a big comeback on Nov 25, 2026. Roughly how large was its intraday loss before it rallied to close in the green?"
   },
   {
    "a": [
-    "Sanofi",
-    "Pfizer",
-    "Merck",
-    "Eli Lilly"
+    "About 3%",
+    "About 0.5%",
+    "About 8%",
+    "About 12%"
    ],
    "d": 2,
-   "e": "Sanofi agreed to buy Insmed for $175 per share in cash, an equity value of about $41 billion, adding respiratory drugs like Brinsupri.",
-   "h": "It's a French pharmaceutical company.",
-   "q": "Which drugmaker announced on Nov 24 that it agreed to acquire U.S. biotech Insmed?"
+   "e": "The S&P 500 was down as much as 3.2% in the morning sell-off led by AI stocks, then recovered most of that to finish down 18.31 points at 7,182.78.",
+   "h": "A sizable drop, but far short of a crash day.",
+   "q": "At its worst point on Nov 25, 2026, about how far was the S&P 500 down on the day before it recovered to close just 0.25% lower?"
   },
   {
    "a": [
-    "Markets close Thursday for Thanksgiving, with an early close Friday",
-    "Markets are closed all week",
-    "Markets stay open on Thanksgiving Day",
-    "Markets close Friday but are open Thursday"
+    "3.8%",
+    "1.5%",
+    "6.5%",
+    "9.0%"
+   ],
+   "d": 2,
+   "e": "Headline PCE prices rose 3.8% year over year in October (core, excluding food and energy, rose 3.3%), well above the Fed's 2% target.",
+   "h": "Nearly double the Fed's 2% target.",
+   "q": "The BEA's October 2026 report, released Nov 25, showed the PCE price index (the Fed's preferred inflation gauge) up how much from a year earlier?"
+  },
+  {
+   "a": [
+    "It fell about 8 basis points, to roughly 4.8%",
+    "It rose above 5.5%",
+    "It was unchanged",
+    "It jumped about 50 basis points"
    ],
    "d": 1,
-   "e": "U.S. stock markets are closed on Thanksgiving Day, Thursday Nov 26, and close early at 1 p.m. ET on Friday, Nov 27.",
-   "h": "Turkey day.",
-   "q": "What is on the U.S. stock market calendar later this week, after the Nov 24 session?"
+   "e": "Investors bought Treasuries for protection, pushing bond prices up and the 10-year yield down to roughly 4.82%-4.85%. Bond prices and yields move in opposite directions.",
+   "h": "When bond buyers rush in, yields go the other way.",
+   "q": "What happened to the 10-year Treasury yield on Nov 25, 2026, as investors bought bonds during the stock sell-off?"
   }
  ]
 }
