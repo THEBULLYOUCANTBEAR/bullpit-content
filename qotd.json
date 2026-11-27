@@ -1,16 +1,16 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "q": {
   "a": [
-   "Michael Jordan",
-   "Magic Johnson",
-   "Larry Bird",
-   "Charles Barkley"
+   "It stays the same",
+   "It doubles",
+   "It's cut in half",
+   "It becomes zero"
   ],
-  "c": "V",
+  "c": "M",
   "d": 1,
-  "e": "The deal created the Air Jordan line, which grew into one of Nike's biggest businesses and a template for athlete-branded products.",
-  "h": "His shoe line still carries his name decades later.",
-  "q": "The 2023 film \"Air\" is about Nike's effort to sign which rookie basketball player in 1984?"
+  "e": "You get twice the shares at half the price. The pie is cut into more slices, but it is the same pie.",
+  "h": "More slices, same pizza.",
+  "q": "After a 2-for-1 stock split, what happens to your position's total value?"
  }
 }
